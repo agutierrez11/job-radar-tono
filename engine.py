@@ -1,180 +1,206 @@
 import json
-import pandas as pd
+import re
+import requests
 from datetime import datetime
+from bs4 import BeautifulSoup
 
 # --- Configuración del Perfil de Toño ---
-# Ajustado según las últimas conversaciones
 USER_PROFILE = {
-    'experiencia_core': ['fiserv', 'clip', 'adquirencia', 'pos', 'pagos digitales'],
-    'conocimientos_clave': ['kyc', 'aml', 'pagos transfronterizos', 'fintech'],
-    'roles_preferidos': ['sales', 'ventas', 'comercial', 'account', 'business development', 'bd manager', 'hunter', 'director', 'lider'],
+    'experiencia_core': ['fiserv', 'clip', 'adquirencia', 'pos', 'pagos digitales', 'payment', 'payments', 'pagos', 'acquiring', 'card', 'cards'],
+    'conocimientos_clave': ['kyc', 'aml', 'pagos transfronterizos', 'fintech', 'crypto', 'blockchain', 'compliance'],
+    'roles_preferidos': ['sales', 'ventas', 'comercial', 'account', 'business development', 'bd manager', 'hunter', 'director', 'lider', 'manager', 'lead', 'representative', 'growth'],
     'segmentos_preferidos': ['b2b', 'pyme', 'enterprise', 'latam', 'mexico'],
-    'ubicacion_preferida': ['cancun', 'remoto', 'remote', 'mexico'],
+    'ubicacion_preferida': ['cancun', 'remoto', 'remote', 'mexico', 'latam'],
     'herramientas_bonus': ['salesforce', 'pipedrive', 'apollo', 'sales navigator'],
-    'anios_experiencia_min': 5 # Ajustado a tu nivel de experiencia
+    'anios_experiencia_min': 5
 }
 
-# --- Lógica de Scoring (Ajustada y Mejorada) ---
-def calculate_score(job_title, job_description, company, location, url):
+# --- Lógica de Scoring con Regex y Límites de Palabra ---
+def calculate_score(job_title, job_description, company, location):
     score = 0
-    text_to_analyze = (job_title + " " + job_description + " " + company + " " + location).lower()
+    text_to_analyze = f"{job_title} {job_description} {company} {location}".lower()
+    title_lower = job_title.lower()
+
+    # Función auxiliar para buscar coincidencia exacta de palabra
+    def contains_keyword(keyword, text):
+        keyword = keyword.lower()
+        if len(keyword) <= 4 or keyword.isalnum():
+            # Exige límites de palabra completa (\b)
+            pattern = r'\b' + re.escape(keyword) + r'\b'
+            return bool(re.search(pattern, text))
+        else:
+            # Búsqueda substring para términos largos o compuestos
+            return keyword in text
 
     # Nivel 1: Core Business (Pagos, Fintech, KYC/AML, Adquirencia) - Peso Alto
-    if any(keyword in text_to_analyze for keyword in USER_PROFILE['experiencia_core'] + USER_PROFILE['conocimientos_clave']):
+    core_keywords = USER_PROFILE['experiencia_core'] + USER_PROFILE['conocimientos_clave']
+    matched_core = [kw for kw in core_keywords if contains_keyword(kw, text_to_analyze)]
+    if matched_core:
         score += 40
 
-    # Nivel 2: Rol Específico (Ventas, BD, Account Management) - Peso Alto
-    if any(keyword in job_title.lower() for keyword in USER_PROFILE['roles_preferidos']):
+    # Nivel 2: Rol Específico (Ventas, BD, Account Management, Growth) - Peso Alto
+    matched_roles = [kw for kw in USER_PROFILE['roles_preferidos'] if contains_keyword(kw, title_lower)]
+    if matched_roles:
         score += 30
 
     # Nivel 3: Segmento (B2B, LATAM, Enterprise) - Peso Medio
-    if any(keyword in text_to_analyze for keyword in USER_PROFILE['segmentos_preferidos']):
+    matched_segments = [kw for kw in USER_PROFILE['segmentos_preferidos'] if contains_keyword(kw, text_to_analyze)]
+    if matched_segments:
         score += 15
 
     # Nivel 4: Tecnología/SaaS - Peso Medio
-    if 'saas' in text_to_analyze or 'software' in text_to_analyze or 'tech' in text_to_analyze:
+    if any(contains_keyword(kw, text_to_analyze) for kw in ['saas', 'software', 'tech', 'technology', 'plataforma', 'platform']):
         score += 10
 
     # Nivel 5: Ubicación/Modalidad (Prioridad Remoto/México/LATAM) - Peso Bajo
-    if any(keyword in location.lower() for keyword in USER_PROFILE['ubicacion_preferida']):
+    matched_locations = [kw for kw in USER_PROFILE['ubicacion_preferida'] if contains_keyword(kw, location.lower())]
+    if matched_locations:
         score += 5
 
     # Bonus por Herramientas Conocidas
-    if any(tool in text_to_analyze for tool in USER_PROFILE['herramientas_bonus']):
-        score += 5 # Pequeño bonus por herramientas que ya dominas
+    matched_tools = [kw for kw in USER_PROFILE['herramientas_bonus'] if contains_keyword(kw, text_to_analyze)]
+    if matched_tools:
+        score += 5
 
-    # Penalización por roles puramente técnicos o junior
-    if any(keyword in job_title.lower() for keyword in ['engineer', 'developer', 'contable', 'analista de datos', 'junior', 'entry level']):
-        score -= 20 # Penalización moderada
-
-    # Asegurar que el score no sea negativo
-    return max(0, score)
-
-# --- Función para simular la búsqueda de vacantes (Aquí iría el scraping real) ---
-def fetch_new_vacancies():
-    # En una implementación real, aquí se integrarían los scrapers para LinkedIn, Indeed, etc.
-    # Por ahora, usamos una lista de ejemplo para demostrar el scoring.
-    print("Simulando la búsqueda de nuevas vacantes...")
-    new_jobs_data = [
-        {
-            "empresa": "Stripe",
-            "puesto": "Sales Lead, LATAM",
-            "descripcion": "Drive revenue growth for Stripe in Latin America, focusing on enterprise clients and payment solutions.",
-            "ubicacion": "Remote - LATAM",
-            "url": "https://stripe.com/careers/sales-lead-latam"
-        },
-        {
-            "empresa": "Adyen",
-            "puesto": "Account Executive, Mexico",
-            "descripcion": "Manage a portfolio of key enterprise accounts in Mexico, selling Adyen's payment platform.",
-            "ubicacion": "Mexico City, Mexico (Hybrid)",
-            "url": "https://adyen.com/careers/account-executive-mexico"
-        },
-        {
-            "empresa": "Ebanx",
-            "puesto": "Business Development Manager, Cross-Border Payments",
-            "descripcion": "Identify and close new business opportunities for cross-border payment solutions in LATAM. Experience with KYC/AML a plus.",
-            "ubicacion": "Remote - Brazil (LATAM)",
-            "url": "https://ebanx.com/careers/bd-manager"
-        },
-        {
-            "empresa": "Nuvei",
-            "puesto": "VP, Solutions and Implementations (Americas)",
-            "descripcion": "Lead the solutions and implementation team for payment processing across the Americas. Strong B2B experience required.",
-            "ubicacion": "Remote - Americas",
-            "url": "https://nuvei.com/careers/vp-solutions"
-        },
-        {
-            "empresa": "Rapyd",
-            "puesto": "Commercial Director (LATAM)",
-            "descripcion": "Oversee commercial strategy and drive sales for Rapyd's Fintech-as-a-Service platform in Latin America.",
-            "ubicacion": "Remote - LATAM",
-            "url": "https://rapyd.net/careers/commercial-director-latam"
-        },
-        {
-            "empresa": "Bitso",
-            "puesto": "General Manager (Bitso Business)",
-            "descripcion": "Lead Bitso Business operations, focusing on crypto payment solutions for B2B clients in Mexico.",
-            "ubicacion": "Mexico (Remote)",
-            "url": "https://bitso.com/careers/general-manager"
-        },
-        {
-            "empresa": "OKX",
-            "puesto": "Principal Product Manager (Growth - LATAM)",
-            "descripcion": "Define product strategy for growth initiatives in Latin America, focusing on crypto and fintech products.",
-            "ubicacion": "Remote - LATAM",
-            "url": "https://okx.com/careers/product-manager"
-        },
-        {
-            "empresa": "Binance",
-            "puesto": "Institutional Sales Manager (LATAM)",
-            "descripcion": "Manage institutional client relationships and drive sales of Binance's crypto products to large financial institutions in LATAM.",
-            "ubicacion": "Remote - LATAM",
-            "url": "https://binance.com/es/careers/institutional-sales"
-        },
-        {
-            "empresa": "Valutico",
-            "puesto": "Account Executive: LATAM",
-            "descripcion": "Sell Valutico's AI-powered valuation platform to financial professionals across Latin America. B2B SaaS sales experience required.",
-            "ubicacion": "Remote - LATAM",
-            "url": "https://jobs.workable.com/view/ePQ6cvqtqVMK4Qyeo65j3a/remote-account-executive%3A-latam-(portuguese-or-spanish-speaking)-in-mexico-at-valutico"
-        },
-        {
-            "empresa": "Sumsub",
-            "puesto": "Business Development Manager, Mexico",
-            "descripcion": "Drive sales for Sumsub's KYC/AML verification platform in Mexico. Hunter mentality and strong LATAM network required.",
-            "ubicacion": "Remote - Mexico",
-            "url": "https://careers.sumsub.com/jobs/7068282-business-development-manager-mexico"
-        }
+    # Penalización por roles puramente técnicos o no relacionados
+    tech_keywords = [
+        'engineer', 'engineering', 'developer', 'developers', 'programmer', 
+        'architect', 'technical', 'tech lead', 'frontend', 'backend', 'fullstack',
+        'qa', 'tester', 'designer', 'diseñador', 'data analyst', 'analista de datos',
+        'contable', 'accountant', 'junior', 'entry level'
     ]
+    matched_tech = [kw for kw in tech_keywords if contains_keyword(kw, title_lower)]
+    if matched_tech:
+        score -= 50  # Penalización severa para evitar roles de software o analistas técnicos
+
+    # Asegurar que el score no sea negativo ni exceda 100
+    return min(100, max(0, score))
+
+def clean_description(html_content):
+    """Limpia el contenido HTML de las descripciones para guardarlo como texto limpio."""
+    if not html_content:
+        return ""
+    soup = BeautifulSoup(html_content, "lxml")
+    # Remover scripts y estilos
+    for script in soup(["script", "style"]):
+        script.extract()
+    text = soup.get_text(separator=" ")
+    # Limpiar espacios en blanco adicionales
+    text = re.sub(r'\s+', ' ', text).strip()
+    return text[:200] + "..." if len(text) > 200 else text
+
+# --- Scrapers de APIs de Empleo Reales ---
+def fetch_jobicy_jobs(query):
+    print(f"Buscando en Jobicy para: '{query}'...")
+    url = f"https://jobicy.com/api/v2/remote-jobs?count=50&tag={query}"
+    jobs = []
+    try:
+        response = requests.get(url, timeout=15)
+        if response.status_code == 200:
+            raw_jobs = response.json().get("jobs", [])
+            for r in raw_jobs:
+                jobs.append({
+                    "empresa": r.get("companyName"),
+                    "puesto": r.get("jobTitle"),
+                    "descripcion": clean_description(r.get("jobDescription")),
+                    "ubicacion": r.get("jobGeo", "Remote"),
+                    "url": r.get("url")
+                })
+        else:
+            print(f"Error de Jobicy ({response.status_code}) para '{query}'")
+    except Exception as e:
+        print(f"Error al conectar con Jobicy para '{query}': {e}")
+    return jobs
+
+def fetch_remotive_jobs(query):
+    print(f"Buscando en Remotive para: '{query}'...")
+    url = f"https://remotive.com/api/remote-jobs?search={query}&limit=50"
+    jobs = []
+    try:
+        response = requests.get(url, timeout=15)
+        if response.status_code == 200:
+            raw_jobs = response.json().get("jobs", [])
+            for r in raw_jobs:
+                jobs.append({
+                    "empresa": r.get("company_name"),
+                    "puesto": r.get("title"),
+                    "descripcion": clean_description(r.get("description")),
+                    "ubicacion": r.get("candidate_required_location", "Remote"),
+                    "url": r.get("url")
+                })
+        else:
+            print(f"Error de Remotive ({response.status_code}) para '{query}'")
+    except Exception as e:
+        print(f"Error al conectar con Remotive para '{query}': {e}")
+    return jobs
+
+def fetch_all_live_vacancies():
+    all_jobs = []
+    # Consultamos términos relevantes para el perfil de Toño
+    search_queries = ["payments", "fintech", "sales"]
+    
+    for query in search_queries:
+        all_jobs += fetch_jobicy_jobs(query)
+        all_jobs += fetch_remotive_jobs(query)
+        
+    print(f"Se obtuvieron {len(all_jobs)} vacantes brutas en total.")
+    
+    # Eliminar duplicados por URL de vacante
+    unique_jobs = {job['url']: job for job in all_jobs}.values()
+    print(f"Quedaron {len(unique_jobs)} vacantes únicas después de deduplicar.")
     
     processed_jobs = []
-    for job in new_jobs_data:
-        score = calculate_score(job['puesto'], job['descripcion'], job['empresa'], job['ubicacion'], job['url'])
+    for job in unique_jobs:
+        score = calculate_score(job['puesto'], job['descripcion'], job['empresa'], job['ubicacion'])
+        
+        # Guardamos la justificación explicando por qué es un match
+        justification_parts = []
+        text_lower = f"{job['puesto']} {job['descripcion']} {job['empresa']} {job['ubicacion']}".lower()
+        
+        # Construir justificación dinámica basada en los matches
+        matched_cores = [kw for kw in USER_PROFILE['experiencia_core'] + USER_PROFILE['conocimientos_clave'] if kw.lower() in text_lower]
+        if matched_cores:
+            justification_parts.append(f"Sector: Coincide con tu experiencia en {', '.join(matched_cores[:3]).upper()}.")
+            
+        matched_roles = [kw for kw in USER_PROFILE['roles_preferidos'] if kw.lower() in job['puesto'].lower()]
+        if matched_roles:
+            justification_parts.append(f"Rol: Posición de {', '.join(matched_roles).capitalize()}.")
+            
+        if any(kw in job['ubicacion'].lower() for kw in USER_PROFILE['ubicacion_preferida']):
+            justification_parts.append("Modalidad: Remoto / Cobertura LATAM.")
+            
+        justification = " ".join(justification_parts) if justification_parts else "Coincidencia de perfil comercial tecnológico."
+        
         processed_jobs.append({
             "empresa": job["empresa"],
             "puesto": job["puesto"],
             "ubicacion": job["ubicacion"],
             "url": job["url"],
-            "match_score": round(score / 100, 2), # Normalizar a 0-1 para el JSON
-            "justificacion": f"Score basado en: {job['descripcion'][:50]}..."
+            "match_score": round(score / 100, 2),
+            "justificacion": justification
         })
+        
     return processed_jobs
 
-# --- Función principal para actualizar el radar ---
+# --- Función Principal para Actualizar el Radar ---
 def update_job_radar():
-    current_vacancies = []
-    try:
-        with open('vacancies.json', 'r', encoding='utf-8') as f:
-            current_vacancies = json.load(f)
-    except FileNotFoundError:
-        print("vacancies.json no encontrado, creando uno nuevo.")
-    except json.JSONDecodeError:
-        print("Error al leer vacancies.json, se creará uno nuevo.")
-
-    new_jobs = fetch_new_vacancies()
-    updated_vacancies = []
-    existing_urls = {v['url'] for v in current_vacancies}
-
-    for job in new_jobs:
-        if job['url'] not in existing_urls:
-            updated_vacancies.append(job)
-        else:
-            # Si ya existe, podríamos actualizar el score o la justificación si es necesario
-            # Por ahora, simplemente mantenemos la existente si no hay cambios significativos
-            pass
-
-    # Combinar y eliminar duplicados (si el scraper trae duplicados)
-    all_vacancies = current_vacancies + updated_vacancies
-    unique_vacancies = {v['url']: v for v in all_vacancies}.values()
-
-    # Ordenar por score de mayor a menor
-    sorted_vacancies = sorted(list(unique_vacancies), key=lambda x: x['match_score'], reverse=True)
+    # Para limpiar los datos mock previos y enlaces caídos, 
+    # nos enfocaremos únicamente en las vacantes frescas obtenidas hoy en vivo.
+    new_jobs = fetch_all_live_vacancies()
+    
+    # Filtrar para mantener solo trabajos con match_score >= 0.40 (40%+)
+    relevant_new_jobs = [job for job in new_jobs if job['match_score'] >= 0.40]
+    
+    # Usamos únicamente las vacantes vivas
+    all_vacancies_dict = {job['url']: job for job in relevant_new_jobs}
+        
+    # Ordenar todas por score de mayor a menor y limitar a las mejores 50
+    sorted_vacancies = sorted(list(all_vacancies_dict.values()), key=lambda x: x['match_score'], reverse=True)[:50]
 
     with open('vacancies.json', 'w', encoding='utf-8') as f:
         json.dump(sorted_vacancies, f, indent=4, ensure_ascii=False)
     
-    print(f"Radar actualizado. Se añadieron {len(updated_vacancies)} nuevas vacantes. Total: {len(sorted_vacancies)}.")
+    print(f"Radar actualizado. Se guardaron las mejores {len(sorted_vacancies)} vacantes vivas con score >= 40%.")
 
 if __name__ == "__main__":
     update_job_radar()

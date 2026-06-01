@@ -1,130 +1,122 @@
 [
     {
-        "empresa": "Rapyd",
-        "puesto": "Commercial Director (LATAM)",
-        "ubicacion": "Remote - LATAM",
-        "url": "https://rapyd.net/careers/commercial-director-latam",
-        "match_score": 1.0,
-        "justificacion": "Score basado en: Oversee commercial strategy and drive sales for Ra..."
-    },
-    {
-        "empresa": "Bitso",
-        "puesto": "General Manager (Bitso Business)",
-        "match_score": 0.99,
-        "url": "https://bitso.com/careers",
-        "ubicacion": "Mexico (Remote)",
-        "justificacion": "Liderazgo en operaciones de Bitso Business, enfocado en soluciones de pago con cripto para clientes B2B en México."
-    },
-    {
-        "empresa": "OKX",
-        "puesto": "Principal Product Manager (Growth - LATAM)",
-        "match_score": 0.97,
-        "url": "https://www.okx.com/careers",
-        "ubicacion": "Remote - LATAM",
-        "justificacion": "Definición de estrategia de producto para iniciativas de crecimiento en LATAM, enfocándose en productos cripto y fintech."
-    },
-    {
-        "empresa": "Binance",
-        "puesto": "Institutional Sales Manager (LATAM)",
-        "match_score": 0.96,
-        "url": "https://www.binance.com/es/careers",
-        "ubicacion": "Remote - LATAM",
-        "justificacion": "Gestión de relaciones con clientes institucionales e impulso de ventas de productos cripto de Binance a grandes instituciones financieras en LATAM."
-    },
-    {
-        "empresa": "EBANX",
-        "puesto": "Regional Lead / Country Manager (North Cone)",
-        "match_score": 0.95,
-        "url": "https://www.ebanx.com/en/careers",
-        "ubicacion": "Remote - LATAM",
-        "justificacion": "Liderazgo regional/Country Manager para el Cono Norte, con enfoque en pagos transfronterizos."
-    },
-    {
-        "empresa": "Nuvei",
-        "puesto": "VP, Solutions and Implementations (Americas)",
-        "match_score": 0.93,
-        "url": "https://nuvei.com/careers",
-        "ubicacion": "Remote - Americas",
-        "justificacion": "Liderar el equipo de soluciones e implementaciones para el procesamiento de pagos en América. Experiencia B2B sólida requerida."
-    },
-    {
-        "empresa": "Rapyd",
-        "puesto": "Commercial Director (LATAM)",
-        "match_score": 0.91,
-        "url": "https://www.rapyd.net/careers",
-        "ubicacion": "Remote - LATAM",
-        "justificacion": "Supervisar la estrategia comercial e impulsar las ventas para la plataforma Fintech-as-a-Service de Rapyd en América Latina."
-    },
-    {
-        "empresa": "Ebanx",
-        "puesto": "Business Development Manager, Cross-Border Payments",
-        "ubicacion": "Remote - Brazil (LATAM)",
-        "url": "https://ebanx.com/careers/bd-manager",
-        "match_score": 0.9,
-        "justificacion": "Score basado en: Identify and close new business opportunities for ..."
-    },
-    {
-        "empresa": "Sumsub",
-        "puesto": "Business Development Manager, Mexico",
-        "ubicacion": "Remote - Mexico",
-        "url": "https://careers.sumsub.com/jobs/7068282-business-development-manager-mexico",
-        "match_score": 0.9,
-        "justificacion": "Score basado en: Drive sales for Sumsub's KYC/AML verification plat..."
-    },
-    {
-        "empresa": "OKX",
-        "puesto": "Principal Product Manager (Growth - LATAM)",
-        "ubicacion": "Remote - LATAM",
-        "url": "https://okx.com/careers/product-manager",
+        "empresa": "Monzo",
+        "puesto": "Senior Product Manager, Payments",
+        "ubicacion": "UK",
+        "url": "https://jobicy.com/jobs/144720-senior-product-manager-payments",
         "match_score": 0.7,
-        "justificacion": "Score basado en: Define product strategy for growth initiatives in ..."
+        "justificacion": "Sector: Coincide con tu experiencia en PAYMENT, PAYMENTS, CARD. Rol: Posición de Manager."
     },
     {
-        "empresa": "Valutico",
-        "puesto": "Account Executive: LATAM",
-        "ubicacion": "Remote - LATAM",
-        "url": "https://jobs.workable.com/view/ePQ6cvqtqVMK4Qyeo65j3a/remote-account-executive%3A-latam-(portuguese-or-spanish-speaking)-in-mexico-at-valutico",
-        "match_score": 0.6,
-        "justificacion": "Score basado en: Sell Valutico's AI-powered valuation platform to f..."
+        "empresa": "Monzo",
+        "puesto": "Sales Account Executive",
+        "ubicacion": "UK",
+        "url": "https://jobicy.com/jobs/144717-sales-account-executive",
+        "match_score": 0.7,
+        "justificacion": "Sector: Coincide con tu experiencia en CARD. Rol: Posición de Sales, account."
     },
     {
-        "empresa": "Stripe",
-        "puesto": "Sales Lead, LATAM",
-        "ubicacion": "Remote - LATAM",
-        "url": "https://stripe.com/careers/sales-lead-latam",
+        "empresa": "Samsara",
+        "puesto": "Regional Sales Director, Strategic Enterprise – UK",
+        "ubicacion": "UK",
+        "url": "https://jobicy.com/jobs/144334-regional-sales-director-strategic-enterprise-uk",
+        "match_score": 0.55,
+        "justificacion": "Rol: Posición de Sales, director."
+    },
+    {
+        "empresa": "Caul Group",
+        "puesto": "Director of Revenue Systems and AI Automation (Offshore) ",
+        "ubicacion": "LATAM",
+        "url": "https://remotive.com/remote-jobs/artificial-intelligence/director-of-revenue-systems-and-ai-automation-offshore-2090878",
         "match_score": 0.5,
-        "justificacion": "Score basado en: Drive revenue growth for Stripe in Latin America, ..."
+        "justificacion": "Rol: Posición de Director. Modalidad: Remoto / Cobertura LATAM."
     },
     {
-        "empresa": "Adyen",
-        "puesto": "Account Executive, Mexico",
-        "ubicacion": "Mexico City, Mexico (Hybrid)",
-        "url": "https://adyen.com/careers/account-executive-mexico",
-        "match_score": 0.5,
-        "justificacion": "Score basado en: Manage a portfolio of key enterprise accounts in M..."
+        "empresa": "Huble",
+        "puesto": "French-Speaking CRM Sales Enablement Consultant",
+        "ubicacion": "Germany",
+        "url": "https://jobicy.com/jobs/144908-french-speaking-crm-sales-enablement-consultant",
+        "match_score": 0.45,
+        "justificacion": "Rol: Posición de Sales."
     },
     {
-        "empresa": "Binance",
-        "puesto": "Institutional Sales Manager (LATAM)",
-        "ubicacion": "Remote - LATAM",
-        "url": "https://binance.com/es/careers/institutional-sales",
-        "match_score": 0.5,
-        "justificacion": "Score basado en: Manage institutional client relationships and driv..."
+        "empresa": "Gympass",
+        "puesto": "SMB Sales Account Executive",
+        "ubicacion": "Italy",
+        "url": "https://jobicy.com/jobs/144836-smb-sales-account-executive",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición de Sales, account."
     },
     {
-        "empresa": "Nuvei",
-        "puesto": "VP, Solutions and Implementations (Americas)",
-        "ubicacion": "Remote - Americas",
-        "url": "https://nuvei.com/careers/vp-solutions",
-        "match_score": 0.2,
-        "justificacion": "Score basado en: Lead the solutions and implementation team for pay..."
+        "empresa": "Tripadvisor",
+        "puesto": "Inside Sales Representative – London",
+        "ubicacion": "UK",
+        "url": "https://jobicy.com/jobs/144723-inside-sales-representative-london",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición de Sales, representative."
     },
     {
-        "empresa": "Bitso",
-        "puesto": "General Manager (Bitso Business)",
-        "ubicacion": "Mexico (Remote)",
-        "url": "https://bitso.com/careers/general-manager",
-        "match_score": 0.2,
-        "justificacion": "Score basado en: Lead Bitso Business operations, focusing on crypto..."
+        "empresa": "Upwind Security",
+        "puesto": "Sales Development Representative (US, Remote)",
+        "ubicacion": "USA",
+        "url": "https://jobicy.com/jobs/144632-sales-development-representative-us-remote",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición de Sales, representative."
+    },
+    {
+        "empresa": "Tripadvisor",
+        "puesto": "Field Sales Representative – Gothenburg",
+        "ubicacion": "Sweden",
+        "url": "https://jobicy.com/jobs/144520-field-sales-representative-gothenburg",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición de Sales, representative."
+    },
+    {
+        "empresa": "Webbing",
+        "puesto": "Head of Sales Americas",
+        "ubicacion": "USA",
+        "url": "https://jobicy.com/jobs/144384-head-of-sales-americas",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición de Sales."
+    },
+    {
+        "empresa": "Webbing",
+        "puesto": "Industry Sales Director – Security, Surveillance & Video Connectivity (US)",
+        "ubicacion": "USA",
+        "url": "https://jobicy.com/jobs/144383-industry-sales-director-security-surveillance-video-connectivity-us",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición de Sales, director."
+    },
+    {
+        "empresa": "Cloudbeds",
+        "puesto": "Sales Manager",
+        "ubicacion": "Portugal",
+        "url": "https://jobicy.com/jobs/144337-sales-manager-4",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición de Sales, manager."
+    },
+    {
+        "empresa": "Samsara",
+        "puesto": "Mid-Market Sales Manager, DACH",
+        "ubicacion": "Germany",
+        "url": "https://jobicy.com/jobs/144333-mid-market-sales-manager-dach",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición de Sales, manager."
+    },
+    {
+        "empresa": "World Wide Technology",
+        "puesto": "Cyber Security Sales Specialist",
+        "ubicacion": "USA",
+        "url": "https://jobicy.com/jobs/143455-cyber-security-sales-specialist",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición de Sales."
+    },
+    {
+        "empresa": "World Wide Technology",
+        "puesto": "Inside Sales Representative (Web Services)",
+        "ubicacion": "USA",
+        "url": "https://jobicy.com/jobs/142962-inside-sales-representative-web-services",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición de Sales, representative."
     }
 ]
