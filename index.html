@@ -375,7 +375,8 @@
     <script>
         async function loadJobs() {
             try {
-                const response = await fetch('vacancies.json');
+                // Añadimos un cache-buster (?t=...) para obligar al navegador a descargar siempre el JSON más reciente
+                const response = await fetch('vacancies.json?t=' + new Date().getTime());
                 if (!response.ok) throw new Error('No se pudo cargar vacancies.json');
                 
                 const jobs = await response.json();
