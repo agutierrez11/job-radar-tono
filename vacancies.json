@@ -1,1 +1,130 @@
-[ { "empresa": "Bitso", "puesto": "General Manager (Bitso Business)", "match_score": 0.99, "url": "https://bitso.com/careers", "ubicacion": "Mexico (Remote)", "justificacion": "Liderazgo en operaciones de Bitso Business, enfocado en soluciones de pago con cripto para clientes B2B en México." }, { "empresa": "OKX", "puesto": "Principal Product Manager (Growth - LATAM)", "match_score": 0.97, "url": "https://www.okx.com/careers", "ubicacion": "Remote - LATAM", "justificacion": "Definición de estrategia de producto para iniciativas de crecimiento en LATAM, enfocándose en productos cripto y fintech." }, { "empresa": "Binance", "puesto": "Institutional Sales Manager (LATAM)", "match_score": 0.96, "url": "https://www.binance.com/es/careers", "ubicacion": "Remote - LATAM", "justificacion": "Gestión de relaciones con clientes institucionales e impulso de ventas de productos cripto de Binance a grandes instituciones financieras en LATAM." }, { "empresa": "EBANX", "puesto": "Regional Lead / Country Manager (North Cone)", "match_score": 0.95, "url": "https://www.ebanx.com/en/careers", "ubicacion": "Remote - LATAM", "justificacion": "Liderazgo regional/Country Manager para el Cono Norte, con enfoque en pagos transfronterizos." }, { "empresa": "Nuvei", "puesto": "VP, Solutions and Implementations (Americas)", "match_score": 0.93, "url": "https://nuvei.com/careers", "ubicacion": "Remote - Americas", "justificacion": "Liderar el equipo de soluciones e implementaciones para el procesamiento de pagos en América. Experiencia B2B sólida requerida." }, { "empresa": "Rapyd", "puesto": "Commercial Director (LATAM)", "match_score": 0.91, "url": "https://www.rapyd.net/careers", "ubicacion": "Remote - LATAM", "justificacion": "Supervisar la estrategia comercial e impulsar las ventas para la plataforma Fintech-as-a-Service de Rapyd en América Latina." } ]
+[
+    {
+        "empresa": "Rapyd",
+        "puesto": "Commercial Director (LATAM)",
+        "ubicacion": "Remote - LATAM",
+        "url": "https://rapyd.net/careers/commercial-director-latam",
+        "match_score": 1.0,
+        "justificacion": "Score basado en: Oversee commercial strategy and drive sales for Ra..."
+    },
+    {
+        "empresa": "Bitso",
+        "puesto": "General Manager (Bitso Business)",
+        "match_score": 0.99,
+        "url": "https://bitso.com/careers",
+        "ubicacion": "Mexico (Remote)",
+        "justificacion": "Liderazgo en operaciones de Bitso Business, enfocado en soluciones de pago con cripto para clientes B2B en México."
+    },
+    {
+        "empresa": "OKX",
+        "puesto": "Principal Product Manager (Growth - LATAM)",
+        "match_score": 0.97,
+        "url": "https://www.okx.com/careers",
+        "ubicacion": "Remote - LATAM",
+        "justificacion": "Definición de estrategia de producto para iniciativas de crecimiento en LATAM, enfocándose en productos cripto y fintech."
+    },
+    {
+        "empresa": "Binance",
+        "puesto": "Institutional Sales Manager (LATAM)",
+        "match_score": 0.96,
+        "url": "https://www.binance.com/es/careers",
+        "ubicacion": "Remote - LATAM",
+        "justificacion": "Gestión de relaciones con clientes institucionales e impulso de ventas de productos cripto de Binance a grandes instituciones financieras en LATAM."
+    },
+    {
+        "empresa": "EBANX",
+        "puesto": "Regional Lead / Country Manager (North Cone)",
+        "match_score": 0.95,
+        "url": "https://www.ebanx.com/en/careers",
+        "ubicacion": "Remote - LATAM",
+        "justificacion": "Liderazgo regional/Country Manager para el Cono Norte, con enfoque en pagos transfronterizos."
+    },
+    {
+        "empresa": "Nuvei",
+        "puesto": "VP, Solutions and Implementations (Americas)",
+        "match_score": 0.93,
+        "url": "https://nuvei.com/careers",
+        "ubicacion": "Remote - Americas",
+        "justificacion": "Liderar el equipo de soluciones e implementaciones para el procesamiento de pagos en América. Experiencia B2B sólida requerida."
+    },
+    {
+        "empresa": "Rapyd",
+        "puesto": "Commercial Director (LATAM)",
+        "match_score": 0.91,
+        "url": "https://www.rapyd.net/careers",
+        "ubicacion": "Remote - LATAM",
+        "justificacion": "Supervisar la estrategia comercial e impulsar las ventas para la plataforma Fintech-as-a-Service de Rapyd en América Latina."
+    },
+    {
+        "empresa": "Ebanx",
+        "puesto": "Business Development Manager, Cross-Border Payments",
+        "ubicacion": "Remote - Brazil (LATAM)",
+        "url": "https://ebanx.com/careers/bd-manager",
+        "match_score": 0.9,
+        "justificacion": "Score basado en: Identify and close new business opportunities for ..."
+    },
+    {
+        "empresa": "Sumsub",
+        "puesto": "Business Development Manager, Mexico",
+        "ubicacion": "Remote - Mexico",
+        "url": "https://careers.sumsub.com/jobs/7068282-business-development-manager-mexico",
+        "match_score": 0.9,
+        "justificacion": "Score basado en: Drive sales for Sumsub's KYC/AML verification plat..."
+    },
+    {
+        "empresa": "OKX",
+        "puesto": "Principal Product Manager (Growth - LATAM)",
+        "ubicacion": "Remote - LATAM",
+        "url": "https://okx.com/careers/product-manager",
+        "match_score": 0.7,
+        "justificacion": "Score basado en: Define product strategy for growth initiatives in ..."
+    },
+    {
+        "empresa": "Valutico",
+        "puesto": "Account Executive: LATAM",
+        "ubicacion": "Remote - LATAM",
+        "url": "https://jobs.workable.com/view/ePQ6cvqtqVMK4Qyeo65j3a/remote-account-executive%3A-latam-(portuguese-or-spanish-speaking)-in-mexico-at-valutico",
+        "match_score": 0.6,
+        "justificacion": "Score basado en: Sell Valutico's AI-powered valuation platform to f..."
+    },
+    {
+        "empresa": "Stripe",
+        "puesto": "Sales Lead, LATAM",
+        "ubicacion": "Remote - LATAM",
+        "url": "https://stripe.com/careers/sales-lead-latam",
+        "match_score": 0.5,
+        "justificacion": "Score basado en: Drive revenue growth for Stripe in Latin America, ..."
+    },
+    {
+        "empresa": "Adyen",
+        "puesto": "Account Executive, Mexico",
+        "ubicacion": "Mexico City, Mexico (Hybrid)",
+        "url": "https://adyen.com/careers/account-executive-mexico",
+        "match_score": 0.5,
+        "justificacion": "Score basado en: Manage a portfolio of key enterprise accounts in M..."
+    },
+    {
+        "empresa": "Binance",
+        "puesto": "Institutional Sales Manager (LATAM)",
+        "ubicacion": "Remote - LATAM",
+        "url": "https://binance.com/es/careers/institutional-sales",
+        "match_score": 0.5,
+        "justificacion": "Score basado en: Manage institutional client relationships and driv..."
+    },
+    {
+        "empresa": "Nuvei",
+        "puesto": "VP, Solutions and Implementations (Americas)",
+        "ubicacion": "Remote - Americas",
+        "url": "https://nuvei.com/careers/vp-solutions",
+        "match_score": 0.2,
+        "justificacion": "Score basado en: Lead the solutions and implementation team for pay..."
+    },
+    {
+        "empresa": "Bitso",
+        "puesto": "General Manager (Bitso Business)",
+        "ubicacion": "Mexico (Remote)",
+        "url": "https://bitso.com/careers/general-manager",
+        "match_score": 0.2,
+        "justificacion": "Score basado en: Lead Bitso Business operations, focusing on crypto..."
+    }
+]
