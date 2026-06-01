@@ -1,10 +1,9 @@
 <!DOCTYPE html>
 <html lang="es">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Job Radar — Antonio Gutiérrez Jiménez</title>
+    <title>Fintech Job Radar — Toño</title>
     <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&display=swap" rel="stylesheet">
     <style>
         :root {
@@ -18,12 +17,16 @@
             --glass-border: rgba(255, 255, 255, 0.1);
         }
 
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
         body {
             background-color: var(--bg-dark);
             color: var(--text-main);
             font-family: 'Outfit', sans-serif;
-            margin: 0;
-            padding: 0;
             background-image:
                 radial-gradient(circle at 10% 20%, rgba(56, 189, 248, 0.08) 0%, transparent 40%),
                 radial-gradient(circle at 90% 80%, rgba(245, 158, 11, 0.05) 0%, transparent 40%);
@@ -33,7 +36,7 @@
 
         .hero {
             position: relative;
-            height: 400px;
+            height: 350px;
             display: flex;
             flex-direction: column;
             justify-content: center;
@@ -51,13 +54,13 @@
             width: 100%;
             height: 100%;
             object-fit: cover;
-            opacity: 0.3;
+            opacity: 0.15;
             z-index: -1;
             filter: grayscale(20%) brightness(0.7);
         }
 
         .hero h1 {
-            font-size: 4rem;
+            font-size: 3.5rem;
             margin: 0;
             background: linear-gradient(to right, var(--accent-primary), var(--accent-gold));
             -webkit-background-clip: text;
@@ -69,9 +72,19 @@
 
         .hero p {
             color: var(--text-dim);
-            font-size: 1.4rem;
+            font-size: 1.2rem;
             margin-top: 15px;
             max-width: 800px;
+        }
+
+        .last-update {
+            color: var(--success);
+            font-size: 0.9rem;
+            margin-top: 20px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
         }
 
         .container {
@@ -107,38 +120,10 @@
         }
 
         .stat-card .value {
-            font-size: 3rem;
+            font-size: 2.5rem;
             font-weight: 800;
             margin-top: 10px;
             color: var(--accent-primary);
-        }
-
-        .automation-banner {
-            background: linear-gradient(90deg, rgba(56, 189, 248, 0.1), rgba(245, 158, 11, 0.1));
-            border: 1px solid var(--accent-primary);
-            padding: 25px;
-            border-radius: 20px;
-            margin-bottom: 50px;
-            display: flex;
-            align-items: center;
-            gap: 20px;
-            backdrop-filter: blur(10px);
-        }
-
-        .automation-banner .icon {
-            font-size: 2.5rem;
-        }
-
-        .automation-banner .text h4 {
-            margin: 0;
-            font-size: 1.2rem;
-            color: var(--accent-primary);
-        }
-
-        .automation-banner .text p {
-            margin: 5px 0 0;
-            font-size: 0.95rem;
-            color: var(--text-dim);
         }
 
         .filter-header {
@@ -146,18 +131,44 @@
             justify-content: space-between;
             align-items: center;
             margin-bottom: 30px;
+            flex-wrap: wrap;
+            gap: 20px;
+        }
+
+        .filter-header h2 {
+            font-size: 1.8rem;
+            margin: 0;
+        }
+
+        .search-box {
+            background: var(--card-bg);
+            border: 1px solid var(--glass-border);
+            padding: 12px 20px;
+            border-radius: 12px;
+            color: white;
+            width: 300px;
+            font-family: inherit;
+            font-size: 1rem;
+            outline: none;
+            transition: 0.3s;
+        }
+
+        .search-box:focus {
+            border-color: var(--accent-primary);
+            box-shadow: 0 0 0 4px rgba(56, 189, 248, 0.1);
         }
 
         .grid-container {
             display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(420px, 1fr));
+            grid-template-columns: repeat(auto-fill, minmax(380px, 1fr));
             gap: 30px;
+            margin-bottom: 50px;
         }
 
         .card {
             background: var(--card-bg);
-            border-radius: 28px;
-            padding: 35px;
+            border-radius: 24px;
+            padding: 30px;
             border: 1px solid var(--glass-border);
             transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
             position: relative;
@@ -168,7 +179,7 @@
         }
 
         .card:hover {
-            transform: translateY(-12px);
+            transform: translateY(-10px);
             border-color: var(--accent-primary);
             box-shadow: 0 30px 60px rgba(0, 0, 0, 0.4);
         }
@@ -179,59 +190,60 @@
             top: 0;
             left: 0;
             width: 100%;
-            height: 5px;
+            height: 4px;
             background: linear-gradient(to right, var(--accent-primary), var(--accent-gold));
-            opacity: 0.2;
+            opacity: 0.3;
         }
 
         .score-badge {
             position: absolute;
-            top: 30px;
-            right: 35px;
-            background: rgba(15, 23, 42, 0.9);
-            padding: 10px 18px;
-            border-radius: 16px;
+            top: 25px;
+            right: 25px;
+            background: rgba(15, 23, 42, 0.95);
+            padding: 8px 16px;
+            border-radius: 12px;
             font-weight: 800;
-            font-size: 1.3rem;
-            border: 1px solid var(--accent-gold);
+            font-size: 1.2rem;
+            border: 2px solid var(--accent-gold);
             color: var(--accent-gold);
         }
 
         .company-name {
-            font-size: 1.8rem;
+            font-size: 1.6rem;
             font-weight: 800;
-            margin: 0;
+            margin: 0 0 8px 0;
             color: var(--accent-primary);
         }
 
         .role-name {
             font-size: 1.1rem;
             font-weight: 600;
-            margin: 8px 0 20px 0;
+            margin: 0 0 15px 0;
             color: var(--text-main);
+            line-height: 1.4;
         }
 
         .meta-tags {
             display: flex;
-            gap: 12px;
+            gap: 10px;
             flex-wrap: wrap;
-            margin-bottom: 25px;
+            margin-bottom: 20px;
         }
 
         .tag {
             background: rgba(255, 255, 255, 0.05);
-            padding: 6px 14px;
-            border-radius: 10px;
-            font-size: 0.85rem;
+            padding: 5px 12px;
+            border-radius: 8px;
+            font-size: 0.8rem;
             color: var(--text-dim);
             border: 1px solid var(--glass-border);
         }
 
         .why-box {
             background: rgba(255, 255, 255, 0.03);
-            border-radius: 18px;
-            padding: 20px;
-            margin-bottom: 25px;
+            border-radius: 16px;
+            padding: 18px;
+            margin-bottom: 20px;
             flex-grow: 1;
         }
 
@@ -239,10 +251,11 @@
             color: var(--accent-gold);
             display: block;
             margin-bottom: 8px;
+            font-size: 0.95rem;
         }
 
         .why-text {
-            font-size: 1rem;
+            font-size: 0.95rem;
             color: var(--text-dim);
             line-height: 1.6;
         }
@@ -253,226 +266,207 @@
             background: linear-gradient(135deg, var(--accent-primary), #0ea5e9);
             color: var(--bg-dark);
             text-decoration: none;
-            padding: 16px;
-            border-radius: 18px;
+            padding: 14px;
+            border-radius: 12px;
             font-weight: 800;
             transition: all 0.3s;
             text-transform: uppercase;
             letter-spacing: 1px;
             box-shadow: 0 10px 20px rgba(56, 189, 248, 0.2);
+            border: none;
+            cursor: pointer;
+            font-size: 0.9rem;
         }
 
         .apply-btn:hover {
-            transform: scale(1.03);
+            transform: scale(1.02);
             box-shadow: 0 15px 30px rgba(56, 189, 248, 0.4);
         }
 
-        .search-box {
-            background: var(--card-bg);
-            border: 1px solid var(--glass-border);
-            padding: 15px 30px;
-            border-radius: 20px;
-            color: white;
-            width: 400px;
-            font-family: inherit;
+        .loading {
+            text-align: center;
+            padding: 60px 20px;
+            color: var(--text-dim);
             font-size: 1.1rem;
-            outline: none;
-            transition: 0.3s;
         }
 
-        .search-box:focus {
-            border-color: var(--accent-primary);
-            box-shadow: 0 0 0 4px rgba(56, 189, 248, 0.1);
+        .loading-spinner {
+            display: inline-block;
+            width: 40px;
+            height: 40px;
+            border: 4px solid var(--glass-border);
+            border-top-color: var(--accent-primary);
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            margin-bottom: 20px;
+        }
+
+        @keyframes spin {
+            to { transform: rotate(360deg); }
         }
 
         .footer {
             text-align: center;
+            padding: 40px 20px;
+            color: var(--text-dim);
+            font-size: 0.85rem;
+            border-top: 1px solid var(--glass-border);
+        }
+
+        .no-results {
+            text-align: center;
             padding: 60px 20px;
             color: var(--text-dim);
-            font-size: 0.9rem;
+        }
+
+        @media (max-width: 768px) {
+            .hero h1 { font-size: 2.5rem; }
+            .grid-container { grid-template-columns: 1fr; }
+            .container { padding: 0 20px; }
+            .search-box { width: 100%; }
+            .filter-header { flex-direction: column; align-items: flex-start; }
         }
     </style>
 </head>
-
 <body>
 
     <div class="hero">
-        <img src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&q=80&w=2070"
-            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; opacity: 0.2; z-index: -1;">
-        <h1>Job Radar</h1>
-        <p>Strategic Leadership Opportunities — Antonio Gutiérrez Jiménez</p>
+        <h1>Fintech Job Radar</h1>
+        <p>Motor de búsqueda autónomo para Antonio Gutiérrez Jiménez</p>
+        <div class="last-update">
+            <span>🔄 Última actualización: <span id="last-update-time">Cargando...</span></span>
+        </div>
     </div>
 
     <div class="container">
 
         <div class="stats-grid">
             <div class="stat-card">
-                <h3>Vagas Analisadas</h3>
-                <div class="value">28</div>
+                <h3>Vacantes Activas</h3>
+                <div class="value" id="total-vacancies">0</div>
             </div>
             <div class="stat-card">
-                <h3>Elite Matches (9.5+)</h3>
-                <div class="value">6</div>
+                <h3>Top Matches (90%+)</h3>
+                <div class="value" id="top-matches">0</div>
             </div>
             <div class="stat-card">
                 <h3>Ubicación</h3>
-                <div class="value">🇲🇽 MX / 🌎 LATAM</div>
-            </div>
-        </div>
-
-        <div class="automation-banner">
-            <div class="icon">🤖</div>
-            <div class="text">
-                <h4>Antigravity: Radar Actualizado Mayo 2026</h4>
-                <p>Antonio, he filtrado vacantes de <b>última hora</b> que no están en tu lista anterior, priorizando empresas con alto crecimiento en infraestructura de pagos.</p>
+                <div class="value">🇲🇽 LATAM / ☁️ Remoto</div>
             </div>
         </div>
 
         <div class="filter-header">
-            <h2>Oportunidades de Alto Impacto</h2>
-            <input type="text" id="searchInput" class="search-box" placeholder="Pesquisar empresa ou cargo...">
+            <h2>Mejores Oportunidades</h2>
+            <input type="text" id="searchInput" class="search-box" placeholder="Buscar empresa o cargo...">
         </div>
 
         <div class="grid-container" id="radarGrid">
-
-            <!-- Card 1: Bitso -->
-            <div class="card" data-company="bitso" data-role="general manager bitso business">
-                <div class="score-badge">9.9</div>
-                <h3 class="company-name">Bitso</h3>
-                <div class="role-name">General Manager (Bitso Business)</div>
-                <div class="meta-tags">
-                    <span class="tag">📍 México / Remoto</span>
-                    <span class="tag">💼 C-Level / GM</span>
-                    <span class="tag">📅 Mayo 2026</span>
-                </div>
-                <div class="why-box">
-                    <b>💡 ¿Por qué es un Match?</b>
-                    <div class="why-text">Tu liderazgo actual en Toku y tu red de 500+ profesionales te posicionan como el candidato ideal para liderar la unidad B2B de Bitso. Buscan a alguien con tu background en consultative selling y GTM estructurado.</div>
-                </div>
-                <a href="https://bitso.com/careers" target="_blank" class="apply-btn">Ver Detalles</a>
+            <div class="loading">
+                <div class="loading-spinner"></div>
+                <p>Cargando vacantes...</p>
             </div>
-
-            <!-- Card 2: OKX -->
-            <div class="card" data-company="okx" data-role="principal product manager growth latam">
-                <div class="score-badge">9.7</div>
-                <h3 class="company-name">OKX</h3>
-                <div class="role-name">Principal Product Manager (Growth - LATAM)</div>
-                <div class="meta-tags">
-                    <span class="tag">📍 México (Remoto)</span>
-                    <span class="tag">💼 Principal PM</span>
-                    <span class="tag">📅 Mayo 2026</span>
-                </div>
-                <div class="why-box">
-                    <b>💡 ¿Por qué es un Match?</b>
-                    <div class="why-text">OKX está atacando el mercado local. Tu dominio de herramientas como Apollo/Sales Navigator y tu experiencia en Clip/Fiserv es el asset crítico que necesitan para escalar su producto en México.</div>
-                </div>
-                <a href="https://www.okx.com/careers" target="_blank" class="apply-btn">Ver Detalles</a>
-            </div>
-
-            <!-- Card 3: Binance -->
-            <div class="card" data-company="binance" data-role="institutional sales manager latam">
-                <div class="score-badge">9.6</div>
-                <h3 class="company-name">Binance</h3>
-                <div class="role-name">Institutional Sales Manager (LATAM)</div>
-                <div class="meta-tags">
-                    <span class="tag">📍 México (Remoto)</span>
-                    <span class="tag">💼 Senior BD</span>
-                    <span class="tag">📅 Mayo 2026</span>
-                </div>
-                <div class="why-box">
-                    <b>💡 ¿Por qué es un Match?</b>
-                    <div class="why-text">Partnerships institucionales de alto nivel. Tu red de contactos y expertise en cross-border payments es la llave que Binance busca para dominar el segmento institucional en LATAM.</div>
-                </div>
-                <a href="https://www.linkedin.com/jobs/view/4330738587/" target="_blank" class="apply-btn">Ver Detalles</a>
-            </div>
-
-            <!-- Card 4: EBANX -->
-            <div class="card" data-company="ebanx" data-role="regional lead north cone mexico">
-                <div class="score-badge">9.5</div>
-                <h3 class="company-name">EBANX</h3>
-                <div class="role-name">Regional Lead / Country Manager (North Cone)</div>
-                <div class="meta-tags">
-                    <span class="tag">📍 Ciudad de México</span>
-                    <span class="tag">💼 Executive Lead</span>
-                    <span class="tag">📅 Mayo 2026</span>
-                </div>
-                <div class="why-box">
-                    <b>💡 ¿Por qué es un Match?</b>
-                    <div class="why-text">Tu perfil de "Hunter" y conocimiento profundo del mercado mexicano de pagos te da el seniority necesario para liderar la operación de EBANX en el cono norte.</div>
-                </div>
-                <a href="https://www.ebanx.com/en/careers" target="_blank" class="apply-btn">Ver Detalles</a>
-            </div>
-
-            <!-- Card 5: Nuvei -->
-            <div class="card" data-company="nuvei" data-role="vp solutions and implementations americas">
-                <div class="score-badge">9.3</div>
-                <h3 class="company-name">Nuvei</h3>
-                <div class="role-name">VP, Solutions and Implementations (Americas)</div>
-                <div class="meta-tags">
-                    <span class="tag">📍 México / Remoto</span>
-                    <span class="tag">💼 VP Level</span>
-                    <span class="tag">📅 Mayo 2026</span>
-                </div>
-                <div class="why-box">
-                    <b>💡 ¿Por qué es un Match?</b>
-                    <div class="why-text">Este rol combina estrategia y ejecución técnica. Tu experiencia en onboarding de 80+ cuentas y gestión de carteras de 500M+ es el background que Nuvei exige para este nivel de VP.</div>
-                </div>
-                <a href="https://nuvei.com/careers" target="_blank" class="apply-btn">Ver Detalles</a>
-            </div>
-
-            <!-- Card 6: Rapyd -->
-            <div class="card" data-company="rapyd" data-role="commercial director latam">
-                <div class="score-badge">9.1</div>
-                <h3 class="company-name">Rapyd</h3>
-                <div class="role-name">Commercial Director (LATAM)</div>
-                <div class="meta-tags">
-                    <span class="tag">📍 LATAM (Remoto)</span>
-                    <span class="tag">💼 Director Comercial</span>
-                    <span class="tag">📅 Mayo 2026</span>
-                </div>
-                <div class="why-box">
-                    <b>💡 ¿Por qué es un Match?</b>
-                    <div class="why-text">Rapyd busca dominar la infraestructura de pagos regional. Tu visión de GTM y tu capacidad para orquestar equipos de ventas complejos encaja con su agresiva estrategia de expansión.</div>
-                </div>
-                <a href="https://www.rapyd.net/careers" target="_blank" class="apply-btn">Ver Detalles</a>
-            </div>
-
         </div>
 
         <div class="footer">
-            <p>Job Radar © 2026 — Generated with Antigravity AI for Antonio Gutiérrez Jiménez.</p>
+            <p>Fintech Job Radar © 2026 — Motor autónomo de búsqueda de vacantes para Toño</p>
         </div>
     </div>
 
     <script>
-        function sortAndFilter() {
+        async function loadJobs() {
+            try {
+                const response = await fetch('vacancies.json');
+                if (!response.ok) throw new Error('No se pudo cargar vacancies.json');
+                
+                const jobs = await response.json();
+                displayJobs(jobs);
+                updateStats(jobs);
+                setupSearch(jobs);
+                updateLastModified();
+            } catch (error) {
+                console.error('Error:', error);
+                document.getElementById('radarGrid').innerHTML = `
+                    <div class="no-results">
+                        <p>⚠️ Error al cargar las vacantes</p>
+                        <p style="font-size: 0.9rem; margin-top: 10px;">Asegúrate de que vacancies.json existe en el repositorio.</p>
+                    </div>
+                `;
+            }
+        }
+
+        function displayJobs(jobs) {
             const grid = document.getElementById('radarGrid');
-            const term = document.getElementById('searchInput').value.toLowerCase();
-            const cards = Array.from(grid.querySelectorAll('.card'));
+            grid.innerHTML = '';
 
-            cards.sort((a, b) => {
-                const scoreA = parseFloat(a.querySelector('.score-badge').innerText);
-                const scoreB = parseFloat(b.querySelector('.score-badge').innerText);
-                return scoreB - scoreA;
-            });
+            if (jobs.length === 0) {
+                grid.innerHTML = '<div class="no-results"><p>No hay vacantes disponibles</p></div>';
+                return;
+            }
 
-            cards.forEach(card => {
-                const company = card.getAttribute('data-company');
-                const role = card.getAttribute('data-role');
-                const content = (company + ' ' + role).toLowerCase();
-
-                if (content.includes(term)) {
-                    card.style.display = 'flex';
-                } else {
-                    card.style.display = 'none';
-                }
+            jobs.forEach(job => {
+                const scorePercentage = Math.round(job.match_score * 100);
+                const card = document.createElement('div');
+                card.className = 'card';
+                card.dataset.company = job.empresa.toLowerCase();
+                card.dataset.role = job.puesto.toLowerCase();
+                
+                card.innerHTML = `
+                    <div class="score-badge">${scorePercentage}%</div>
+                    <h3 class="company-name">${job.empresa}</h3>
+                    <div class="role-name">${job.puesto}</div>
+                    <div class="meta-tags">
+                        <span class="tag">📍 ${job.ubicacion}</span>
+                        <span class="tag">⭐ ${scorePercentage}% Match</span>
+                    </div>
+                    <div class="why-box">
+                        <b>💡 ¿Por qué es un match?</b>
+                        <div class="why-text">${job.justificacion}</div>
+                    </div>
+                    <a href="${job.url}" target="_blank" class="apply-btn">Ver Vacante</a>
+                `;
                 grid.appendChild(card);
             });
         }
 
-        document.getElementById('searchInput').addEventListener('input', sortAndFilter);
-        window.addEventListener('DOMContentLoaded', sortAndFilter);
-    </script>
-</body>
+        function updateStats(jobs) {
+            document.getElementById('total-vacancies').textContent = jobs.length;
+            const topMatches = jobs.filter(j => j.match_score >= 0.90).length;
+            document.getElementById('top-matches').textContent = topMatches;
+        }
 
+        function setupSearch(jobs) {
+            const searchInput = document.getElementById('searchInput');
+            searchInput.addEventListener('input', (e) => {
+                const term = e.target.value.toLowerCase();
+                const cards = document.querySelectorAll('.card');
+                
+                cards.forEach(card => {
+                    const company = card.dataset.company;
+                    const role = card.dataset.role;
+                    const matches = company.includes(term) || role.includes(term);
+                    card.style.display = matches ? 'flex' : 'none';
+                });
+            });
+        }
+
+        function updateLastModified() {
+            const now = new Date();
+            const timeString = now.toLocaleString('es-MX', {
+                year: 'numeric',
+                month: 'short',
+                day: 'numeric',
+                hour: '2-digit',
+                minute: '2-digit'
+            });
+            document.getElementById('last-update-time').textContent = timeString;
+        }
+
+        // Cargar vacantes al iniciar
+        loadJobs();
+
+        // Recargar cada 5 minutos (300000 ms)
+        setInterval(loadJobs, 300000);
+    </script>
+
+</body>
 </html>
