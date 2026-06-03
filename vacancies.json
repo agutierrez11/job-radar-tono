@@ -72,6 +72,14 @@
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
     {
+        "empresa": "Flexport",
+        "puesto": "Account Executive, Enterprise",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/flexport/account-executive-enterprise-0e9af1",
+        "match_score": 0.55,
+        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
+    },
+    {
         "empresa": "SpaceX",
         "puesto": "Sr. Sales Manager (Global Starlink Enterprise Sales)",
         "ubicacion": "El Segundo, CA, Flexible / Remote",
@@ -86,14 +94,6 @@
         "url": "https://www.themuse.com/jobs/flexport/account-executive-enterprise-371604",
         "match_score": 0.55,
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "Autodesk",
-        "puesto": "Principal, Account Executive, Expansion",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/autodesk/principal-account-executive-expansion",
-        "match_score": 0.55,
-        "justificacion": "Sector: Coincide con tu experiencia en POS. Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
     {
         "empresa": "DoorDash",
@@ -173,14 +173,6 @@
         "ubicacion": "Flexible / Remote",
         "url": "https://www.themuse.com/jobs/salesforce/senior-account-executive-informatica-dfeb7d",
         "match_score": 0.45,
-        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "Flexport",
-        "puesto": "Account Executive, ENT",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/flexport/account-executive-ent-3dac51",
-        "match_score": 0.4,
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
     {
@@ -390,6 +382,14 @@
         "url": "https://www.themuse.com/jobs/flex/business-development-manager-western-region",
         "match_score": 0.4,
         "justificacion": "Sector: Coincide con tu experiencia en POS. Rol: Posición comercial de Business development, manager. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "GE Vernova",
+        "puesto": "Sales Manager",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/gevernova/sales-manager-5c9b50",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
     },
     {
         "empresa": "Credit Wellness, LLC",
