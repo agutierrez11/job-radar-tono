@@ -8,14 +8,6 @@
         "justificacion": "Sector: Coincide con tu experiencia en COMPLIANCE. Rol: Posición comercial de Business development, representative. Modalidad: Remoto Global compatible."
     },
     {
-        "empresa": "GitLab",
-        "puesto": "Business Development Representative ",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/gitlab/business-development-representative-23dc4b",
-        "match_score": 0.9,
-        "justificacion": "Sector: Coincide con tu experiencia en COMPLIANCE. Rol: Posición comercial de Business development, representative. Modalidad: Remoto Global compatible."
-    },
-    {
         "empresa": "Kyndryl",
         "puesto": "Cybersecurity Strategic Alliances-Business Development Partner",
         "ubicacion": "Flexible / Remote, Mexico City, Mexico",
@@ -217,9 +209,9 @@
     },
     {
         "empresa": "DoorDash",
-        "puesto": "Senior Strategic Partnerships Sales Executive, DoorDash for Business",
+        "puesto": "Strategic Partnerships Sales Executive, DoorDash for Business",
         "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/doordash/senior-strategic-partnerships-sales-executive-doordash-for-business-e1f62f",
+        "url": "https://www.themuse.com/jobs/doordash/strategic-partnerships-sales-executive-doordash-for-business",
         "match_score": 0.4,
         "justificacion": "Rol: Posición comercial de Sales, partnership. Modalidad: Remoto Global compatible."
     },
@@ -384,19 +376,27 @@
         "justificacion": "Rol: Posición comercial de Sales, representative. Modalidad: Remoto Global compatible."
     },
     {
-        "empresa": "Flex",
-        "puesto": "Business Development Manager - Western Region",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/flex/business-development-manager-western-region",
-        "match_score": 0.4,
-        "justificacion": "Sector: Coincide con tu experiencia en POS. Rol: Posición comercial de Business development, manager. Modalidad: Remoto Global compatible."
-    },
-    {
         "empresa": "Planful",
         "puesto": "Sales Development Representative, Austin",
         "ubicacion": "Anywhere",
         "url": "https://jobicy.com/jobs/145561-sales-development-representative-austin",
         "match_score": 0.4,
         "justificacion": "Rol: Posición comercial de Sales, representative. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "The Land Geek",
+        "puesto": "Head of Sales",
+        "ubicacion": "Worldwide",
+        "url": "https://remotive.com/remote-jobs/sales/head-of-sales-2090943",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición comercial de Sales. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "Credit Wellness, LLC",
+        "puesto": "Inside Sales Contractor",
+        "ubicacion": "Worldwide",
+        "url": "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición comercial de Sales. Modalidad: Remoto Global compatible."
     }
 ]
