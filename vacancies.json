@@ -40,14 +40,6 @@
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
     {
-        "empresa": "Celonis",
-        "puesto": "Account Executive - State & Local Govt",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/celonis/account-executive-state-local-govt",
-        "match_score": 0.65,
-        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
-    },
-    {
         "empresa": "DoorDash",
         "puesto": "Senior Enterprise Account Executive, DoorDash for Business",
         "ubicacion": "Flexible / Remote",
@@ -86,6 +78,14 @@
         "url": "https://www.themuse.com/jobs/flexport/account-executive-enterprise-0e9af1",
         "match_score": 0.55,
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "Flexport",
+        "puesto": "Enterprise Account Executive - Hunter",
+        "ubicacion": "Denver, CO, Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/flexport/enterprise-account-executive-hunter",
+        "match_score": 0.55,
+        "justificacion": "Rol: Posición comercial de Account, hunter. Modalidad: Remoto Global compatible."
     },
     {
         "empresa": "SpaceX",
@@ -380,14 +380,6 @@
         "puesto": "Head of Sales",
         "ubicacion": "Worldwide",
         "url": "https://remotive.com/remote-jobs/sales/head-of-sales-2090943",
-        "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Sales. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "Credit Wellness, LLC",
-        "puesto": "Inside Sales Contractor",
-        "ubicacion": "Worldwide",
-        "url": "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540",
         "match_score": 0.4,
         "justificacion": "Rol: Posición comercial de Sales. Modalidad: Remoto Global compatible."
     }
