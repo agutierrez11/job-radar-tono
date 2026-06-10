@@ -73,19 +73,19 @@
     },
     {
         "empresa": "Flexport",
+        "puesto": "Enterprise Account Executive - Hunter",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/flexport/enterprise-account-executive-hunter",
+        "match_score": 0.55,
+        "justificacion": "Rol: Posición comercial de Account, hunter. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "Flexport",
         "puesto": "Account Executive, Enterprise",
         "ubicacion": "Flexible / Remote",
         "url": "https://www.themuse.com/jobs/flexport/account-executive-enterprise-0e9af1",
         "match_score": 0.55,
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "Flexport",
-        "puesto": "Enterprise Account Executive - Hunter",
-        "ubicacion": "Denver, CO, Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/flexport/enterprise-account-executive-hunter",
-        "match_score": 0.55,
-        "justificacion": "Rol: Posición comercial de Account, hunter. Modalidad: Remoto Global compatible."
     },
     {
         "empresa": "SpaceX",
@@ -112,6 +112,14 @@
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
     {
+        "empresa": "FSE LLC",
+        "puesto": "High-Ticket Financial Sales Specialist & Team Lead Track",
+        "ubicacion": "Worldwide",
+        "url": "https://remotive.com/remote-jobs/sales/high-ticket-financial-sales-specialist-team-lead-track-2090949",
+        "match_score": 0.55,
+        "justificacion": "Sector: Coincide con tu experiencia en POS. Rol: Posición comercial de Sales, lead. Modalidad: Remoto Global compatible."
+    },
+    {
         "empresa": "DoorDash",
         "puesto": "Manager, Sales Enablement, Commerce Platform",
         "ubicacion": "Flexible / Remote",
@@ -134,14 +142,6 @@
         "url": "https://www.themuse.com/jobs/experian/senior-sales-account-executive-capital-markets-remote-316b2e",
         "match_score": 0.5,
         "justificacion": "Rol: Posición comercial de Sales, account. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "Samsara Inc.",
-        "puesto": "Commercial Account Executive ",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/samsarainc/commercial-account-executive-762a43",
-        "match_score": 0.5,
-        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
     {
         "empresa": "Salesforce",
@@ -368,12 +368,20 @@
         "justificacion": "Rol: Posición comercial de Sales, representative. Modalidad: Remoto Global compatible."
     },
     {
-        "empresa": "SP Industries Inc.",
-        "puesto": "Regional Sales Manager - East",
-        "ubicacion": "Boston, MA, Flexible / Remote, Philadelphia, PA",
-        "url": "https://www.themuse.com/jobs/spindustriesinc/regional-sales-manager-east",
+        "empresa": "Zoom",
+        "puesto": "Channel Account Management Lead - METAP",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/zoom/channel-account-management-lead-metap",
         "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
+        "justificacion": "Rol: Posición comercial de Account, lead. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "Credit Wellness, LLC",
+        "puesto": "Inside Sales Contractor",
+        "ubicacion": "Worldwide",
+        "url": "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición comercial de Sales. Modalidad: Remoto Global compatible."
     },
     {
         "empresa": "The Land Geek",
