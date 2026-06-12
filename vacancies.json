@@ -1,6 +1,14 @@
 [
     {
         "empresa": "GitLab",
+        "puesto": "Strategic Account Executive, Digital Natives - India",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/gitlab/strategic-account-executive-digital-natives-india",
+        "match_score": 0.9,
+        "justificacion": "Sector: Coincide con tu experiencia en COMPLIANCE. Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "GitLab",
         "puesto": "Business Development Representative, SLED - East   ",
         "ubicacion": "Flexible / Remote",
         "url": "https://www.themuse.com/jobs/gitlab/business-development-representative-sled-east",
@@ -134,14 +142,6 @@
         "url": "https://www.themuse.com/jobs/coupa/senior-account-director-11213",
         "match_score": 0.5,
         "justificacion": "Rol: Posición comercial de Account, director. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "Zoom",
-        "puesto": "Account Executive - State & Local Government",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/zoom/account-executive-state-local-government-8055e5",
-        "match_score": 0.5,
-        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
     {
         "empresa": "Experian",
@@ -376,14 +376,6 @@
         "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
     },
     {
-        "empresa": "Zoom",
-        "puesto": "Zoom CX Business Development Representative",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/zoom/zoom-cx-business-development-representative",
-        "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Business development, representative. Modalidad: Remoto Global compatible."
-    },
-    {
         "empresa": "GE Vernova",
         "puesto": "Senior Parts Sales Manager",
         "ubicacion": "Flexible / Remote, Searcy, AR",
@@ -398,5 +390,13 @@
         "url": "https://www.themuse.com/jobs/allstate/licensed-insurance-sales-representative-remote-homebased-1da80f",
         "match_score": 0.4,
         "justificacion": "Rol: Posición comercial de Sales, representative. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "Credit Wellness, LLC",
+        "puesto": "Inside Sales Contractor",
+        "ubicacion": "Worldwide",
+        "url": "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición comercial de Sales. Modalidad: Remoto Global compatible."
     }
 ]
