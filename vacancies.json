@@ -33,14 +33,6 @@
     },
     {
         "empresa": "DoorDash",
-        "puesto": "Enterprise Account Executive, DoorDash for Business",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/doordash/enterprise-account-executive-doordash-for-business-0baeb4",
-        "match_score": 0.65,
-        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "DoorDash",
         "puesto": "Senior Enterprise Account Executive, DoorDash for Business",
         "ubicacion": "Flexible / Remote",
         "url": "https://www.themuse.com/jobs/doordash/senior-enterprise-account-executive-doordash-for-business",
@@ -120,20 +112,20 @@
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
     {
+        "empresa": "Autodesk",
+        "puesto": "Principal Account Executive, Enterprise",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/autodesk/principal-account-executive-enterprise",
+        "match_score": 0.55,
+        "justificacion": "Sector: Coincide con tu experiencia en POS. Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
+    },
+    {
         "empresa": "FSE LLC",
         "puesto": "High-Ticket Financial Sales Specialist & Team Lead Track",
         "ubicacion": "Worldwide",
         "url": "https://remotive.com/remote-jobs/sales/high-ticket-financial-sales-specialist-team-lead-track-2090949",
         "match_score": 0.55,
         "justificacion": "Sector: Coincide con tu experiencia en POS. Rol: Posición comercial de Sales, lead. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "DoorDash",
-        "puesto": "Manager, Sales Enablement, Commerce Platform",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/doordash/manager-sales-enablement-commerce-platform",
-        "match_score": 0.5,
-        "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
     },
     {
         "empresa": "Coupa",
@@ -396,6 +388,14 @@
         "puesto": "Inside Sales Contractor",
         "ubicacion": "Worldwide",
         "url": "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición comercial de Sales. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "The Land Geek",
+        "puesto": "Head of Sales",
+        "ubicacion": "Worldwide",
+        "url": "https://remotive.com/remote-jobs/sales/head-of-sales-2090943",
         "match_score": 0.4,
         "justificacion": "Rol: Posición comercial de Sales. Modalidad: Remoto Global compatible."
     }
