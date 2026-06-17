@@ -8,14 +8,6 @@
         "justificacion": "Sector: Coincide con tu experiencia en COMPLIANCE. Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
     {
-        "empresa": "GitLab",
-        "puesto": "Business Development Representative, SLED - East   ",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/gitlab/business-development-representative-sled-east",
-        "match_score": 0.9,
-        "justificacion": "Sector: Coincide con tu experiencia en COMPLIANCE. Rol: Posición comercial de Business development, representative. Modalidad: Remoto Global compatible."
-    },
-    {
         "empresa": "Kyndryl",
         "puesto": "Cybersecurity Strategic Alliances-Business Development Partner",
         "ubicacion": "Flexible / Remote, Mexico City, Mexico",
@@ -152,14 +144,6 @@
         "justificacion": "Rol: Posición comercial de Sales, account. Modalidad: Remoto Global compatible."
     },
     {
-        "empresa": "Samsara Inc.",
-        "puesto": "Renewal Account Executive - Commercial",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/samsarainc/renewal-account-executive-commercial",
-        "match_score": 0.5,
-        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
-    },
-    {
         "empresa": "Salesforce",
         "puesto": "Prime Named Account Executive",
         "ubicacion": "Flexible / Remote",
@@ -214,6 +198,14 @@
         "url": "https://www.themuse.com/jobs/doordash/strategic-partnerships-sales-executive-doordash-for-business",
         "match_score": 0.4,
         "justificacion": "Rol: Posición comercial de Sales, partnership. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "SpaceX",
+        "puesto": "Starlink Growth Lead, Midwest",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/spacex/starlink-growth-lead-midwest",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición comercial de Growth, lead. Modalidad: Remoto Global compatible."
     },
     {
         "empresa": "Hitachi Energy",
@@ -304,6 +296,14 @@
         "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
     },
     {
+        "empresa": "Zoom",
+        "puesto": "Zoom CX Business Development Representative",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/zoom/zoom-cx-business-development-representative",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición comercial de Business development, representative. Modalidad: Remoto Global compatible."
+    },
+    {
         "empresa": "Aramark",
         "puesto": "Director of Business Development - Facilities Services - Higher Education - EAST, Remote",
         "ubicacion": "Flexible / Remote, Philadelphia, PA",
@@ -384,18 +384,18 @@
         "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
     },
     {
-        "empresa": "Allstate",
-        "puesto": "Licensed Insurance Sales Representative (Remote / Home-Based)",
-        "ubicacion": "Flexible / Remote, Hartford, CT",
-        "url": "https://www.themuse.com/jobs/allstate/licensed-insurance-sales-representative-remote-homebased-1da80f",
-        "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Sales, representative. Modalidad: Remoto Global compatible."
-    },
-    {
         "empresa": "Credit Wellness, LLC",
         "puesto": "Inside Sales Contractor",
         "ubicacion": "Worldwide",
         "url": "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición comercial de Sales. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "The Land Geek",
+        "puesto": "Head of Sales",
+        "ubicacion": "Worldwide",
+        "url": "https://remotive.com/remote-jobs/sales/head-of-sales-2090943",
         "match_score": 0.4,
         "justificacion": "Rol: Posición comercial de Sales. Modalidad: Remoto Global compatible."
     }
