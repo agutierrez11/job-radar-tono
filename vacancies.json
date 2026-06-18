@@ -56,14 +56,6 @@
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
     {
-        "empresa": "InfluxData",
-        "puesto": "Enterprise Account Executive",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/influxdata/enterprise-account-executive-e7b284",
-        "match_score": 0.65,
-        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
-    },
-    {
         "empresa": "Flexport",
         "puesto": "Enterprise Account Executive - Hunter",
         "ubicacion": "Flexible / Remote",
@@ -104,12 +96,28 @@
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
     {
+        "empresa": "CrowdStrike",
+        "puesto": "Regional Sales Manager, Enterprise (Remote, IL)",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/crowdstrike/regional-sales-manager-enterprise-remote-il",
+        "match_score": 0.55,
+        "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
+    },
+    {
         "empresa": "Autodesk",
         "puesto": "Principal Account Executive, Enterprise",
         "ubicacion": "Flexible / Remote",
         "url": "https://www.themuse.com/jobs/autodesk/principal-account-executive-enterprise",
         "match_score": 0.55,
         "justificacion": "Sector: Coincide con tu experiencia en POS. Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "Zoom",
+        "puesto": "Majors Account Executive",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/zoom/majors-account-executive-d99499",
+        "match_score": 0.55,
+        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
     {
         "empresa": "FSE LLC",
@@ -166,6 +174,14 @@
         "url": "https://www.themuse.com/jobs/glossgenius/account-executive-new-grad",
         "match_score": 0.4,
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "SpaceX",
+        "puesto": "Starlink Growth Manager, US Northeast",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/spacex/starlink-growth-manager-us-northeast",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición comercial de Growth, manager. Modalidad: Remoto Global compatible."
     },
     {
         "empresa": "SpaceX",
@@ -240,6 +256,14 @@
         "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
     },
     {
+        "empresa": "Labcorp",
+        "puesto": "Strategic Payer Initiatives Sales Executive",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/labcorp/strategic-payer-initiatives-sales-executive",
+        "match_score": 0.4,
+        "justificacion": "Sector: Coincide con tu experiencia en POS. Rol: Posición comercial de Sales. Modalidad: Remoto Global compatible."
+    },
+    {
         "empresa": "GE Vernova",
         "puesto": "Senior Director - Business Development Finance",
         "ubicacion": "Atlanta, GA, Flexible / Remote",
@@ -252,14 +276,6 @@
         "puesto": "ACCOUNT EXECUTIVE 4",
         "ubicacion": "Flexible / Remote",
         "url": "https://www.themuse.com/jobs/ukg/account-executive-4-0abfb8",
-        "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "Appian",
-        "puesto": "Account Executive - DACH Financial Services",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/appian/account-executive-dach-financial-services-061535",
         "match_score": 0.4,
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
@@ -280,36 +296,12 @@
         "justificacion": "Rol: Posición comercial de Sales, representative. Modalidad: Remoto Global compatible."
     },
     {
-        "empresa": "Saint-Gobain",
-        "puesto": "District Sales Manager - Seals - Greater Phoenix, AZ, Indianapolis, Indiana or Cincinnati, OH Areas",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/saintgobain/district-sales-manager-seals-greater-phoenix-az-indianapolis-indiana-or-cincinnati-oh-areas",
-        "match_score": 0.4,
-        "justificacion": "Sector: Coincide con tu experiencia en POS. Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
-    },
-    {
         "empresa": "GE Vernova",
         "puesto": "Senior Parts Sales Manager",
         "ubicacion": "Dublin, GA, Flexible / Remote",
         "url": "https://www.themuse.com/jobs/gevernova/senior-parts-sales-manager-4070c6",
         "match_score": 0.4,
         "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "Zoom",
-        "puesto": "Zoom CX Business Development Representative",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/zoom/zoom-cx-business-development-representative",
-        "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Business development, representative. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "Aramark",
-        "puesto": "Director of Business Development - Facilities Services - Higher Education - EAST, Remote",
-        "ubicacion": "Flexible / Remote, Philadelphia, PA",
-        "url": "https://www.themuse.com/jobs/aramark/director-of-business-development-facilities-services-higher-education-east-remote",
-        "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Business development, director. Modalidad: Remoto Global compatible."
     },
     {
         "empresa": "Mast-Jägermeister US",
@@ -350,6 +342,14 @@
         "url": "https://www.themuse.com/jobs/allstate/licensed-insurance-sales-representative-remote-homebased-ade7e1",
         "match_score": 0.4,
         "justificacion": "Rol: Posición comercial de Sales, representative. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "Equinix, Inc",
+        "puesto": "Sales Transaction Coordinator",
+        "ubicacion": "Flexible / Remote, Toronto, Canada",
+        "url": "https://www.themuse.com/jobs/equinixinc/sales-transaction-coordinator-5aa047",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición comercial de Sales. Modalidad: Remoto Global compatible."
     },
     {
         "empresa": "CrowdStrike",
