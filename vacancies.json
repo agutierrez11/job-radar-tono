@@ -8,6 +8,14 @@
         "justificacion": "Sector: Coincide con tu experiencia en COMPLIANCE. Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
     {
+        "empresa": "GitLab",
+        "puesto": "Business Development Representative ",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/gitlab/business-development-representative-23dc4b",
+        "match_score": 0.9,
+        "justificacion": "Sector: Coincide con tu experiencia en COMPLIANCE. Rol: Posición comercial de Business development, representative. Modalidad: Remoto Global compatible."
+    },
+    {
         "empresa": "Kyndryl",
         "puesto": "Cybersecurity Strategic Alliances-Business Development Partner",
         "ubicacion": "Flexible / Remote, Mexico City, Mexico",
@@ -20,22 +28,6 @@
         "puesto": "Account Executive - State & Local CA/NV/ID",
         "ubicacion": "Flexible / Remote",
         "url": "https://www.themuse.com/jobs/celonis/account-executive-state-local-canvid",
-        "match_score": 0.65,
-        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "DoorDash",
-        "puesto": "Enterprise Account Executive, DoorDash for Business",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/doordash/enterprise-account-executive-doordash-for-business-0baeb4",
-        "match_score": 0.65,
-        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "DoorDash",
-        "puesto": "Senior Enterprise Account Executive, DoorDash for Business",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/doordash/senior-enterprise-account-executive-doordash-for-business",
         "match_score": 0.65,
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
@@ -112,14 +104,6 @@
         "justificacion": "Sector: Coincide con tu experiencia en POS. Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
     {
-        "empresa": "Zoom",
-        "puesto": "Majors Account Executive",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/zoom/majors-account-executive-d99499",
-        "match_score": 0.55,
-        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
-    },
-    {
         "empresa": "FSE LLC",
         "puesto": "High-Ticket Financial Sales Specialist & Team Lead Track",
         "ubicacion": "Worldwide",
@@ -128,28 +112,20 @@
         "justificacion": "Sector: Coincide con tu experiencia en POS. Rol: Posición comercial de Sales, lead. Modalidad: Remoto Global compatible."
     },
     {
-        "empresa": "DoorDash",
-        "puesto": "Manager, Sales Enablement, Commerce Platform",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/doordash/manager-sales-enablement-commerce-platform",
-        "match_score": 0.5,
-        "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "Coupa",
-        "puesto": "Senior Account Director - 11213",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/coupa/senior-account-director-11213",
-        "match_score": 0.5,
-        "justificacion": "Rol: Posición comercial de Account, director. Modalidad: Remoto Global compatible."
-    },
-    {
         "empresa": "Experian",
         "puesto": "Senior Sales Account Executive (Capital Markets) - Remote",
         "ubicacion": "Flexible / Remote",
         "url": "https://www.themuse.com/jobs/experian/senior-sales-account-executive-capital-markets-remote-316b2e",
         "match_score": 0.5,
         "justificacion": "Rol: Posición comercial de Sales, account. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "Samsara Inc.",
+        "puesto": "Renewal Account Executive - Commercial",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/samsarainc/renewal-account-executive-commercial",
+        "match_score": 0.5,
+        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
     {
         "empresa": "Salesforce",
@@ -200,20 +176,36 @@
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
     {
-        "empresa": "DoorDash",
-        "puesto": "Manager, Revenue Planning & Sales Compensation - In-Store",
+        "empresa": "SpaceX",
+        "puesto": "Starlink Growth Manager, US South",
         "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/doordash/manager-revenue-planning-sales-compensation-instore",
+        "url": "https://www.themuse.com/jobs/spacex/starlink-growth-manager-us-south",
         "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
+        "justificacion": "Rol: Posición comercial de Growth, manager. Modalidad: Remoto Global compatible."
     },
     {
-        "empresa": "DoorDash",
-        "puesto": "Strategic Partnerships Sales Executive, DoorDash for Business",
+        "empresa": "SpaceX",
+        "puesto": "Starlink Growth Manager, US South",
         "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/doordash/strategic-partnerships-sales-executive-doordash-for-business",
+        "url": "https://www.themuse.com/jobs/spacex/starlink-growth-manager-us-south-e71838",
         "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Sales, partnership. Modalidad: Remoto Global compatible."
+        "justificacion": "Rol: Posición comercial de Growth, manager. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "SpaceX",
+        "puesto": "Starlink Growth Manager, US South",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/spacex/starlink-growth-manager-us-south-3af994",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición comercial de Growth, manager. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "SpaceX",
+        "puesto": "Starlink Growth Manager, California",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/spacex/starlink-growth-manager-california",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición comercial de Growth, manager. Modalidad: Remoto Global compatible."
     },
     {
         "empresa": "SpaceX",
@@ -256,20 +248,12 @@
         "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
     },
     {
-        "empresa": "Labcorp",
-        "puesto": "Strategic Payer Initiatives Sales Executive",
+        "empresa": "Henry Schein",
+        "puesto": "Sr Account Executive I",
         "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/labcorp/strategic-payer-initiatives-sales-executive",
+        "url": "https://www.themuse.com/jobs/henryschein/sr-account-executive-i-a50033",
         "match_score": 0.4,
-        "justificacion": "Sector: Coincide con tu experiencia en POS. Rol: Posición comercial de Sales. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "GE Vernova",
-        "puesto": "Senior Director - Business Development Finance",
-        "ubicacion": "Atlanta, GA, Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/gevernova/senior-director-business-development-finance-7f0024",
-        "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Business development, director. Modalidad: Remoto Global compatible."
+        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
     {
         "empresa": "UKG",
@@ -382,6 +366,14 @@
         "url": "https://www.themuse.com/jobs/gevernova/senior-parts-sales-manager-0884dc",
         "match_score": 0.4,
         "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "Allstate",
+        "puesto": "Licensed Insurance Sales Representative (Remote / Home-Based)",
+        "ubicacion": "Flexible / Remote, Hartford, CT",
+        "url": "https://www.themuse.com/jobs/allstate/licensed-insurance-sales-representative-remote-homebased-1da80f",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición comercial de Sales, representative. Modalidad: Remoto Global compatible."
     },
     {
         "empresa": "Credit Wellness, LLC",
