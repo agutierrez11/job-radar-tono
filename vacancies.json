@@ -88,6 +88,14 @@
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
     {
+        "empresa": "Autodesk",
+        "puesto": "Principal, Account Executive, Expansion",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/autodesk/principal-account-executive-expansion-2f41cd",
+        "match_score": 0.55,
+        "justificacion": "Sector: Coincide con tu experiencia en POS. Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
+    },
+    {
         "empresa": "CrowdStrike",
         "puesto": "Regional Sales Manager, Enterprise (Remote, IL)",
         "ubicacion": "Flexible / Remote",
@@ -232,14 +240,6 @@
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
     {
-        "empresa": "Henry Schein",
-        "puesto": "Clinical Sales Specialist, Dental - Kansas City, Missouri",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/henryschein/clinical-sales-specialist-dental-kansas-city-missouri",
-        "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Sales. Modalidad: Remoto Global compatible."
-    },
-    {
         "empresa": "GE Vernova",
         "puesto": "Senior Sales Manager Data Centers - Power Stability",
         "ubicacion": "Columbia, SC, Flexible / Remote",
@@ -248,20 +248,20 @@
         "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
     },
     {
-        "empresa": "Henry Schein",
-        "puesto": "Sr Account Executive I",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/henryschein/sr-account-executive-i-a50033",
-        "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
-    },
-    {
         "empresa": "UKG",
         "puesto": "ACCOUNT EXECUTIVE 4",
         "ubicacion": "Flexible / Remote",
         "url": "https://www.themuse.com/jobs/ukg/account-executive-4-0abfb8",
         "match_score": 0.4,
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "Henry Schein",
+        "puesto": "Dental Transition Sales Consultant - Maryland",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/henryschein/dental-transition-sales-consultant-maryland",
+        "match_score": 0.4,
+        "justificacion": "Sector: Coincide con tu experiencia en POS. Rol: Posición comercial de Sales. Modalidad: Remoto Global compatible."
     },
     {
         "empresa": "Equinix, Inc",
@@ -350,14 +350,6 @@
         "url": "https://www.themuse.com/jobs/bitgo/business-development-representative-mena-cyprus-or-israel",
         "match_score": 0.4,
         "justificacion": "Rol: Posición comercial de Business development, representative. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "GE Vernova",
-        "puesto": "Sr Sales Staff Manager EEMEA - Risk Mitigation (Directeur Commercial EEMEA - Atténuation des Risques) (m/w/d)",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/gevernova/sr-sales-staff-manager-eemea-risk-mitigation-directeur-commercial-eemea-attenuation-des-risques-mwd-cfee60",
-        "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
     },
     {
         "empresa": "GE Vernova",
