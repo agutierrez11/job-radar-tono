@@ -120,20 +120,20 @@
         "justificacion": "Rol: Posición comercial de Sales. Modalidad: Remoto Global compatible."
     },
     {
+        "empresa": "GE Vernova",
+        "puesto": "AMERICAS Commercial Sales Leader - Power and Energy Resources Software",
+        "ubicacion": "Delaware, OH, Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/gevernova/americas-commercial-sales-leader-power-and-energy-resources-software-a94396",
+        "match_score": 0.5,
+        "justificacion": "Rol: Posición comercial de Sales, lead. Modalidad: Remoto Global compatible."
+    },
+    {
         "empresa": "Experian",
         "puesto": "Senior Sales Account Executive (Capital Markets) - Remote",
         "ubicacion": "Flexible / Remote",
         "url": "https://www.themuse.com/jobs/experian/senior-sales-account-executive-capital-markets-remote-316b2e",
         "match_score": 0.5,
         "justificacion": "Rol: Posición comercial de Sales, account. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "Samsara Inc.",
-        "puesto": "Renewal Account Executive - Commercial",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/samsarainc/renewal-account-executive-commercial",
-        "match_score": 0.5,
-        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
     {
         "empresa": "Salesforce",
@@ -344,6 +344,14 @@
         "justificacion": "Rol: Posición comercial de Account, ae. Modalidad: Remoto Global compatible."
     },
     {
+        "empresa": "CrowdStrike",
+        "puesto": "Regional Sales Manager, Existing Accounts (Remote, Germany)",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/crowdstrike/regional-sales-manager-existing-accounts-remote-germany",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición comercial de Sales, account. Modalidad: Remoto Global compatible."
+    },
+    {
         "empresa": "BitGo",
         "puesto": "Business Development Representative - MENA (Cyprus or Israel)",
         "ubicacion": "Flexible / Remote",
@@ -358,14 +366,6 @@
         "url": "https://www.themuse.com/jobs/gevernova/senior-parts-sales-manager-0884dc",
         "match_score": 0.4,
         "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "Allstate",
-        "puesto": "Licensed Insurance Sales Representative (Remote / Home-Based)",
-        "ubicacion": "Flexible / Remote, Hartford, CT",
-        "url": "https://www.themuse.com/jobs/allstate/licensed-insurance-sales-representative-remote-homebased-1da80f",
-        "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Sales, representative. Modalidad: Remoto Global compatible."
     },
     {
         "empresa": "Credit Wellness, LLC",
