@@ -1,6 +1,14 @@
 [
     {
         "empresa": "GitLab",
+        "puesto": "Strategic Account Executive - Retail & Medial",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/gitlab/strategic-account-executive-retail-medial",
+        "match_score": 0.9,
+        "justificacion": "Sector: Coincide con tu experiencia en COMPLIANCE. Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "GitLab",
         "puesto": "Strategic Account Executive, Digital Natives - India",
         "ubicacion": "Flexible / Remote",
         "url": "https://www.themuse.com/jobs/gitlab/strategic-account-executive-digital-natives-india",
@@ -96,14 +104,6 @@
         "justificacion": "Sector: Coincide con tu experiencia en POS. Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
     {
-        "empresa": "CrowdStrike",
-        "puesto": "Regional Sales Manager, Enterprise (Remote, IL)",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/crowdstrike/regional-sales-manager-enterprise-remote-il",
-        "match_score": 0.55,
-        "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
-    },
-    {
         "empresa": "Autodesk",
         "puesto": "Principal Account Executive, Enterprise",
         "ubicacion": "Flexible / Remote",
@@ -126,14 +126,6 @@
         "url": "https://www.themuse.com/jobs/coupa/sr-services-sales-executive-11586",
         "match_score": 0.5,
         "justificacion": "Rol: Posición comercial de Sales. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "Samsara Inc.",
-        "puesto": "Renewal Account Executive - Commercial",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/samsarainc/renewal-account-executive-commercial",
-        "match_score": 0.5,
-        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
     {
         "empresa": "Salesforce",
@@ -286,6 +278,14 @@
         "url": "https://www.themuse.com/jobs/gevernova/senior-parts-sales-manager-4070c6",
         "match_score": 0.4,
         "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "USA TODAY Co.",
+        "puesto": "Account Executive",
+        "ubicacion": "Flexible / Remote, Orlando, FL",
+        "url": "https://www.themuse.com/jobs/usatodayco/account-executive-0b1bef",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
     {
         "empresa": "Mast-Jägermeister US",
