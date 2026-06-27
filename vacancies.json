@@ -72,6 +72,14 @@
         "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
     },
     {
+        "empresa": "Flexport",
+        "puesto": "Enterprise Account Executive",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/flexport/enterprise-account-executive-d84d7f",
+        "match_score": 0.55,
+        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
+    },
+    {
         "empresa": "SpaceX",
         "puesto": "Sr. Sales Manager (Global Starlink Enterprise Sales)",
         "ubicacion": "El Segundo, CA, Flexible / Remote",
@@ -136,12 +144,36 @@
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
     {
+        "empresa": "SpaceX",
+        "puesto": "Starlink Growth Manager, US South",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/spacex/starlink-growth-manager-us-south-e71838",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición comercial de Growth, manager. Modalidad: Remoto Global compatible."
+    },
+    {
         "empresa": "GlossGenius",
         "puesto": "Account Executive - New Grad",
         "ubicacion": "Flexible / Remote",
         "url": "https://www.themuse.com/jobs/glossgenius/account-executive-new-grad-02f32f",
         "match_score": 0.4,
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "SpaceX",
+        "puesto": "Starlink Growth Manager, California",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/spacex/starlink-growth-manager-california",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición comercial de Growth, manager. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "SpaceX",
+        "puesto": "Starlink Growth Manager, US South",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/spacex/starlink-growth-manager-us-south-3af994",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición comercial de Growth, manager. Modalidad: Remoto Global compatible."
     },
     {
         "empresa": "SpaceX",
@@ -172,30 +204,6 @@
         "puesto": "Starlink Growth Manager, US South",
         "ubicacion": "Flexible / Remote",
         "url": "https://www.themuse.com/jobs/spacex/starlink-growth-manager-us-south",
-        "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Growth, manager. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "SpaceX",
-        "puesto": "Starlink Growth Manager, US South",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/spacex/starlink-growth-manager-us-south-e71838",
-        "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Growth, manager. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "SpaceX",
-        "puesto": "Starlink Growth Manager, US South",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/spacex/starlink-growth-manager-us-south-3af994",
-        "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Growth, manager. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "SpaceX",
-        "puesto": "Starlink Growth Manager, California",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/spacex/starlink-growth-manager-california",
         "match_score": 0.4,
         "justificacion": "Rol: Posición comercial de Growth, manager. Modalidad: Remoto Global compatible."
     },
@@ -358,6 +366,14 @@
         "url": "https://www.themuse.com/jobs/gevernova/senior-parts-sales-manager-0884dc",
         "match_score": 0.4,
         "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "USA TODAY Co.",
+        "puesto": "Account Executive",
+        "ubicacion": "Attleboro, MA, Boston, MA, Cranston, RI, Flexible / Remote, New Bedford, MA, Providence, RI, Warwick, RI, Woonsocket, RI",
+        "url": "https://www.themuse.com/jobs/usatodayco/account-executive-7e4493",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
     {
         "empresa": "Allstate",
