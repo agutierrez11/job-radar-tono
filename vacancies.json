@@ -256,14 +256,6 @@
         "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
     },
     {
-        "empresa": "Atlassian",
-        "puesto": "Partner Sales Manager, Strategy Collection",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/atlassian/partner-sales-manager-strategy-collection",
-        "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Sales, partner. Modalidad: Remoto Global compatible."
-    },
-    {
         "empresa": "Allstate",
         "puesto": "ALLSTATE SALES AGENT -",
         "ubicacion": "Flexible / Remote",
@@ -368,14 +360,6 @@
         "justificacion": "Rol: Posición comercial de Sales, representative. Modalidad: Remoto Global compatible."
     },
     {
-        "empresa": "USA TODAY Co.",
-        "puesto": "Account Executive",
-        "ubicacion": "Evansville, IN, Flexible / Remote, Vincennes, IN",
-        "url": "https://www.themuse.com/jobs/usatodayco/account-executive-db820c",
-        "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
-    },
-    {
         "empresa": "Hitachi Energy",
         "puesto": "Regional Sales Manager for Automation and Communciation",
         "ubicacion": "Flexible / Remote",
@@ -398,5 +382,21 @@
         "url": "https://www.themuse.com/jobs/gevernova/senior-parts-sales-manager-110cbe",
         "match_score": 0.4,
         "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "CrowdStrike",
+        "puesto": "Regional Sales Manager, Existing Accounts (Remote, BRA)",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/crowdstrike/regional-sales-manager-existing-accounts-remote-bra",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición comercial de Sales, account. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "Atlassian",
+        "puesto": "Account Executive, Mid Market",
+        "ubicacion": "Bangalore, India, Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/atlassian/account-executive-mid-market-229b16",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     }
 ]
