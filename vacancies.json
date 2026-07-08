@@ -1,14 +1,6 @@
 [
     {
         "empresa": "GitLab",
-        "puesto": "Strategic Account Executive, Digital Natives - India",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/gitlab/strategic-account-executive-digital-natives-india",
-        "match_score": 0.9,
-        "justificacion": "Sector: Coincide con tu experiencia en COMPLIANCE. Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "GitLab",
         "puesto": "Strategic Account Executive, San Francisco ",
         "ubicacion": "Flexible / Remote",
         "url": "https://www.themuse.com/jobs/gitlab/strategic-account-executive-san-francisco-d96746",
@@ -232,14 +224,6 @@
         "justificacion": "Rol: Posición comercial de Growth, lead. Modalidad: Remoto Global compatible."
     },
     {
-        "empresa": "Waters",
-        "puesto": "Rheology Sales Specialist",
-        "ubicacion": "Flexible / Remote, Gunnison, CO, Wilmington, DE",
-        "url": "https://www.themuse.com/jobs/waters/rheology-sales-specialist",
-        "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Sales. Modalidad: Remoto Global compatible."
-    },
-    {
         "empresa": "CrowdStrike",
         "puesto": "Regional Sales Manager - Public Sector (Remote, DEU)",
         "ubicacion": "Flexible / Remote",
@@ -264,12 +248,28 @@
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
     {
+        "empresa": "GE Vernova",
+        "puesto": "SR Sales Manager - Industrial",
+        "ubicacion": "Flexible / Remote, Meridian, MS",
+        "url": "https://www.themuse.com/jobs/gevernova/sr-sales-manager-industrial-f9017b",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
+    },
+    {
         "empresa": "Atlassian",
         "puesto": "Strategic Account Executive - West",
         "ubicacion": "Flexible / Remote, San Francisco, CA, Seattle, WA",
         "url": "https://www.themuse.com/jobs/atlassian/strategic-account-executive-west-57c968",
         "match_score": 0.4,
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "GE Vernova",
+        "puesto": "Sr Sales Manager - Data Centers- West",
+        "ubicacion": "Flexible / Remote, Reedley, CA",
+        "url": "https://www.themuse.com/jobs/gevernova/sr-sales-manager-data-centers-west-e11e4f",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
     },
     {
         "empresa": "CrowdStrike",
@@ -310,6 +310,14 @@
         "url": "https://www.themuse.com/jobs/equinixinc/director-business-development-7506b7",
         "match_score": 0.4,
         "justificacion": "Rol: Posición comercial de Business development, director. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "GE Vernova",
+        "puesto": "Sr Sales Manager - Data Centers- West",
+        "ubicacion": "Flexible / Remote, Payson, AZ",
+        "url": "https://www.themuse.com/jobs/gevernova/sr-sales-manager-data-centers-west-cef369",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
     },
     {
         "empresa": "GE Vernova",
@@ -390,13 +398,5 @@
         "url": "https://www.themuse.com/jobs/crowdstrike/regional-sales-manager-existing-accounts-remote-bra",
         "match_score": 0.4,
         "justificacion": "Rol: Posición comercial de Sales, account. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "Atlassian",
-        "puesto": "Account Executive, Mid Market",
-        "ubicacion": "Bangalore, India, Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/atlassian/account-executive-mid-market-229b16",
-        "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     }
 ]
