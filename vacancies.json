@@ -1,13 +1,5 @@
 [
     {
-        "empresa": "GitLab",
-        "puesto": "Strategic Account Executive, San Francisco ",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/gitlab/strategic-account-executive-san-francisco-d96746",
-        "match_score": 0.9,
-        "justificacion": "Sector: Coincide con tu experiencia en COMPLIANCE. Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
-    },
-    {
         "empresa": "Kyndryl",
         "puesto": "Cybersecurity Strategic Alliances-Business Development Partner",
         "ubicacion": "Flexible / Remote, Mexico City, Mexico",
@@ -96,14 +88,6 @@
         "justificacion": "Rol: Posición comercial de Sales, account. Modalidad: Remoto Global compatible."
     },
     {
-        "empresa": "FSE LLC",
-        "puesto": "High-Ticket Financial Sales Specialist & Team Lead Track",
-        "ubicacion": "Worldwide",
-        "url": "https://remotive.com/remote-jobs/sales/high-ticket-financial-sales-specialist-team-lead-track-2090949",
-        "match_score": 0.55,
-        "justificacion": "Sector: Coincide con tu experiencia en POS. Rol: Posición comercial de Sales, lead. Modalidad: Remoto Global compatible."
-    },
-    {
         "empresa": "Zillow",
         "puesto": "Mid-Market Account Executive, Agent Software and Advertising - Southeast Region",
         "ubicacion": "Flexible / Remote",
@@ -142,6 +126,14 @@
         "url": "https://www.themuse.com/jobs/samsarainc/senior-program-manager-sales-programs-transformational-aa2619",
         "match_score": 0.5,
         "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "Samsara Inc.",
+        "puesto": "Mid-Market Account Executive - Canada",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/samsarainc/midmarket-account-executive-canada-3cc674",
+        "match_score": 0.5,
+        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
     {
         "empresa": "Salesforce",
@@ -288,12 +280,12 @@
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
     {
-        "empresa": "Henry Schein",
-        "puesto": "Dental Transition Sales Consultant - Maryland",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/henryschein/dental-transition-sales-consultant-maryland",
+        "empresa": "Allstate",
+        "puesto": "Licensed Insurance Sales Representative (Remote / Home-Based)",
+        "ubicacion": "Flexible / Remote, Santa Fe, NM",
+        "url": "https://www.themuse.com/jobs/allstate/licensed-insurance-sales-representative-remote-homebased-cb172f",
         "match_score": 0.4,
-        "justificacion": "Sector: Coincide con tu experiencia en POS. Rol: Posición comercial de Sales. Modalidad: Remoto Global compatible."
+        "justificacion": "Rol: Posición comercial de Sales, representative. Modalidad: Remoto Global compatible."
     },
     {
         "empresa": "USA TODAY Co.",
@@ -398,5 +390,13 @@
         "url": "https://www.themuse.com/jobs/crowdstrike/regional-sales-manager-existing-accounts-remote-bra",
         "match_score": 0.4,
         "justificacion": "Rol: Posición comercial de Sales, account. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "Atlassian",
+        "puesto": "Account Executive, Mid Market",
+        "ubicacion": "Bangalore, India, Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/atlassian/account-executive-mid-market-229b16",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     }
 ]
