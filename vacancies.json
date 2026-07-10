@@ -9,14 +9,6 @@
     },
     {
         "empresa": "Celonis",
-        "puesto": "Account Executive - State & Local CA/NV/ID",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/celonis/account-executive-state-local-canvid",
-        "match_score": 0.65,
-        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "Celonis",
         "puesto": "Account Executive - Retail",
         "ubicacion": "Flexible / Remote",
         "url": "https://www.themuse.com/jobs/celonis/account-executive-retail-e8918e",
@@ -43,7 +35,7 @@
         "empresa": "Flexport",
         "puesto": "Account Executive, Enterprise",
         "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/flexport/account-executive-enterprise-0e9af1",
+        "url": "https://www.themuse.com/jobs/flexport/account-executive-enterprise-371604",
         "match_score": 0.55,
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
@@ -56,20 +48,20 @@
         "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
     },
     {
+        "empresa": "Flexport",
+        "puesto": "Account Executive, Enterprise",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/flexport/account-executive-enterprise-0e9af1",
+        "match_score": 0.55,
+        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
+    },
+    {
         "empresa": "SpaceX",
         "puesto": "Sr. Sales Manager (Global Starlink Enterprise Sales)",
         "ubicacion": "El Segundo, CA, Flexible / Remote",
         "url": "https://www.themuse.com/jobs/spacex/sr-sales-manager-global-starlink-enterprise-sales-8c0a30",
         "match_score": 0.55,
         "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "Flexport",
-        "puesto": "Account Executive, Enterprise",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/flexport/account-executive-enterprise-371604",
-        "match_score": 0.55,
-        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
     {
         "empresa": "Autodesk",
@@ -86,6 +78,14 @@
         "url": "https://www.themuse.com/jobs/autodesk/enterprise-accounts-sales-executive",
         "match_score": 0.55,
         "justificacion": "Rol: Posición comercial de Sales, account. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "FSE LLC",
+        "puesto": "High-Ticket Financial Sales Specialist & Team Lead Track",
+        "ubicacion": "Worldwide",
+        "url": "https://remotive.com/remote-jobs/sales/high-ticket-financial-sales-specialist-team-lead-track-2090949",
+        "match_score": 0.55,
+        "justificacion": "Sector: Coincide con tu experiencia en POS. Rol: Posición comercial de Sales, lead. Modalidad: Remoto Global compatible."
     },
     {
         "empresa": "Zillow",
