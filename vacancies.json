@@ -137,14 +137,6 @@
     },
     {
         "empresa": "Salesforce",
-        "puesto": "Qualified Commercial Account Executive",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/salesforce/qualified-commercial-account-executive",
-        "match_score": 0.45,
-        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "Salesforce",
         "puesto": "Prime Named Account Executive",
         "ubicacion": "Flexible / Remote",
         "url": "https://www.themuse.com/jobs/salesforce/prime-named-account-executive-2f60b8",
@@ -272,6 +264,14 @@
         "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
     },
     {
+        "empresa": "General Motors",
+        "puesto": "District Sales Manager - Chevrolet (Spokane, WA)",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/generalmotors/district-sales-manager-chevrolet-spokane-wa-968be3",
+        "match_score": 0.4,
+        "justificacion": "Sector: Coincide con tu experiencia en POS. Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
+    },
+    {
         "empresa": "UKG",
         "puesto": "ACCOUNT EXECUTIVE 4",
         "ubicacion": "Flexible / Remote",
@@ -326,14 +326,6 @@
         "url": "https://www.themuse.com/jobs/gevernova/sales-manager-power-stability-southwest-05bb95",
         "match_score": 0.4,
         "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "USA TODAY Co.",
-        "puesto": "Account Executive",
-        "ubicacion": "Flexible / Remote, Orlando, FL",
-        "url": "https://www.themuse.com/jobs/usatodayco/account-executive-0b1bef",
-        "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
     {
         "empresa": "CrowdStrike",
@@ -398,5 +390,13 @@
         "url": "https://www.themuse.com/jobs/atlassian/account-executive-mid-market-229b16",
         "match_score": 0.4,
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "Credit Wellness, LLC",
+        "puesto": "Inside Sales Contractor",
+        "ubicacion": "Worldwide",
+        "url": "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición comercial de Sales. Modalidad: Remoto Global compatible."
     }
 ]
