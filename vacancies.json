@@ -1,11 +1,11 @@
 [
     {
         "empresa": "GitLab",
-        "puesto": "Strategic Account Executive, San Francisco ",
+        "puesto": "Ecosystem Sales Manager, Carahsoft (Washington DC)",
         "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/gitlab/strategic-account-executive-san-francisco-d96746",
+        "url": "https://www.themuse.com/jobs/gitlab/ecosystem-sales-manager-carahsoft-washington-dc",
         "match_score": 0.9,
-        "justificacion": "Sector: Coincide con tu experiencia en COMPLIANCE. Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
+        "justificacion": "Sector: Coincide con tu experiencia en COMPLIANCE. Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
     },
     {
         "empresa": "Kyndryl",
@@ -17,9 +17,33 @@
     },
     {
         "empresa": "Celonis",
+        "puesto": "Partner Sales Director - US Public Sector",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/celonis/partner-sales-director-us-public-sector",
+        "match_score": 0.65,
+        "justificacion": "Rol: Posición comercial de Sales, partner. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "Celonis",
         "puesto": "Account Executive - Energy",
         "ubicacion": "Flexible / Remote",
         "url": "https://www.themuse.com/jobs/celonis/account-executive-energy",
+        "match_score": 0.65,
+        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "Celonis",
+        "puesto": "Account Executive - Federal",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/celonis/account-executive-federal-468752",
+        "match_score": 0.65,
+        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "Celonis",
+        "puesto": "Account Executive - Federal",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/celonis/account-executive-federal",
         "match_score": 0.65,
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
@@ -30,14 +54,6 @@
         "url": "https://www.themuse.com/jobs/celonis/account-executive-retail-e8918e",
         "match_score": 0.65,
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "Celonis",
-        "puesto": "Partner Sales Director - US Public Sector",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/celonis/partner-sales-director-us-public-sector",
-        "match_score": 0.65,
-        "justificacion": "Rol: Posición comercial de Sales, partner. Modalidad: Remoto Global compatible."
     },
     {
         "empresa": "Atlassian",
@@ -96,20 +112,20 @@
         "justificacion": "Rol: Posición comercial de Sales, account. Modalidad: Remoto Global compatible."
     },
     {
+        "empresa": "KinderCare Learning Companies",
+        "puesto": "B2B Sales Account Manager",
+        "ubicacion": "Beaverton, OR, Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/kindercarelearningcompanies/b2b-sales-account-manager",
+        "match_score": 0.55,
+        "justificacion": "Rol: Posición comercial de Sales, account. Modalidad: Remoto Global compatible."
+    },
+    {
         "empresa": "FSE LLC",
         "puesto": "High-Ticket Financial Sales Specialist & Team Lead Track",
         "ubicacion": "Worldwide",
         "url": "https://remotive.com/remote-jobs/sales/high-ticket-financial-sales-specialist-team-lead-track-2090949",
         "match_score": 0.55,
         "justificacion": "Sector: Coincide con tu experiencia en POS. Rol: Posición comercial de Sales, lead. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "Kyndryl",
-        "puesto": "Director, Consult Partner - SLED (Illinois)",
-        "ubicacion": "Chicago, IL, Flexible / Remote, Gunnison, CO",
-        "url": "https://www.themuse.com/jobs/kyndryl/director-consult-partner-sled-illinois",
-        "match_score": 0.5,
-        "justificacion": "Rol: Posición comercial de Partner, director. Modalidad: Remoto Global compatible."
     },
     {
         "empresa": "Coupa",
@@ -136,10 +152,10 @@
         "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
     },
     {
-        "empresa": "Samsara Inc.",
-        "puesto": "Mid-Market Account Executive - Canada",
+        "empresa": "Zoom",
+        "puesto": "Account Executive - Midmarket VAST",
         "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/samsarainc/midmarket-account-executive-canada-3cc674",
+        "url": "https://www.themuse.com/jobs/zoom/account-executive-midmarket-vast-ac80f3",
         "match_score": 0.5,
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
@@ -224,14 +240,6 @@
         "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
     },
     {
-        "empresa": "Hitachi Energy",
-        "puesto": "Service Sales Team Lead",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/hitachienergy/service-sales-team-lead",
-        "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Sales, lead. Modalidad: Remoto Global compatible."
-    },
-    {
         "empresa": "UKG",
         "puesto": "SMB Account Executive - Public Sector",
         "ubicacion": "Flexible / Remote",
@@ -272,6 +280,14 @@
         "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
     },
     {
+        "empresa": "USA TODAY Co.",
+        "puesto": "Account Executive",
+        "ubicacion": "Flexible / Remote, Holland, MI",
+        "url": "https://www.themuse.com/jobs/usatodayco/account-executive-e8fb29",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
+    },
+    {
         "empresa": "General Motors",
         "puesto": "District Sales Manager - Chevrolet (Spokane, WA)",
         "ubicacion": "Flexible / Remote",
@@ -296,12 +312,12 @@
         "justificacion": "Rol: Posición comercial de Sales, representative. Modalidad: Remoto Global compatible."
     },
     {
-        "empresa": "USA TODAY Co.",
-        "puesto": "Account Executive",
-        "ubicacion": "Flexible / Remote, Holland, MI",
-        "url": "https://www.themuse.com/jobs/usatodayco/account-executive-738086",
+        "empresa": "PNC",
+        "puesto": "Sales & Service Representative-Customer Care Center",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/pnc/sales-service-representativecustomer-care-center",
         "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
+        "justificacion": "Sector: Coincide con tu experiencia en POS. Rol: Posición comercial de Sales, representative. Modalidad: Remoto Global compatible."
     },
     {
         "empresa": "Equinix, Inc",
@@ -382,21 +398,5 @@
         "url": "https://www.themuse.com/jobs/atlassian/account-executive-mid-market-229b16",
         "match_score": 0.4,
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "BitGo",
-        "puesto": "Business Development Representative - MENA (Cyprus or Israel)",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/bitgo/business-development-representative-mena-cyprus-or-israel",
-        "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Business development, representative. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "Credit Wellness, LLC",
-        "puesto": "Inside Sales Contractor",
-        "ubicacion": "Worldwide",
-        "url": "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540",
-        "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Sales. Modalidad: Remoto Global compatible."
     }
 ]
