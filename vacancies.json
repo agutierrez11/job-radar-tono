@@ -16,12 +16,12 @@
         "justificacion": "Rol: Posición comercial de Business development, partner. Ubicación ideal: Flexible / Remote, Mexico City, Mexico."
     },
     {
-        "empresa": "Celonis",
-        "puesto": "Partner Sales Director - US Public Sector",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/celonis/partner-sales-director-us-public-sector",
-        "match_score": 0.65,
-        "justificacion": "Rol: Posición comercial de Sales, partner. Modalidad: Remoto Global compatible."
+        "empresa": "Vonage",
+        "puesto": "Sales Development Representative - API/CPaaS (NwPS)",
+        "ubicacion": "Mexico,  USA",
+        "url": "https://jobicy.com/jobs/149389-sales-development-representative-api-cpaas-nwps",
+        "match_score": 0.7,
+        "justificacion": "Rol: Posición comercial de Sales, representative. Ubicación ideal: Mexico,  USA."
     },
     {
         "empresa": "Celonis",
@@ -120,6 +120,14 @@
         "justificacion": "Rol: Posición comercial de Sales, account. Modalidad: Remoto Global compatible."
     },
     {
+        "empresa": "Atlassian",
+        "puesto": "Account Executive, Mid Market (LATAM)",
+        "ubicacion": "Austin, TX, Flexible / Remote, New York, NY",
+        "url": "https://www.themuse.com/jobs/atlassian/account-executive-mid-market-latam",
+        "match_score": 0.55,
+        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
+    },
+    {
         "empresa": "FSE LLC",
         "puesto": "High-Ticket Financial Sales Specialist & Team Lead Track",
         "ubicacion": "Worldwide",
@@ -156,6 +164,14 @@
         "puesto": "Account Executive - Midmarket VAST",
         "ubicacion": "Flexible / Remote",
         "url": "https://www.themuse.com/jobs/zoom/account-executive-midmarket-vast-ac80f3",
+        "match_score": 0.5,
+        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "Samsara Inc.",
+        "puesto": "Mid-Market Account Executive - Canada",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/samsarainc/midmarket-account-executive-canada-3cc674",
         "match_score": 0.5,
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
@@ -382,21 +398,5 @@
         "url": "https://www.themuse.com/jobs/gevernova/senior-parts-sales-manager-110cbe",
         "match_score": 0.4,
         "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "CrowdStrike",
-        "puesto": "Regional Sales Manager, Existing Accounts (Remote, BRA)",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/crowdstrike/regional-sales-manager-existing-accounts-remote-bra",
-        "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Sales, account. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "Atlassian",
-        "puesto": "Account Executive, Mid Market",
-        "ubicacion": "Bangalore, India, Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/atlassian/account-executive-mid-market-229b16",
-        "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     }
 ]
