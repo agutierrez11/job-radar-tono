@@ -160,6 +160,14 @@
         "justificacion": "Rol: Posición comercial de Sales. Modalidad: Remoto Global compatible."
     },
     {
+        "empresa": "Zoom",
+        "puesto": "Account Executive - State & Local Government",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/zoom/account-executive-state-local-government-8055e5",
+        "match_score": 0.5,
+        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
+    },
+    {
         "empresa": "Samsara Inc.",
         "puesto": "Commercial Account Executive ",
         "ubicacion": "Flexible / Remote",
@@ -240,14 +248,6 @@
         "justificacion": "Rol: Posición comercial de Growth, lead. Modalidad: Remoto Global compatible."
     },
     {
-        "empresa": "CrowdStrike",
-        "puesto": "Regional Sales Manager - Public Sector (Remote, DEU)",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/crowdstrike/regional-sales-manager-public-sector-remote-deu-d949fc",
-        "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
-    },
-    {
         "empresa": "UKG",
         "puesto": "SMB Account Executive - Public Sector",
         "ubicacion": "Flexible / Remote",
@@ -288,12 +288,12 @@
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
     {
-        "empresa": "Zoom",
-        "puesto": "Channel Account Management Lead - METAP",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/zoom/channel-account-management-lead-metap",
+        "empresa": "Waters",
+        "puesto": "Sr MS Sales Development Specialist",
+        "ubicacion": "Flexible / Remote, Gunnison, CO",
+        "url": "https://www.themuse.com/jobs/waters/sr-ms-sales-development-specialist-b7630e",
         "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Account, lead. Modalidad: Remoto Global compatible."
+        "justificacion": "Rol: Posición comercial de Sales. Modalidad: Remoto Global compatible."
     },
     {
         "empresa": "UKG",
@@ -392,11 +392,11 @@
         "justificacion": "Rol: Posición comercial de Sales, account. Modalidad: Remoto Global compatible."
     },
     {
-        "empresa": "Atlassian",
-        "puesto": "Account Executive, Mid Market",
-        "ubicacion": "Bangalore, India, Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/atlassian/account-executive-mid-market-229b16",
+        "empresa": "CrowdStrike",
+        "puesto": "Services Sales Manager, Services & Complete (Remote)",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/crowdstrike/services-sales-manager-services-complete-remote-353d3f",
         "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
+        "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
     }
 ]
