@@ -8,6 +8,14 @@
         "justificacion": "Sector: Coincide con tu experiencia en COMPLIANCE. Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
     },
     {
+        "empresa": "GitLab",
+        "puesto": "Strategic Account Executive, San Francisco ",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/gitlab/strategic-account-executive-san-francisco-d96746",
+        "match_score": 0.9,
+        "justificacion": "Sector: Coincide con tu experiencia en COMPLIANCE. Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
+    },
+    {
         "empresa": "Kyndryl",
         "puesto": "Cybersecurity Strategic Alliances-Business Development Partner",
         "ubicacion": "Flexible / Remote, Mexico City, Mexico",
@@ -160,14 +168,6 @@
         "justificacion": "Rol: Posición comercial de Sales. Modalidad: Remoto Global compatible."
     },
     {
-        "empresa": "Zoom",
-        "puesto": "Account Executive - State & Local Government",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/zoom/account-executive-state-local-government-8055e5",
-        "match_score": 0.5,
-        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
-    },
-    {
         "empresa": "Samsara Inc.",
         "puesto": "Commercial Account Executive ",
         "ubicacion": "Flexible / Remote",
@@ -188,6 +188,22 @@
         "puesto": "Mid-Market Account Executive - Canada",
         "ubicacion": "Flexible / Remote",
         "url": "https://www.themuse.com/jobs/samsarainc/midmarket-account-executive-canada-3cc674",
+        "match_score": 0.5,
+        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "Oscar Health",
+        "puesto": "Sales Executive, Southeast",
+        "ubicacion": "Chapel Hill, NC, Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/oscarhealth/sales-executive-southeast-b240f3",
+        "match_score": 0.5,
+        "justificacion": "Rol: Posición comercial de Sales. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "Samsara Inc.",
+        "puesto": "Commercial Account Executive ",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/samsarainc/commercial-account-executive-4119e2",
         "match_score": 0.5,
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
@@ -256,22 +272,6 @@
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
     {
-        "empresa": "GE Vernova",
-        "puesto": "SR Sales Manager - Industrial",
-        "ubicacion": "Flexible / Remote, Meridian, MS",
-        "url": "https://www.themuse.com/jobs/gevernova/sr-sales-manager-industrial-f9017b",
-        "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "GE Vernova",
-        "puesto": "Sr Sales Manager - Data Centers- West",
-        "ubicacion": "Flexible / Remote, Reedley, CA",
-        "url": "https://www.themuse.com/jobs/gevernova/sr-sales-manager-data-centers-west-e11e4f",
-        "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
-    },
-    {
         "empresa": "CrowdStrike",
         "puesto": "Regional Sales Manager, Portugal (Remote)",
         "ubicacion": "Flexible / Remote",
@@ -328,30 +328,6 @@
         "justificacion": "Rol: Posición comercial de Business development, director. Modalidad: Remoto Global compatible."
     },
     {
-        "empresa": "GE Vernova",
-        "puesto": "Sr Sales Manager - Data Centers- West",
-        "ubicacion": "Flexible / Remote, Payson, AZ",
-        "url": "https://www.themuse.com/jobs/gevernova/sr-sales-manager-data-centers-west-cef369",
-        "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "GE Vernova",
-        "puesto": "Senior Parts Sales Manager",
-        "ubicacion": "Dublin, GA, Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/gevernova/senior-parts-sales-manager-4070c6",
-        "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "GE Vernova",
-        "puesto": "Sales Manager - Power Stability Southwest",
-        "ubicacion": "Boston, MA, Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/gevernova/sales-manager-power-stability-southwest-05bb95",
-        "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
-    },
-    {
         "empresa": "Allstate",
         "puesto": "Licensed Insurance Sales Representative (Remote / Home-Based)",
         "ubicacion": "Flexible / Remote, Newark, NJ",
@@ -364,22 +340,6 @@
         "puesto": "Regional Sales Manager for Automation and Communciation",
         "ubicacion": "Flexible / Remote",
         "url": "https://www.themuse.com/jobs/hitachienergy/regional-sales-manager-for-automation-and-communciation-2f43db",
-        "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "GE Vernova",
-        "puesto": "Senior Parts Sales Manager",
-        "ubicacion": "Baton Rouge, LA, Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/gevernova/senior-parts-sales-manager-f11b56",
-        "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "GE Vernova",
-        "puesto": "Senior Parts Sales Manager",
-        "ubicacion": "Flexible / Remote, Selma, AL",
-        "url": "https://www.themuse.com/jobs/gevernova/senior-parts-sales-manager-110cbe",
         "match_score": 0.4,
         "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
     },
@@ -398,5 +358,45 @@
         "url": "https://www.themuse.com/jobs/crowdstrike/services-sales-manager-services-complete-remote-353d3f",
         "match_score": 0.4,
         "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "Atlassian",
+        "puesto": "Account Executive, Mid Market",
+        "ubicacion": "Bangalore, India, Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/atlassian/account-executive-mid-market-229b16",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "BitGo",
+        "puesto": "Business Development Representative - MENA (Cyprus or Israel)",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/bitgo/business-development-representative-mena-cyprus-or-israel",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición comercial de Business development, representative. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "Achieve",
+        "puesto": "Director, Wholesale Business Development",
+        "ubicacion": "Flexible / Remote, Tempe, AZ",
+        "url": "https://www.themuse.com/jobs/achieve/director-wholesale-business-development",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición comercial de Business development, director. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "Autodesk",
+        "puesto": "Senior Associate, Territory Sales Representative",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/autodesk/senior-associate-territory-sales-representative",
+        "match_score": 0.4,
+        "justificacion": "Sector: Coincide con tu experiencia en POS. Rol: Posición comercial de Sales, representative. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "Credit Wellness, LLC",
+        "puesto": "Inside Sales Contractor",
+        "ubicacion": "Worldwide",
+        "url": "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición comercial de Sales. Modalidad: Remoto Global compatible."
     }
 ]
