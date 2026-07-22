@@ -80,28 +80,12 @@
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
     {
-        "empresa": "SpaceX",
-        "puesto": "Sr. Sales Manager (Global Starlink Enterprise Sales)",
-        "ubicacion": "El Segundo, CA, Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/spacex/sr-sales-manager-global-starlink-enterprise-sales-d61fcf",
-        "match_score": 0.55,
-        "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
-    },
-    {
         "empresa": "Flexport",
         "puesto": "Account Executive, Enterprise",
         "ubicacion": "Flexible / Remote",
         "url": "https://www.themuse.com/jobs/flexport/account-executive-enterprise-0e9af1",
         "match_score": 0.55,
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "SpaceX",
-        "puesto": "Sr. Sales Manager (Global Starlink Enterprise Sales)",
-        "ubicacion": "El Segundo, CA, Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/spacex/sr-sales-manager-global-starlink-enterprise-sales-8c0a30",
-        "match_score": 0.55,
-        "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
     },
     {
         "empresa": "Autodesk",
@@ -128,12 +112,52 @@
         "justificacion": "Rol: Posición comercial de Sales, account. Modalidad: Remoto Global compatible."
     },
     {
+        "empresa": "Zoom",
+        "puesto": "Account Executive Enterprise - South Germany",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/zoom/account-executive-enterprise-south-germany-b23d75",
+        "match_score": 0.55,
+        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
+    },
+    {
         "empresa": "Atlassian",
         "puesto": "Account Executive, Mid Market (LATAM)",
         "ubicacion": "Austin, TX, Flexible / Remote, New York, NY",
         "url": "https://www.themuse.com/jobs/atlassian/account-executive-mid-market-latam",
         "match_score": 0.55,
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "Canonical Ltd.",
+        "puesto": "Graduate Sales Development Representative",
+        "ubicacion": "Anywhere",
+        "url": "https://jobicy.com/jobs/149555-graduate-sales-development-representative",
+        "match_score": 0.55,
+        "justificacion": "Rol: Posición comercial de Sales, representative. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "Canonical Ltd.",
+        "puesto": "Embedded Devices Software Solution Sales - All Roles",
+        "ubicacion": "Anywhere",
+        "url": "https://jobicy.com/jobs/149539-embedded-devices-software-solution-sales-all-roles",
+        "match_score": 0.55,
+        "justificacion": "Rol: Posición comercial de Sales. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "Canonical Ltd.",
+        "puesto": "Partner Sales Director - Global System Integrator (GSI)",
+        "ubicacion": "Anywhere",
+        "url": "https://jobicy.com/jobs/149529-partner-sales-director-global-system-integrator-gsi",
+        "match_score": 0.55,
+        "justificacion": "Rol: Posición comercial de Sales, partner. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "Canonical Ltd.",
+        "puesto": "Senior Partner Sales Manager - Global System Integrator (GSI)",
+        "ubicacion": "Anywhere",
+        "url": "https://jobicy.com/jobs/149525-senior-partner-sales-manager-global-system-integrator-gsi",
+        "match_score": 0.55,
+        "justificacion": "Rol: Posición comercial de Sales, partner. Modalidad: Remoto Global compatible."
     },
     {
         "empresa": "FSE LLC",
@@ -288,14 +312,6 @@
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
     {
-        "empresa": "Waters",
-        "puesto": "Sr MS Sales Development Specialist",
-        "ubicacion": "Flexible / Remote, Gunnison, CO",
-        "url": "https://www.themuse.com/jobs/waters/sr-ms-sales-development-specialist-b7630e",
-        "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Sales. Modalidad: Remoto Global compatible."
-    },
-    {
         "empresa": "UKG",
         "puesto": "ACCOUNT EXECUTIVE 4",
         "ubicacion": "Flexible / Remote",
@@ -344,6 +360,14 @@
         "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
     },
     {
+        "empresa": "PNC",
+        "puesto": "Business Banking Sales Consultant - Customer Care Center",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/pnc/business-banking-sales-consultant-customer-care-center-b1b604",
+        "match_score": 0.4,
+        "justificacion": "Sector: Coincide con tu experiencia en POS. Rol: Posición comercial de Sales. Modalidad: Remoto Global compatible."
+    },
+    {
         "empresa": "CrowdStrike",
         "puesto": "Regional Sales Manager, Existing Accounts (Remote, BRA)",
         "ubicacion": "Flexible / Remote",
@@ -374,29 +398,5 @@
         "url": "https://www.themuse.com/jobs/bitgo/business-development-representative-mena-cyprus-or-israel",
         "match_score": 0.4,
         "justificacion": "Rol: Posición comercial de Business development, representative. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "Achieve",
-        "puesto": "Director, Wholesale Business Development",
-        "ubicacion": "Flexible / Remote, Tempe, AZ",
-        "url": "https://www.themuse.com/jobs/achieve/director-wholesale-business-development",
-        "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Business development, director. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "Autodesk",
-        "puesto": "Senior Associate, Territory Sales Representative",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/autodesk/senior-associate-territory-sales-representative",
-        "match_score": 0.4,
-        "justificacion": "Sector: Coincide con tu experiencia en POS. Rol: Posición comercial de Sales, representative. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "Credit Wellness, LLC",
-        "puesto": "Inside Sales Contractor",
-        "ubicacion": "Worldwide",
-        "url": "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540",
-        "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Sales. Modalidad: Remoto Global compatible."
     }
 ]
