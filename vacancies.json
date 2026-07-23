@@ -112,14 +112,6 @@
         "justificacion": "Rol: Posición comercial de Sales, account. Modalidad: Remoto Global compatible."
     },
     {
-        "empresa": "Zoom",
-        "puesto": "Account Executive Enterprise - South Germany",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/zoom/account-executive-enterprise-south-germany-b23d75",
-        "match_score": 0.55,
-        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
-    },
-    {
         "empresa": "Atlassian",
         "puesto": "Account Executive, Mid Market (LATAM)",
         "ubicacion": "Austin, TX, Flexible / Remote, New York, NY",
@@ -232,6 +224,14 @@
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
     {
+        "empresa": "Kyndryl",
+        "puesto": "Assoc. Partner, Consult Partner - Security & Resiliency Market Focal",
+        "ubicacion": "Flexible / Remote, Purchase, NY",
+        "url": "https://www.themuse.com/jobs/kyndryl/assoc-partner-consult-partner-security-resiliency-market-focal",
+        "match_score": 0.5,
+        "justificacion": "Rol: Posición comercial de Partner. Modalidad: Remoto Global compatible."
+    },
+    {
         "empresa": "Salesforce",
         "puesto": "Prime Named Account Executive",
         "ubicacion": "Flexible / Remote",
@@ -278,6 +278,14 @@
         "url": "https://www.themuse.com/jobs/spacex/starlink-growth-manager-us-south",
         "match_score": 0.4,
         "justificacion": "Rol: Posición comercial de Growth, manager. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "Sunrun",
+        "puesto": "Sales Retention Representative",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/sunrun/sales-retention-representative-a95d10",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición comercial de Sales, representative. Modalidad: Remoto Global compatible."
     },
     {
         "empresa": "SpaceX",
@@ -328,14 +336,6 @@
         "justificacion": "Rol: Posición comercial de Sales, representative. Modalidad: Remoto Global compatible."
     },
     {
-        "empresa": "TD Bank",
-        "puesto": "Equip Finance Sales Officer III",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/tdbank/equip-finance-sales-officer-iii-fa6b41",
-        "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Sales. Modalidad: Remoto Global compatible."
-    },
-    {
         "empresa": "Equinix, Inc",
         "puesto": "Director, Business Development",
         "ubicacion": "Flexible / Remote, Toronto, Canada",
@@ -358,14 +358,6 @@
         "url": "https://www.themuse.com/jobs/hitachienergy/regional-sales-manager-for-automation-and-communciation-2f43db",
         "match_score": 0.4,
         "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "PNC",
-        "puesto": "Business Banking Sales Consultant - Customer Care Center",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/pnc/business-banking-sales-consultant-customer-care-center-b1b604",
-        "match_score": 0.4,
-        "justificacion": "Sector: Coincide con tu experiencia en POS. Rol: Posición comercial de Sales. Modalidad: Remoto Global compatible."
     },
     {
         "empresa": "CrowdStrike",
@@ -398,5 +390,13 @@
         "url": "https://www.themuse.com/jobs/bitgo/business-development-representative-mena-cyprus-or-israel",
         "match_score": 0.4,
         "justificacion": "Rol: Posición comercial de Business development, representative. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "Achieve",
+        "puesto": "Director, Wholesale Business Development",
+        "ubicacion": "Flexible / Remote, Tempe, AZ",
+        "url": "https://www.themuse.com/jobs/achieve/director-wholesale-business-development",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición comercial de Business development, director. Modalidad: Remoto Global compatible."
     }
 ]
