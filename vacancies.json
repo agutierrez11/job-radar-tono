@@ -224,14 +224,6 @@
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
     {
-        "empresa": "Kyndryl",
-        "puesto": "Assoc. Partner, Consult Partner - Security & Resiliency Market Focal",
-        "ubicacion": "Flexible / Remote, Purchase, NY",
-        "url": "https://www.themuse.com/jobs/kyndryl/assoc-partner-consult-partner-security-resiliency-market-focal",
-        "match_score": 0.5,
-        "justificacion": "Rol: Posición comercial de Partner. Modalidad: Remoto Global compatible."
-    },
-    {
         "empresa": "Salesforce",
         "puesto": "Prime Named Account Executive",
         "ubicacion": "Flexible / Remote",
@@ -358,6 +350,14 @@
         "url": "https://www.themuse.com/jobs/hitachienergy/regional-sales-manager-for-automation-and-communciation-2f43db",
         "match_score": 0.4,
         "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "Autodesk",
+        "puesto": "Director, Business Development",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/autodesk/director-business-development",
+        "match_score": 0.4,
+        "justificacion": "Sector: Coincide con tu experiencia en POS. Rol: Posición comercial de Business development, director. Modalidad: Remoto Global compatible."
     },
     {
         "empresa": "CrowdStrike",
