@@ -16,6 +16,14 @@
         "justificacion": "Sector: Coincide con tu experiencia en COMPLIANCE. Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
     {
+        "empresa": "GitLab",
+        "puesto": "Business Development Representative ",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/gitlab/business-development-representative-23dc4b",
+        "match_score": 0.9,
+        "justificacion": "Sector: Coincide con tu experiencia en COMPLIANCE. Rol: Posición comercial de Business development, representative. Modalidad: Remoto Global compatible."
+    },
+    {
         "empresa": "Kyndryl",
         "puesto": "Cybersecurity Strategic Alliances-Business Development Partner",
         "ubicacion": "Flexible / Remote, Mexico City, Mexico",
@@ -100,6 +108,14 @@
         "puesto": "Account Executive, Mid Market (LATAM)",
         "ubicacion": "Austin, TX, Flexible / Remote, New York, NY",
         "url": "https://www.themuse.com/jobs/atlassian/account-executive-mid-market-latam",
+        "match_score": 0.55,
+        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "Zoom",
+        "puesto": "Account Executive Majors & Enterprise - Switzerland",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/zoom/account-executive-majors-enterprise-switzerland",
         "match_score": 0.55,
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
@@ -195,7 +211,7 @@
         "empresa": "Oscar Health",
         "puesto": "Sales Executive, Southeast",
         "ubicacion": "Chapel Hill, NC, Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/oscarhealth/sales-executive-southeast-b240f3",
+        "url": "https://www.themuse.com/jobs/oscarhealth/sales-executive-southeast-8656cd",
         "match_score": 0.5,
         "justificacion": "Rol: Posición comercial de Sales. Modalidad: Remoto Global compatible."
     },
@@ -206,6 +222,14 @@
         "url": "https://www.themuse.com/jobs/samsarainc/commercial-account-executive-4119e2",
         "match_score": 0.5,
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "Kyndryl",
+        "puesto": "Assoc. Partner, Consult Partner - Security & Resiliency Market Focal",
+        "ubicacion": "Flexible / Remote, Purchase, NY",
+        "url": "https://www.themuse.com/jobs/kyndryl/assoc-partner-consult-partner-security-resiliency-market-focal",
+        "match_score": 0.5,
+        "justificacion": "Rol: Posición comercial de Partner. Modalidad: Remoto Global compatible."
     },
     {
         "empresa": "Salesforce",
@@ -281,9 +305,9 @@
     },
     {
         "empresa": "CrowdStrike",
-        "puesto": "Regional Sales Manager, Portugal (Remote)",
+        "puesto": "Regional Sales Manager (Remote, COL)",
         "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/crowdstrike/regional-sales-manager-portugal-remote-9e45ec",
+        "url": "https://www.themuse.com/jobs/crowdstrike/regional-sales-manager-remote-col-00103e",
         "match_score": 0.4,
         "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
     },
@@ -352,22 +376,6 @@
         "justificacion": "Sector: Coincide con tu experiencia en POS. Rol: Posición comercial de Business development, director. Modalidad: Remoto Global compatible."
     },
     {
-        "empresa": "CrowdStrike",
-        "puesto": "Regional Sales Manager, Existing Accounts (Remote, BRA)",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/crowdstrike/regional-sales-manager-existing-accounts-remote-bra",
-        "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Sales, account. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "CrowdStrike",
-        "puesto": "Services Sales Manager, Services & Complete (Remote)",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/crowdstrike/services-sales-manager-services-complete-remote-353d3f",
-        "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
-    },
-    {
         "empresa": "Atlassian",
         "puesto": "Account Executive, Mid Market",
         "ubicacion": "Bangalore, India, Flexible / Remote",
@@ -384,19 +392,11 @@
         "justificacion": "Rol: Posición comercial de Business development, representative. Modalidad: Remoto Global compatible."
     },
     {
-        "empresa": "Achieve",
-        "puesto": "Director, Wholesale Business Development",
-        "ubicacion": "Flexible / Remote, Tempe, AZ",
-        "url": "https://www.themuse.com/jobs/achieve/director-wholesale-business-development",
+        "empresa": "Atlassian",
+        "puesto": "Sales Development Representative, Strategy Collections",
+        "ubicacion": "Austin, TX, Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/atlassian/sales-development-representative-strategy-collections-302bf1",
         "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Business development, director. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "CrowdStrike",
-        "puesto": "NG SIEM Sales Specialist - Northern Europe (Remote, GBR)",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/crowdstrike/ng-siem-sales-specialist-northern-europe-remote-gbr",
-        "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Sales. Modalidad: Remoto Global compatible."
+        "justificacion": "Rol: Posición comercial de Sales, representative. Modalidad: Remoto Global compatible."
     }
 ]
