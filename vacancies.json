@@ -16,6 +16,14 @@
         "justificacion": "Sector: Coincide con tu experiencia en COMPLIANCE. Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
     {
+        "empresa": "GitLab",
+        "puesto": "Business Development Representative ",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/gitlab/business-development-representative-23dc4b",
+        "match_score": 0.9,
+        "justificacion": "Sector: Coincide con tu experiencia en COMPLIANCE. Rol: Posición comercial de Business development, representative. Modalidad: Remoto Global compatible."
+    },
+    {
         "empresa": "Kyndryl",
         "puesto": "Cybersecurity Strategic Alliances-Business Development Partner",
         "ubicacion": "Flexible / Remote, Mexico City, Mexico",
@@ -104,14 +112,6 @@
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
     {
-        "empresa": "Zoom",
-        "puesto": "Account Executive Majors & Enterprise - Switzerland",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/zoom/account-executive-majors-enterprise-switzerland",
-        "match_score": 0.55,
-        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
-    },
-    {
         "empresa": "Canonical Ltd.",
         "puesto": "Graduate Sales Development Representative",
         "ubicacion": "Anywhere",
@@ -166,14 +166,6 @@
         "url": "https://www.themuse.com/jobs/glossgenius/account-executive-new-grad-02f32f",
         "match_score": 0.5,
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "Coupa",
-        "puesto": "Sr Services Sales Executive - 11586",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/coupa/sr-services-sales-executive-11586",
-        "match_score": 0.5,
-        "justificacion": "Rol: Posición comercial de Sales. Modalidad: Remoto Global compatible."
     },
     {
         "empresa": "Samsara Inc.",
@@ -275,7 +267,23 @@
         "empresa": "SpaceX",
         "puesto": "Starlink Growth Manager, US South",
         "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/spacex/starlink-growth-manager-us-south-7e947c",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición comercial de Growth, manager. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "SpaceX",
+        "puesto": "Starlink Growth Manager, US South",
+        "ubicacion": "Flexible / Remote",
         "url": "https://www.themuse.com/jobs/spacex/starlink-growth-manager-us-south",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición comercial de Growth, manager. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "SpaceX",
+        "puesto": "Starlink Growth Manager, US Northeast",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/spacex/starlink-growth-manager-us-northeast-b94098",
         "match_score": 0.4,
         "justificacion": "Rol: Posición comercial de Growth, manager. Modalidad: Remoto Global compatible."
     },
@@ -296,20 +304,20 @@
         "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
     },
     {
-        "empresa": "UKG",
-        "puesto": "SMB Account Executive - Public Sector",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/ukg/smb-account-executive-public-sector-be6ec6",
-        "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
-    },
-    {
         "empresa": "CrowdStrike",
         "puesto": "Regional Sales Manager (Remote, COL)",
         "ubicacion": "Flexible / Remote",
         "url": "https://www.themuse.com/jobs/crowdstrike/regional-sales-manager-remote-col-00103e",
         "match_score": 0.4,
         "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "Allstate",
+        "puesto": "District Field Sales Director",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/allstate/district-field-sales-director",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición comercial de Sales, director. Modalidad: Remoto Global compatible."
     },
     {
         "empresa": "USA TODAY Co.",
@@ -366,14 +374,6 @@
         "url": "https://www.themuse.com/jobs/hitachienergy/regional-sales-manager-for-automation-and-communciation-2f43db",
         "match_score": 0.4,
         "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "Autodesk",
-        "puesto": "Director, Business Development",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/autodesk/director-business-development",
-        "match_score": 0.4,
-        "justificacion": "Sector: Coincide con tu experiencia en POS. Rol: Posición comercial de Business development, director. Modalidad: Remoto Global compatible."
     },
     {
         "empresa": "Atlassian",
