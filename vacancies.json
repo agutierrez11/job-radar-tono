@@ -32,6 +32,14 @@
         "justificacion": "Rol: Posición comercial de Business development, partner. Ubicación ideal: Flexible / Remote, Mexico City, Mexico."
     },
     {
+        "empresa": "GE Vernova",
+        "puesto": "Sales Activation and Insights Leader",
+        "ubicacion": "Mexico,  USA",
+        "url": "https://jobicy.com/jobs/150016-sales-activation-and-insights-leader",
+        "match_score": 0.7,
+        "justificacion": "Rol: Posición comercial de Sales, lead. Ubicación ideal: Mexico,  USA."
+    },
+    {
         "empresa": "Vonage",
         "puesto": "Sales Development Representative - API/CPaaS (NwPS)",
         "ubicacion": "Mexico,  USA",
@@ -92,6 +100,14 @@
         "puesto": "Account Executive, Enterprise",
         "ubicacion": "Flexible / Remote",
         "url": "https://www.themuse.com/jobs/flexport/account-executive-enterprise-0e9af1",
+        "match_score": 0.55,
+        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "Zoom",
+        "puesto": "Account Executive Majors & Enterprise - Switzerland",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/zoom/account-executive-majors-enterprise-switzerland",
         "match_score": 0.55,
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
@@ -164,6 +180,14 @@
         "puesto": "Account Executive - New Grad",
         "ubicacion": "Flexible / Remote",
         "url": "https://www.themuse.com/jobs/glossgenius/account-executive-new-grad-02f32f",
+        "match_score": 0.5,
+        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "Zoom",
+        "puesto": "Account Executive - Midmarket VAST",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/zoom/account-executive-midmarket-vast-ac80f3",
         "match_score": 0.5,
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
@@ -374,29 +398,5 @@
         "url": "https://www.themuse.com/jobs/hitachienergy/regional-sales-manager-for-automation-and-communciation-2f43db",
         "match_score": 0.4,
         "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "Atlassian",
-        "puesto": "Account Executive, Mid Market",
-        "ubicacion": "Bangalore, India, Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/atlassian/account-executive-mid-market-229b16",
-        "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "BitGo",
-        "puesto": "Business Development Representative - MENA (Cyprus or Israel)",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/bitgo/business-development-representative-mena-cyprus-or-israel",
-        "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Business development, representative. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "Atlassian",
-        "puesto": "Sales Development Representative, Strategy Collections",
-        "ubicacion": "Austin, TX, Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/atlassian/sales-development-representative-strategy-collections-302bf1",
-        "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Sales, representative. Modalidad: Remoto Global compatible."
     }
 ]
