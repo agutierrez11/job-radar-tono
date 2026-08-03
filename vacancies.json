@@ -16,6 +16,14 @@
         "justificacion": "Sector: Coincide con tu experiencia en COMPLIANCE. Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
     {
+        "empresa": "GitLab",
+        "puesto": "Business Development Representative ",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/gitlab/business-development-representative-23dc4b",
+        "match_score": 0.9,
+        "justificacion": "Sector: Coincide con tu experiencia en COMPLIANCE. Rol: Posición comercial de Business development, representative. Modalidad: Remoto Global compatible."
+    },
+    {
         "empresa": "Kyndryl",
         "puesto": "Cybersecurity Strategic Alliances-Business Development Partner",
         "ubicacion": "Flexible / Remote, Mexico City, Mexico",
@@ -224,6 +232,14 @@
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
     {
+        "empresa": "Kyndryl",
+        "puesto": "Assoc. Partner, Consult Partner - Security & Resiliency Market Focal",
+        "ubicacion": "Flexible / Remote, Purchase, NY",
+        "url": "https://www.themuse.com/jobs/kyndryl/assoc-partner-consult-partner-security-resiliency-market-focal",
+        "match_score": 0.5,
+        "justificacion": "Rol: Posición comercial de Partner. Modalidad: Remoto Global compatible."
+    },
+    {
         "empresa": "Salesforce",
         "puesto": "Alliances - Partner Account Director",
         "ubicacion": "Flexible / Remote",
@@ -382,21 +398,5 @@
         "url": "https://www.themuse.com/jobs/hitachienergy/regional-sales-manager-for-automation-and-communciation-2f43db",
         "match_score": 0.4,
         "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "Atlassian",
-        "puesto": "Account Executive, Mid Market",
-        "ubicacion": "Bangalore, India, Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/atlassian/account-executive-mid-market-229b16",
-        "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "BitGo",
-        "puesto": "Business Development Representative - MENA (Cyprus or Israel)",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/bitgo/business-development-representative-mena-cyprus-or-israel",
-        "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Business development, representative. Modalidad: Remoto Global compatible."
     }
 ]
