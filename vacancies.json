@@ -88,28 +88,12 @@
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
     {
-        "empresa": "Autodesk",
-        "puesto": "Enterprise Accounts Sales Executive",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/autodesk/enterprise-accounts-sales-executive",
-        "match_score": 0.55,
-        "justificacion": "Rol: Posición comercial de Sales, account. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "Atlassian",
-        "puesto": "Account Executive, Mid Market (LATAM)",
-        "ubicacion": "Austin, TX, Flexible / Remote, New York, NY",
-        "url": "https://www.themuse.com/jobs/atlassian/account-executive-mid-market-latam",
+        "empresa": "GE Vernova",
+        "puesto": "Enterprise Strategic Account Executive - West Coast Hyperscalers",
+        "ubicacion": "Flexible / Remote, Reedley, CA",
+        "url": "https://www.themuse.com/jobs/gevernova/enterprise-strategic-account-executive-west-coast-hyperscalers-89ee20",
         "match_score": 0.55,
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "Enterprise Mobility",
-        "puesto": "Work From Home Reservation Sales Representative",
-        "ubicacion": "Flexible / Remote, Gunnison, CO",
-        "url": "https://www.themuse.com/jobs/enterprisemobility/work-from-home-reservation-sales-representative-dffdd5",
-        "match_score": 0.55,
-        "justificacion": "Rol: Posición comercial de Sales, representative. Modalidad: Remoto Global compatible."
     },
     {
         "empresa": "Canonical Ltd.",
@@ -280,6 +264,14 @@
         "justificacion": "Rol: Posición comercial de Growth, lead. Modalidad: Remoto Global compatible."
     },
     {
+        "empresa": "SpaceX",
+        "puesto": "Starlink Growth Lead, US West",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/spacex/starlink-growth-lead-us-west",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición comercial de Growth, lead. Modalidad: Remoto Global compatible."
+    },
+    {
         "empresa": "Atlassian",
         "puesto": "Manager, Solution Sales, Service Collection",
         "ubicacion": "Flexible / Remote, San Francisco, CA",
@@ -366,6 +358,14 @@
         "url": "https://www.themuse.com/jobs/bitgo/business-development-representative-mena-cyprus-or-israel",
         "match_score": 0.4,
         "justificacion": "Rol: Posición comercial de Business development, representative. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "USA TODAY Co.",
+        "puesto": "Inside Sales Representative",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/usatodayco/inside-sales-representative-3c9ae7",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición comercial de Sales, representative. Modalidad: Remoto Global compatible."
     },
     {
         "empresa": "Atlassian",
