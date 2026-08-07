@@ -96,6 +96,14 @@
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
     {
+        "empresa": "Zoom",
+        "puesto": "Account Executive Enterprise - South Germany",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/zoom/account-executive-enterprise-south-germany-b23d75",
+        "match_score": 0.55,
+        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
+    },
+    {
         "empresa": "Canonical Ltd.",
         "puesto": "Graduate Sales Development Representative",
         "ubicacion": "Anywhere",
@@ -280,6 +288,14 @@
         "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
     },
     {
+        "empresa": "General Motors",
+        "puesto": "Buick GMC District Sales Manager - Iowa",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/generalmotors/buick-gmc-district-sales-manager-iowa",
+        "match_score": 0.4,
+        "justificacion": "Sector: Coincide con tu experiencia en POS. Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
+    },
+    {
         "empresa": "Henry Schein",
         "puesto": "District Sales Manager - Portland, ME",
         "ubicacion": "Flexible / Remote",
@@ -382,21 +398,5 @@
         "url": "https://www.themuse.com/jobs/achieve/director-wholesale-business-development",
         "match_score": 0.4,
         "justificacion": "Rol: Posición comercial de Business development, director. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "J. J. Keller & Associates, Inc.",
-        "puesto": "Sales Representative",
-        "ubicacion": "Columbus, OH, Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/jjkellerassociatesinc/sales-representative-af58a1",
-        "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Sales, representative. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "J. J. Keller & Associates, Inc.",
-        "puesto": "Account Representative",
-        "ubicacion": "Flexible / Remote, Neenah, WI",
-        "url": "https://www.themuse.com/jobs/jjkellerassociatesinc/account-representative",
-        "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Account, representative. Modalidad: Remoto Global compatible."
     }
 ]
