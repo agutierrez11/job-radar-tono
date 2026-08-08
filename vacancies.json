@@ -1,6 +1,14 @@
 [
     {
         "empresa": "GitLab",
+        "puesto": "Public Sector Strategic Account Executive, SLED - Mountain Plains",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/gitlab/public-sector-strategic-account-executive-sled-mountain-plains",
+        "match_score": 0.9,
+        "justificacion": "Sector: Coincide con tu experiencia en COMPLIANCE. Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "GitLab",
         "puesto": "Ecosystem Sales Manager, Carahsoft (Washington DC)",
         "ubicacion": "Flexible / Remote",
         "url": "https://www.themuse.com/jobs/gitlab/ecosystem-sales-manager-carahsoft-washington-dc",
@@ -92,14 +100,6 @@
         "puesto": "Enterprise Strategic Account Executive - West Coast Hyperscalers",
         "ubicacion": "Flexible / Remote, Reedley, CA",
         "url": "https://www.themuse.com/jobs/gevernova/enterprise-strategic-account-executive-west-coast-hyperscalers-89ee20",
-        "match_score": 0.55,
-        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "Zoom",
-        "puesto": "Account Executive Enterprise - South Germany",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/zoom/account-executive-enterprise-south-germany-b23d75",
         "match_score": 0.55,
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
@@ -304,6 +304,22 @@
         "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
     },
     {
+        "empresa": "GE Vernova",
+        "puesto": "Product Sales Specialist - PAC - West Region",
+        "ubicacion": "Flexible / Remote, Reedley, CA",
+        "url": "https://www.themuse.com/jobs/gevernova/product-sales-specialist-pac-west-region",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición comercial de Sales. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "PNC",
+        "puesto": "Sales & Service Representative-Customer Care Center",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/pnc/sales-service-representativecustomer-care-center",
+        "match_score": 0.4,
+        "justificacion": "Sector: Coincide con tu experiencia en POS. Rol: Posición comercial de Sales, representative. Modalidad: Remoto Global compatible."
+    },
+    {
         "empresa": "CrowdStrike",
         "puesto": "Regional Sales Manager (Remote, COL)",
         "ubicacion": "Flexible / Remote",
@@ -326,6 +342,14 @@
         "url": "https://www.themuse.com/jobs/allstate/licensed-insurance-sales-representative-remote-homebased-cb172f",
         "match_score": 0.4,
         "justificacion": "Rol: Posición comercial de Sales, representative. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "UKG",
+        "puesto": "SALES EXECUTIVE",
+        "ubicacion": "Flexible / Remote, Gunnison, CO",
+        "url": "https://www.themuse.com/jobs/ukg/sales-executive-87c7f2",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición comercial de Sales. Modalidad: Remoto Global compatible."
     },
     {
         "empresa": "Allstate",
@@ -374,29 +398,5 @@
         "url": "https://www.themuse.com/jobs/bitgo/business-development-representative-mena-cyprus-or-israel",
         "match_score": 0.4,
         "justificacion": "Rol: Posición comercial de Business development, representative. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "USA TODAY Co.",
-        "puesto": "Inside Sales Representative",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/usatodayco/inside-sales-representative-3c9ae7",
-        "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Sales, representative. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "Atlassian",
-        "puesto": "Sales Development Representative, Strategy Collections",
-        "ubicacion": "Austin, TX, Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/atlassian/sales-development-representative-strategy-collections-302bf1",
-        "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Sales, representative. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "Achieve",
-        "puesto": "Director, Wholesale Business Development",
-        "ubicacion": "Flexible / Remote, Tempe, AZ",
-        "url": "https://www.themuse.com/jobs/achieve/director-wholesale-business-development",
-        "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Business development, director. Modalidad: Remoto Global compatible."
     }
 ]
