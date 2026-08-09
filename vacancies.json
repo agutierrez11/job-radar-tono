@@ -32,6 +32,14 @@
         "justificacion": "Rol: Posición comercial de Business development, partner. Ubicación ideal: Flexible / Remote, Mexico City, Mexico."
     },
     {
+        "empresa": "Canonical Ltd.",
+        "puesto": "Partner Sales Manager - Dell",
+        "ubicacion": "APAC,  LATAM,  Canada,  USA",
+        "url": "https://jobicy.com/jobs/150367-partner-sales-manager-dell",
+        "match_score": 0.8,
+        "justificacion": "Rol: Posición comercial de Sales, partner. Ubicación ideal: APAC,  LATAM,  Canada,  USA."
+    },
+    {
         "empresa": "GE Vernova",
         "puesto": "Sales Activation and Insights Leader",
         "ubicacion": "Mexico,  USA",
@@ -104,46 +112,6 @@
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
     {
-        "empresa": "Canonical Ltd.",
-        "puesto": "Graduate Sales Development Representative",
-        "ubicacion": "Anywhere",
-        "url": "https://jobicy.com/jobs/149555-graduate-sales-development-representative",
-        "match_score": 0.55,
-        "justificacion": "Rol: Posición comercial de Sales, representative. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "Canonical Ltd.",
-        "puesto": "Embedded Devices Software Solution Sales - All Roles",
-        "ubicacion": "Anywhere",
-        "url": "https://jobicy.com/jobs/149539-embedded-devices-software-solution-sales-all-roles",
-        "match_score": 0.55,
-        "justificacion": "Rol: Posición comercial de Sales. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "Canonical Ltd.",
-        "puesto": "Partner Sales Director - Global System Integrator (GSI)",
-        "ubicacion": "Anywhere",
-        "url": "https://jobicy.com/jobs/149529-partner-sales-director-global-system-integrator-gsi",
-        "match_score": 0.55,
-        "justificacion": "Rol: Posición comercial de Sales, partner. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "Canonical Ltd.",
-        "puesto": "Senior Partner Sales Manager - Global System Integrator (GSI)",
-        "ubicacion": "Anywhere",
-        "url": "https://jobicy.com/jobs/149525-senior-partner-sales-manager-global-system-integrator-gsi",
-        "match_score": 0.55,
-        "justificacion": "Rol: Posición comercial de Sales, partner. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "FSE LLC",
-        "puesto": "High-Ticket Financial Sales Specialist & Team Lead Track",
-        "ubicacion": "Worldwide",
-        "url": "https://remotive.com/remote-jobs/sales/high-ticket-financial-sales-specialist-team-lead-track-2090949",
-        "match_score": 0.55,
-        "justificacion": "Sector: Coincide con tu experiencia en POS. Rol: Posición comercial de Sales, lead. Modalidad: Remoto Global compatible."
-    },
-    {
         "empresa": "GlossGenius",
         "puesto": "Account Executive",
         "ubicacion": "Flexible / Remote",
@@ -184,14 +152,6 @@
         "justificacion": "Rol: Posición comercial de Sales. Modalidad: Remoto Global compatible."
     },
     {
-        "empresa": "Kyndryl",
-        "puesto": "Assoc. Partner, Consult Partner - Security & Resiliency Market Focal",
-        "ubicacion": "Flexible / Remote, Purchase, NY",
-        "url": "https://www.themuse.com/jobs/kyndryl/assoc-partner-consult-partner-security-resiliency-market-focal",
-        "match_score": 0.5,
-        "justificacion": "Rol: Posición comercial de Partner. Modalidad: Remoto Global compatible."
-    },
-    {
         "empresa": "Salesforce",
         "puesto": "Alliances - Partner Account Director",
         "ubicacion": "Flexible / Remote",
@@ -206,6 +166,22 @@
         "url": "https://www.themuse.com/jobs/salesforce/prime-named-account-executive-2f60b8",
         "match_score": 0.45,
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "Garner Health",
+        "puesto": "Enterprise Sales VP, Labor and Trust",
+        "ubicacion": "Anywhere",
+        "url": "https://jobicy.com/jobs/150397-enterprise-sales-vp-labor-and-trust",
+        "match_score": 0.45,
+        "justificacion": "Rol: Posición comercial de Sales. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "Garner Health",
+        "puesto": "Enterprise Sales VP, Hospital and Health Systems",
+        "ubicacion": "Anywhere",
+        "url": "https://jobicy.com/jobs/150396-enterprise-sales-vp-hospital-and-health-systems",
+        "match_score": 0.45,
+        "justificacion": "Rol: Posición comercial de Sales. Modalidad: Remoto Global compatible."
     },
     {
         "empresa": "SpaceX",
@@ -328,6 +304,14 @@
         "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
     },
     {
+        "empresa": "NAVEX",
+        "puesto": "Regional Vice President, Sales",
+        "ubicacion": "Charlotte, NC, Flexible / Remote, Houston, TX",
+        "url": "https://www.themuse.com/jobs/navex/regional-vice-president-sales-c00b52",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición comercial de Sales. Modalidad: Remoto Global compatible."
+    },
+    {
         "empresa": "UKG",
         "puesto": "ACCOUNT EXECUTIVE 4",
         "ubicacion": "Flexible / Remote",
@@ -384,6 +368,14 @@
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
     {
+        "empresa": "NAVEX",
+        "puesto": "Senior Account Executive - Farmer (East Coast)",
+        "ubicacion": "Charlotte, NC, Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/navex/senior-account-executive-farmer-east-coast",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
+    },
+    {
         "empresa": "Atlassian",
         "puesto": "Account Executive, Mid Market",
         "ubicacion": "Bangalore, India, Flexible / Remote",
@@ -398,5 +390,13 @@
         "url": "https://www.themuse.com/jobs/bitgo/business-development-representative-mena-cyprus-or-israel",
         "match_score": 0.4,
         "justificacion": "Rol: Posición comercial de Business development, representative. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "USA TODAY Co.",
+        "puesto": "Inside Sales Representative",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/usatodayco/inside-sales-representative-3c9ae7",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición comercial de Sales, representative. Modalidad: Remoto Global compatible."
     }
 ]
