@@ -128,10 +128,10 @@
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
     {
-        "empresa": "Samsara Inc.",
-        "puesto": "Account Executive, Commercial",
+        "empresa": "Zoom",
+        "puesto": "Account Executive - State & Local Government",
         "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/samsarainc/account-executive-commercial-b8f287",
+        "url": "https://www.themuse.com/jobs/zoom/account-executive-state-local-government-8055e5",
         "match_score": 0.5,
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
@@ -158,6 +158,14 @@
         "url": "https://www.themuse.com/jobs/kyndryl/assoc-partner-consult-partner-security-resiliency-market-focal",
         "match_score": 0.5,
         "justificacion": "Rol: Posición comercial de Partner. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "Waters",
+        "puesto": "Sr MS Sales Development Specialist",
+        "ubicacion": "Bellingham, MA, Flexible / Remote, Goleta, CA, Lakewood, NJ, Williamsport, PA, Wilmington, DE",
+        "url": "https://www.themuse.com/jobs/waters/sr-ms-sales-development-specialist-8a1192",
+        "match_score": 0.5,
+        "justificacion": "Rol: Posición comercial de Sales. Modalidad: Remoto Global compatible."
     },
     {
         "empresa": "Salesforce",
@@ -296,6 +304,14 @@
         "justificacion": "Rol: Posición comercial de Sales. Modalidad: Remoto Global compatible."
     },
     {
+        "empresa": "J. J. Keller & Associates, Inc.",
+        "puesto": "Sales Representative",
+        "ubicacion": "Flexible / Remote, Indianapolis, IN",
+        "url": "https://www.themuse.com/jobs/jjkellerassociatesinc/sales-representative-6da399",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición comercial de Sales, representative. Modalidad: Remoto Global compatible."
+    },
+    {
         "empresa": "PNC",
         "puesto": "Sales & Service Representative-Customer Care Center",
         "ubicacion": "Flexible / Remote",
@@ -368,14 +384,6 @@
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
     {
-        "empresa": "NAVEX",
-        "puesto": "Senior Account Executive - Farmer (East Coast)",
-        "ubicacion": "Charlotte, NC, Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/navex/senior-account-executive-farmer-east-coast",
-        "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
-    },
-    {
         "empresa": "Atlassian",
         "puesto": "Account Executive, Mid Market",
         "ubicacion": "Bangalore, India, Flexible / Remote",
@@ -390,13 +398,5 @@
         "url": "https://www.themuse.com/jobs/bitgo/business-development-representative-mena-cyprus-or-israel",
         "match_score": 0.4,
         "justificacion": "Rol: Posición comercial de Business development, representative. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "USA TODAY Co.",
-        "puesto": "Inside Sales Representative",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/usatodayco/inside-sales-representative-3c9ae7",
-        "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Sales, representative. Modalidad: Remoto Global compatible."
     }
 ]
