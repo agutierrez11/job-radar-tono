@@ -128,6 +128,22 @@
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
     {
+        "empresa": "Samsara Inc.",
+        "puesto": "Commercial Account Executive ",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/samsarainc/commercial-account-executive-319de4",
+        "match_score": 0.5,
+        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "Forcepoint",
+        "puesto": "Sales Development Representative",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/forcepoint/sales-development-representative-fba47b",
+        "match_score": 0.5,
+        "justificacion": "Rol: Posición comercial de Sales, representative. Modalidad: Remoto Global compatible."
+    },
+    {
         "empresa": "Salesforce",
         "puesto": "Alliances - Partner Account Director",
         "ubicacion": "Flexible / Remote",
@@ -248,12 +264,12 @@
         "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
     },
     {
-        "empresa": "GE Vernova",
-        "puesto": "Product Sales Specialist - PAC - West Region",
-        "ubicacion": "Flexible / Remote, Reedley, CA",
-        "url": "https://www.themuse.com/jobs/gevernova/product-sales-specialist-pac-west-region",
+        "empresa": "Henry Schein",
+        "puesto": "District Sales Manager - St Paul, MN",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/henryschein/district-sales-manager-st-paul-mn-326583",
         "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Sales. Modalidad: Remoto Global compatible."
+        "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
     },
     {
         "empresa": "CrowdStrike",
@@ -264,34 +280,10 @@
         "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
     },
     {
-        "empresa": "Zoom",
-        "puesto": "CX Sales Specialist",
-        "ubicacion": "Flexible / Remote, Singapore",
-        "url": "https://www.themuse.com/jobs/zoom/cx-sales-specialist",
-        "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Sales. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "UKG",
-        "puesto": "ACCOUNT EXECUTIVE 4",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/ukg/account-executive-4-0abfb8",
-        "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
-    },
-    {
         "empresa": "Allstate",
         "puesto": "Licensed Insurance Sales Representative (Remote / Home-Based)",
         "ubicacion": "Flexible / Remote, Santa Fe, NM",
         "url": "https://www.themuse.com/jobs/allstate/licensed-insurance-sales-representative-remote-homebased-cb172f",
-        "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Sales, representative. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "J. J. Keller & Associates, Inc.",
-        "puesto": "Sales Development Representative (Sales Academy)",
-        "ubicacion": "Flexible / Remote, Neenah, WI",
-        "url": "https://www.themuse.com/jobs/jjkellerassociatesinc/sales-development-representative-sales-academy-182f14",
         "match_score": 0.4,
         "justificacion": "Rol: Posición comercial de Sales, representative. Modalidad: Remoto Global compatible."
     },
@@ -336,22 +328,6 @@
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
     {
-        "empresa": "J. J. Keller & Associates, Inc.",
-        "puesto": "Sales Representative",
-        "ubicacion": "Flexible / Remote, Minneapolis, MN",
-        "url": "https://www.themuse.com/jobs/jjkellerassociatesinc/sales-representative-1c3e5e",
-        "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Sales, representative. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "J. J. Keller & Associates, Inc.",
-        "puesto": "Account Executive - National Accounts (West Region)",
-        "ubicacion": "Flexible / Remote, Seattle, WA",
-        "url": "https://www.themuse.com/jobs/jjkellerassociatesinc/account-executive-national-accounts-west-region",
-        "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
-    },
-    {
         "empresa": "CrowdStrike",
         "puesto": "Corporate Account Executive, Kolkata (Remote, IND)",
         "ubicacion": "Flexible / Remote",
@@ -390,6 +366,22 @@
         "url": "https://www.themuse.com/jobs/achieve/director-wholesale-business-development",
         "match_score": 0.4,
         "justificacion": "Rol: Posición comercial de Business development, director. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "J. J. Keller & Associates, Inc.",
+        "puesto": "Account Representative",
+        "ubicacion": "Flexible / Remote, Neenah, WI",
+        "url": "https://www.themuse.com/jobs/jjkellerassociatesinc/account-representative",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición comercial de Account, representative. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "Model N",
+        "puesto": "Regional Sales Manager, New Business Sales",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/modeln/regional-sales-manager-new-business-sales",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
     },
     {
         "empresa": "Credit Wellness, LLC",
