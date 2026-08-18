@@ -24,14 +24,6 @@
         "justificacion": "Sector: Coincide con tu experiencia en POS, COMPLIANCE. Rol: Posición comercial de Sales. Modalidad: Remoto Global compatible."
     },
     {
-        "empresa": "GitLab",
-        "puesto": "Strategic Account Executive, San Francisco ",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/gitlab/strategic-account-executive-san-francisco-d96746",
-        "match_score": 0.9,
-        "justificacion": "Sector: Coincide con tu experiencia en COMPLIANCE. Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
-    },
-    {
         "empresa": "PNC",
         "puesto": "Merchant Services Virtual Payment Advisor - Business Banking",
         "ubicacion": "Flexible / Remote",
@@ -62,14 +54,6 @@
         "url": "https://jobicy.com/jobs/149389-sales-development-representative-api-cpaas-nwps",
         "match_score": 0.7,
         "justificacion": "Rol: Posición comercial de Sales, representative. Ubicación ideal: Mexico,  USA."
-    },
-    {
-        "empresa": "GE Vernova",
-        "puesto": "Sales Activation and Insights Leader",
-        "ubicacion": "Mexico,  USA",
-        "url": "https://jobicy.com/jobs/150016-sales-activation-and-insights-leader",
-        "match_score": 0.7,
-        "justificacion": "Rol: Posición comercial de Sales, lead. Ubicación ideal: Mexico,  USA."
     },
     {
         "empresa": "Celonis",
@@ -304,6 +288,14 @@
         "justificacion": "Rol: Posición comercial de Sales. Modalidad: Remoto Global compatible."
     },
     {
+        "empresa": "J. J. Keller & Associates, Inc.",
+        "puesto": "Sales Representative",
+        "ubicacion": "Flexible / Remote, Salt Lake City, UT",
+        "url": "https://www.themuse.com/jobs/jjkellerassociatesinc/sales-representative-4e57f9",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición comercial de Sales, representative. Modalidad: Remoto Global compatible."
+    },
+    {
         "empresa": "Allstate",
         "puesto": "Licensed Insurance Sales Representative (Remote / Home-Based)",
         "ubicacion": "Flexible / Remote, Newark, NJ",
@@ -382,14 +374,6 @@
         "url": "https://www.themuse.com/jobs/jjkellerassociatesinc/account-representative",
         "match_score": 0.4,
         "justificacion": "Rol: Posición comercial de Account, representative. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "Model N",
-        "puesto": "Regional Sales Manager, New Business Sales",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/modeln/regional-sales-manager-new-business-sales",
-        "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
     },
     {
         "empresa": "Credit Wellness, LLC",
