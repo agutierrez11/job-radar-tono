@@ -73,14 +73,6 @@
     },
     {
         "empresa": "Celonis",
-        "puesto": "Account Executive - Federal",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/celonis/account-executive-federal",
-        "match_score": 0.65,
-        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "Celonis",
         "puesto": "Account Executive - Retail",
         "ubicacion": "Flexible / Remote",
         "url": "https://www.themuse.com/jobs/celonis/account-executive-retail-e8918e",
@@ -128,12 +120,28 @@
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
     {
+        "empresa": "Waters",
+        "puesto": "Sr MS Sales Development Specialist",
+        "ubicacion": "Bellingham, MA, Flexible / Remote, Goleta, CA, Lakewood, NJ, Williamsport, PA, Wilmington, DE",
+        "url": "https://www.themuse.com/jobs/waters/sr-ms-sales-development-specialist-8a1192",
+        "match_score": 0.5,
+        "justificacion": "Rol: Posición comercial de Sales. Modalidad: Remoto Global compatible."
+    },
+    {
         "empresa": "Forcepoint",
         "puesto": "Sales Development Representative",
         "ubicacion": "Flexible / Remote",
         "url": "https://www.themuse.com/jobs/forcepoint/sales-development-representative-fba47b",
         "match_score": 0.5,
         "justificacion": "Rol: Posición comercial de Sales, representative. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "Kyndryl",
+        "puesto": "Assoc. Partner, Consult Partner - Security & Resiliency Market Focal",
+        "ubicacion": "Flexible / Remote, Purchase, NY",
+        "url": "https://www.themuse.com/jobs/kyndryl/assoc-partner-consult-partner-security-resiliency-market-focal",
+        "match_score": 0.5,
+        "justificacion": "Rol: Posición comercial de Partner. Modalidad: Remoto Global compatible."
     },
     {
         "empresa": "Salesforce",
@@ -289,9 +297,9 @@
     },
     {
         "empresa": "J. J. Keller & Associates, Inc.",
-        "puesto": "Sales Representative",
-        "ubicacion": "Flexible / Remote, Salt Lake City, UT",
-        "url": "https://www.themuse.com/jobs/jjkellerassociatesinc/sales-representative-4e57f9",
+        "puesto": "Sales Development Representative (Sales Academy)",
+        "ubicacion": "Flexible / Remote, Neenah, WI",
+        "url": "https://www.themuse.com/jobs/jjkellerassociatesinc/sales-development-representative-sales-academy-182f14",
         "match_score": 0.4,
         "justificacion": "Rol: Posición comercial de Sales, representative. Modalidad: Remoto Global compatible."
     },
@@ -374,6 +382,14 @@
         "url": "https://www.themuse.com/jobs/jjkellerassociatesinc/account-representative",
         "match_score": 0.4,
         "justificacion": "Rol: Posición comercial de Account, representative. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "Model N",
+        "puesto": "Regional Sales Manager, New Business Sales",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/modeln/regional-sales-manager-new-business-sales",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
     },
     {
         "empresa": "Credit Wellness, LLC",
