@@ -112,6 +112,14 @@
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
     {
+        "empresa": "Zoom",
+        "puesto": "Account Executive, Mass Market (ANZ)",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/zoom/account-executive-mass-market-anz",
+        "match_score": 0.5,
+        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
+    },
+    {
         "empresa": "Samsara Inc.",
         "puesto": "Commercial Account Executive ",
         "ubicacion": "Flexible / Remote",
@@ -120,28 +128,12 @@
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
     {
-        "empresa": "Waters",
-        "puesto": "Sr MS Sales Development Specialist",
-        "ubicacion": "Bellingham, MA, Flexible / Remote, Goleta, CA, Lakewood, NJ, Williamsport, PA, Wilmington, DE",
-        "url": "https://www.themuse.com/jobs/waters/sr-ms-sales-development-specialist-8a1192",
-        "match_score": 0.5,
-        "justificacion": "Rol: Posición comercial de Sales. Modalidad: Remoto Global compatible."
-    },
-    {
         "empresa": "Forcepoint",
         "puesto": "Sales Development Representative",
         "ubicacion": "Flexible / Remote",
         "url": "https://www.themuse.com/jobs/forcepoint/sales-development-representative-fba47b",
         "match_score": 0.5,
         "justificacion": "Rol: Posición comercial de Sales, representative. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "Kyndryl",
-        "puesto": "Assoc. Partner, Consult Partner - Security & Resiliency Market Focal",
-        "ubicacion": "Flexible / Remote, Purchase, NY",
-        "url": "https://www.themuse.com/jobs/kyndryl/assoc-partner-consult-partner-security-resiliency-market-focal",
-        "match_score": 0.5,
-        "justificacion": "Rol: Posición comercial de Partner. Modalidad: Remoto Global compatible."
     },
     {
         "empresa": "Salesforce",
@@ -296,14 +288,6 @@
         "justificacion": "Rol: Posición comercial de Sales. Modalidad: Remoto Global compatible."
     },
     {
-        "empresa": "J. J. Keller & Associates, Inc.",
-        "puesto": "Sales Development Representative (Sales Academy)",
-        "ubicacion": "Flexible / Remote, Neenah, WI",
-        "url": "https://www.themuse.com/jobs/jjkellerassociatesinc/sales-development-representative-sales-academy-182f14",
-        "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Sales, representative. Modalidad: Remoto Global compatible."
-    },
-    {
         "empresa": "Allstate",
         "puesto": "Licensed Insurance Sales Representative (Remote / Home-Based)",
         "ubicacion": "Flexible / Remote, Newark, NJ",
@@ -326,6 +310,14 @@
         "url": "https://www.themuse.com/jobs/hitachienergy/regional-sales-manager-for-automation-and-communciation-2f43db",
         "match_score": 0.4,
         "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "Henry Schein",
+        "puesto": "Reference Lab Sales Specialist - Southeast",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/henryschein/reference-lab-sales-specialist-southeast",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición comercial de Sales. Modalidad: Remoto Global compatible."
     },
     {
         "empresa": "UKG",
@@ -382,14 +374,6 @@
         "url": "https://www.themuse.com/jobs/jjkellerassociatesinc/account-representative",
         "match_score": 0.4,
         "justificacion": "Rol: Posición comercial de Account, representative. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "Model N",
-        "puesto": "Regional Sales Manager, New Business Sales",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/modeln/regional-sales-manager-new-business-sales",
-        "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
     },
     {
         "empresa": "Credit Wellness, LLC",
