@@ -24,14 +24,6 @@
         "justificacion": "Sector: Coincide con tu experiencia en POS, COMPLIANCE. Rol: Posición comercial de Sales. Modalidad: Remoto Global compatible."
     },
     {
-        "empresa": "PNC",
-        "puesto": "Merchant Services Virtual Payment Advisor - Business Banking",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/pnc/merchant-services-virtual-payment-advisor-business-banking",
-        "match_score": 0.8,
-        "justificacion": "Sector: Coincide con tu experiencia en POS, PAYMENT. Rol: Posición comercial de Merchant. Modalidad: Remoto Global compatible."
-    },
-    {
         "empresa": "Kyndryl",
         "puesto": "Cybersecurity Strategic Alliances-Business Development Partner",
         "ubicacion": "Flexible / Remote, Mexico City, Mexico",
@@ -112,14 +104,6 @@
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
     {
-        "empresa": "Zoom",
-        "puesto": "Account Executive, Mass Market (ANZ)",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/zoom/account-executive-mass-market-anz",
-        "match_score": 0.5,
-        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
-    },
-    {
         "empresa": "Samsara Inc.",
         "puesto": "Commercial Account Executive ",
         "ubicacion": "Flexible / Remote",
@@ -134,6 +118,14 @@
         "url": "https://www.themuse.com/jobs/forcepoint/sales-development-representative-fba47b",
         "match_score": 0.5,
         "justificacion": "Rol: Posición comercial de Sales, representative. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "Kyndryl",
+        "puesto": "Assoc. Partner, Consult Partner - Security & Resiliency Market Focal",
+        "ubicacion": "Flexible / Remote, Purchase, NY",
+        "url": "https://www.themuse.com/jobs/kyndryl/assoc-partner-consult-partner-security-resiliency-market-focal",
+        "match_score": 0.5,
+        "justificacion": "Rol: Posición comercial de Partner. Modalidad: Remoto Global compatible."
     },
     {
         "empresa": "Salesforce",
@@ -246,6 +238,14 @@
         "url": "https://www.themuse.com/jobs/atlassian/manager-solution-sales-service-collection",
         "match_score": 0.4,
         "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "Henry Schein",
+        "puesto": "Dental Transition Sales Consultant-New England",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/henryschein/dental-transition-sales-consultantnew-england",
+        "match_score": 0.4,
+        "justificacion": "Sector: Coincide con tu experiencia en POS. Rol: Posición comercial de Sales. Modalidad: Remoto Global compatible."
     },
     {
         "empresa": "Henry Schein",
@@ -374,6 +374,14 @@
         "url": "https://www.themuse.com/jobs/jjkellerassociatesinc/account-representative",
         "match_score": 0.4,
         "justificacion": "Rol: Posición comercial de Account, representative. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "Zoom",
+        "puesto": "CX Sales Specialist",
+        "ubicacion": "Flexible / Remote, Singapore",
+        "url": "https://www.themuse.com/jobs/zoom/cx-sales-specialist",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición comercial de Sales. Modalidad: Remoto Global compatible."
     },
     {
         "empresa": "Credit Wellness, LLC",
