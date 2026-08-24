@@ -296,28 +296,12 @@
         "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
     },
     {
-        "empresa": "Zoom",
-        "puesto": "Sales Manager, Workvivo SEER",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/zoom/sales-manager-workvivo-seer",
-        "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
-    },
-    {
         "empresa": "CrowdStrike",
         "puesto": "Regional Sales Manager (Remote, COL)",
         "ubicacion": "Flexible / Remote",
         "url": "https://www.themuse.com/jobs/crowdstrike/regional-sales-manager-remote-col-00103e",
         "match_score": 0.4,
         "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "J. J. Keller & Associates, Inc.",
-        "puesto": "Sales Representative",
-        "ubicacion": "Columbus, OH, Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/jjkellerassociatesinc/sales-representative-af58a1",
-        "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Sales, representative. Modalidad: Remoto Global compatible."
     },
     {
         "empresa": "Allstate",
@@ -398,5 +382,21 @@
         "url": "https://www.themuse.com/jobs/bitgo/business-development-representative-mena-cyprus-or-israel",
         "match_score": 0.4,
         "justificacion": "Rol: Posición comercial de Business development, representative. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "USA TODAY Co.",
+        "puesto": "Inside Sales Representative",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/usatodayco/inside-sales-representative-3c9ae7",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición comercial de Sales, representative. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "Delta Dental Ins.",
+        "puesto": "Small Group Sales Account Executive- South Florida",
+        "ubicacion": "Flexible / Remote, Fort Lauderdale, FL, Gunnison, CO, Miami, FL",
+        "url": "https://www.themuse.com/jobs/deltadentalins/small-group-sales-account-executive-south-florida",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición comercial de Sales, account. Modalidad: Remoto Global compatible."
     }
 ]
