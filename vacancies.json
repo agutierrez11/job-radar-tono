@@ -32,7 +32,7 @@
         "justificacion": "Rol: Posición comercial de Business development, partner. Ubicación ideal: Flexible / Remote, Mexico City, Mexico."
     },
     {
-        "empresa": "Canonical Ltd.",
+        "empresa": "Canonical",
         "puesto": "Partner Sales Manager - Dell",
         "ubicacion": "APAC,  LATAM,  Canada,  USA",
         "url": "https://jobicy.com/jobs/150367-partner-sales-manager-dell",
@@ -49,9 +49,9 @@
     },
     {
         "empresa": "Celonis",
-        "puesto": "Account Executive - Energy",
+        "puesto": "Account Executive - Retail",
         "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/celonis/account-executive-energy",
+        "url": "https://www.themuse.com/jobs/celonis/account-executive-retail-e8918e",
         "match_score": 0.65,
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
@@ -65,9 +65,9 @@
     },
     {
         "empresa": "Celonis",
-        "puesto": "Account Executive - Retail",
+        "puesto": "Account Executive - Energy",
         "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/celonis/account-executive-retail-e8918e",
+        "url": "https://www.themuse.com/jobs/celonis/account-executive-energy",
         "match_score": 0.65,
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
@@ -96,6 +96,22 @@
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
     {
+        "empresa": "Flexport",
+        "puesto": "Enterprise Account Executive",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/flexport/enterprise-account-executive-322379",
+        "match_score": 0.55,
+        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "Flexport",
+        "puesto": "Enterprise Account Executive",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/flexport/enterprise-account-executive-d84d7f",
+        "match_score": 0.55,
+        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
+    },
+    {
         "empresa": "Zoom",
         "puesto": "Enterprise Account Executive - Workvivo",
         "ubicacion": "Flexible / Remote",
@@ -112,7 +128,7 @@
         "justificacion": "Rol: Posición comercial de Sales, representative. Modalidad: Remoto Global compatible."
     },
     {
-        "empresa": "Canonical Ltd.",
+        "empresa": "Canonical",
         "puesto": "Graduate Sales Development Representative",
         "ubicacion": "Anywhere",
         "url": "https://jobicy.com/jobs/149555-graduate-sales-development-representative",
@@ -120,7 +136,7 @@
         "justificacion": "Rol: Posición comercial de Sales, representative. Modalidad: Remoto Global compatible."
     },
     {
-        "empresa": "Canonical Ltd.",
+        "empresa": "Canonical",
         "puesto": "Senior Partner Sales Manager - Global System Integrator (GSI)",
         "ubicacion": "Anywhere",
         "url": "https://jobicy.com/jobs/149525-senior-partner-sales-manager-global-system-integrator-gsi",
@@ -128,7 +144,7 @@
         "justificacion": "Rol: Posición comercial de Sales, partner. Modalidad: Remoto Global compatible."
     },
     {
-        "empresa": "Canonical Ltd.",
+        "empresa": "Canonical",
         "puesto": "Partner Sales Director - Global System Integrator (GSI)",
         "ubicacion": "Anywhere",
         "url": "https://jobicy.com/jobs/149529-partner-sales-director-global-system-integrator-gsi",
@@ -136,7 +152,7 @@
         "justificacion": "Rol: Posición comercial de Sales, partner. Modalidad: Remoto Global compatible."
     },
     {
-        "empresa": "Canonical Ltd.",
+        "empresa": "Canonical",
         "puesto": "Embedded Devices Software Solution Sales - All Roles",
         "ubicacion": "Anywhere",
         "url": "https://jobicy.com/jobs/149539-embedded-devices-software-solution-sales-all-roles",
@@ -382,21 +398,5 @@
         "url": "https://www.themuse.com/jobs/bitgo/business-development-representative-mena-cyprus-or-israel",
         "match_score": 0.4,
         "justificacion": "Rol: Posición comercial de Business development, representative. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "USA TODAY Co.",
-        "puesto": "Inside Sales Representative",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/usatodayco/inside-sales-representative-3c9ae7",
-        "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Sales, representative. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "Delta Dental Ins.",
-        "puesto": "Small Group Sales Account Executive- South Florida",
-        "ubicacion": "Flexible / Remote, Fort Lauderdale, FL, Gunnison, CO, Miami, FL",
-        "url": "https://www.themuse.com/jobs/deltadentalins/small-group-sales-account-executive-south-florida",
-        "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Sales, account. Modalidad: Remoto Global compatible."
     }
 ]
