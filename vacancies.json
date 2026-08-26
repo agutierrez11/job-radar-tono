@@ -32,12 +32,12 @@
         "justificacion": "Rol: Posición comercial de Business development, partner. Ubicación ideal: Flexible / Remote, Mexico City, Mexico."
     },
     {
-        "empresa": "Canonical",
-        "puesto": "Partner Sales Manager - Dell",
-        "ubicacion": "APAC,  LATAM,  Canada,  USA",
-        "url": "https://jobicy.com/jobs/150367-partner-sales-manager-dell",
+        "empresa": "HomeLight",
+        "puesto": "Inside Sales (Home Consultant)",
+        "ubicacion": "Mexico",
+        "url": "https://jobicy.com/jobs/151655-inside-sales-home-consultant",
         "match_score": 0.8,
-        "justificacion": "Rol: Posición comercial de Sales, partner. Ubicación ideal: APAC,  LATAM,  Canada,  USA."
+        "justificacion": "Rol: Posición comercial de Sales. Ubicación ideal: Mexico."
     },
     {
         "empresa": "Vonage",
@@ -112,20 +112,20 @@
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
     {
-        "empresa": "Zoom",
-        "puesto": "Enterprise Account Executive - Workvivo",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/zoom/enterprise-account-executive-workvivo",
-        "match_score": 0.55,
-        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
-    },
-    {
         "empresa": "Enterprise Mobility",
         "puesto": "Work From Home Reservation Sales Representative",
         "ubicacion": "Flexible / Remote, Gunnison, CO",
         "url": "https://www.themuse.com/jobs/enterprisemobility/work-from-home-reservation-sales-representative-ec9d08",
         "match_score": 0.55,
         "justificacion": "Rol: Posición comercial de Sales, representative. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "Zoom",
+        "puesto": "Enterprise Account Executive - Workvivo",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/zoom/enterprise-account-executive-workvivo",
+        "match_score": 0.55,
+        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
     {
         "empresa": "Canonical",
@@ -160,10 +160,10 @@
         "justificacion": "Rol: Posición comercial de Sales. Modalidad: Remoto Global compatible."
     },
     {
-        "empresa": "GlossGenius",
-        "puesto": "Account Executive - New Grad",
+        "empresa": "Samsara Inc.",
+        "puesto": "Commercial Account Executive ",
         "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/glossgenius/account-executive-new-grad-02f32f",
+        "url": "https://www.themuse.com/jobs/samsarainc/commercial-account-executive-319de4",
         "match_score": 0.5,
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
@@ -182,22 +182,6 @@
         "url": "https://www.themuse.com/jobs/salesforce/prime-named-account-executive-2f60b8",
         "match_score": 0.45,
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "Garner Health",
-        "puesto": "Enterprise Sales VP, Labor and Trust",
-        "ubicacion": "Anywhere",
-        "url": "https://jobicy.com/jobs/150397-enterprise-sales-vp-labor-and-trust",
-        "match_score": 0.45,
-        "justificacion": "Rol: Posición comercial de Sales. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "Garner Health",
-        "puesto": "Enterprise Sales VP, Hospital and Health Systems",
-        "ubicacion": "Anywhere",
-        "url": "https://jobicy.com/jobs/150396-enterprise-sales-vp-hospital-and-health-systems",
-        "match_score": 0.45,
-        "justificacion": "Rol: Posición comercial de Sales. Modalidad: Remoto Global compatible."
     },
     {
         "empresa": "SpaceX",
@@ -336,6 +320,14 @@
         "justificacion": "Rol: Posición comercial de Sales. Modalidad: Remoto Global compatible."
     },
     {
+        "empresa": "J. J. Keller & Associates, Inc.",
+        "puesto": "Sales Representative",
+        "ubicacion": "Columbus, OH, Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/jjkellerassociatesinc/sales-representative-af58a1",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición comercial de Sales, representative. Modalidad: Remoto Global compatible."
+    },
+    {
         "empresa": "Allstate",
         "puesto": "Licensed Insurance Sales Representative (Remote / Home-Based)",
         "ubicacion": "Flexible / Remote, Newark, NJ",
@@ -392,11 +384,19 @@
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
     {
-        "empresa": "BitGo",
-        "puesto": "Business Development Representative - MENA (Cyprus or Israel)",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/bitgo/business-development-representative-mena-cyprus-or-israel",
+        "empresa": "J. J. Keller & Associates, Inc.",
+        "puesto": "Sales Development Representative (Sales Academy)",
+        "ubicacion": "Flexible / Remote, Neenah, WI",
+        "url": "https://www.themuse.com/jobs/jjkellerassociatesinc/sales-development-representative-sales-academy-182f14",
         "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Business development, representative. Modalidad: Remoto Global compatible."
+        "justificacion": "Rol: Posición comercial de Sales, representative. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "USA TODAY Co.",
+        "puesto": "Inside Sales Representative",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/usatodayco/inside-sales-representative-3c9ae7",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición comercial de Sales, representative. Modalidad: Remoto Global compatible."
     }
 ]
