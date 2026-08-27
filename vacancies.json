@@ -1,14 +1,6 @@
 [
     {
         "empresa": "GitLab",
-        "puesto": "Public Sector Strategic Account Executive, SLED - Mountain Plains",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/gitlab/public-sector-strategic-account-executive-sled-mountain-plains",
-        "match_score": 0.9,
-        "justificacion": "Sector: Coincide con tu experiencia en COMPLIANCE. Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "GitLab",
         "puesto": "Ecosystem Sales Manager, Carahsoft (Washington DC)",
         "ubicacion": "Flexible / Remote",
         "url": "https://www.themuse.com/jobs/gitlab/ecosystem-sales-manager-carahsoft-washington-dc",
@@ -80,12 +72,52 @@
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
     {
+        "empresa": "SpaceX",
+        "puesto": "Sr. Sales Manager (Global Starlink Enterprise Sales)",
+        "ubicacion": "El Segundo, CA, Flexible / Remote, Lockhart, TX, New York, NY, Palo Alto, CA, Redmond, WA, Washington, DC",
+        "url": "https://www.themuse.com/jobs/spacex/sr-sales-manager-global-starlink-enterprise-sales-594b48",
+        "match_score": 0.55,
+        "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
+    },
+    {
         "empresa": "Flexport",
         "puesto": "Account Executive, Enterprise",
         "ubicacion": "Flexible / Remote",
         "url": "https://www.themuse.com/jobs/flexport/account-executive-enterprise-371604",
         "match_score": 0.55,
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "SpaceX",
+        "puesto": "Sr. Sales Manager (Global Starlink Enterprise Sales)",
+        "ubicacion": "El Segundo, CA, Flexible / Remote, Lockhart, TX, New York, NY, Palo Alto, CA, Redmond, WA, Washington, DC",
+        "url": "https://www.themuse.com/jobs/spacex/sr-sales-manager-global-starlink-enterprise-sales-d61fcf",
+        "match_score": 0.55,
+        "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "SpaceX",
+        "puesto": "Sr. Sales Manager (Global Starlink Enterprise Sales)",
+        "ubicacion": "El Segundo, CA, Flexible / Remote, Lockhart, TX, New York, NY, Palo Alto, CA, Redmond, WA, Washington, DC",
+        "url": "https://www.themuse.com/jobs/spacex/sr-sales-manager-global-starlink-enterprise-sales-3e348f",
+        "match_score": 0.55,
+        "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "SpaceX",
+        "puesto": "Sr. Sales Manager (Global Starlink Enterprise Sales)",
+        "ubicacion": "El Segundo, CA, Flexible / Remote, Lockhart, TX, New York, NY, Palo Alto, CA, Redmond, WA, Washington, DC",
+        "url": "https://www.themuse.com/jobs/spacex/sr-sales-manager-global-starlink-enterprise-sales-f1ddb3",
+        "match_score": 0.55,
+        "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "SpaceX",
+        "puesto": "Sr. Sales Manager (Global Starlink Enterprise Sales)",
+        "ubicacion": "El Segundo, CA, Flexible / Remote, Lockhart, TX, New York, NY, Palo Alto, CA, Redmond, WA, Washington, DC",
+        "url": "https://www.themuse.com/jobs/spacex/sr-sales-manager-global-starlink-enterprise-sales-c71b99",
+        "match_score": 0.55,
+        "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
     },
     {
         "empresa": "Flexport",
@@ -96,6 +128,22 @@
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
     {
+        "empresa": "SpaceX",
+        "puesto": "Sr. Sales Manager (Global Starlink Enterprise Sales)",
+        "ubicacion": "El Segundo, CA, Flexible / Remote, Lockhart, TX, New York, NY, Palo Alto, CA, Redmond, WA, Washington, DC",
+        "url": "https://www.themuse.com/jobs/spacex/sr-sales-manager-global-starlink-enterprise-sales-8268b8",
+        "match_score": 0.55,
+        "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "SpaceX",
+        "puesto": "Sr. Sales Manager (Global Starlink Enterprise Sales)",
+        "ubicacion": "El Segundo, CA, Flexible / Remote, Lockhart, TX, New York, NY, Palo Alto, CA, Redmond, WA, Washington, DC",
+        "url": "https://www.themuse.com/jobs/spacex/sr-sales-manager-global-starlink-enterprise-sales-8c0a30",
+        "match_score": 0.55,
+        "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
+    },
+    {
         "empresa": "Flexport",
         "puesto": "Enterprise Account Executive",
         "ubicacion": "Flexible / Remote",
@@ -104,12 +152,28 @@
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
     {
+        "empresa": "SpaceX",
+        "puesto": "Sr. Sales Manager (Global Starlink Enterprise Sales)",
+        "ubicacion": "El Segundo, CA, Flexible / Remote, Lockhart, TX, New York, NY, Palo Alto, CA, Redmond, WA, Washington, DC",
+        "url": "https://www.themuse.com/jobs/spacex/sr-sales-manager-global-starlink-enterprise-sales-200c07",
+        "match_score": 0.55,
+        "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
+    },
+    {
         "empresa": "Flexport",
         "puesto": "Enterprise Account Executive",
         "ubicacion": "Flexible / Remote",
         "url": "https://www.themuse.com/jobs/flexport/enterprise-account-executive-d84d7f",
         "match_score": 0.55,
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "SpaceX",
+        "puesto": "Sr. Sales Manager (Global Starlink Enterprise Sales)",
+        "ubicacion": "El Segundo, CA, Flexible / Remote, Lockhart, TX, New York, NY, Palo Alto, CA, Redmond, WA, Washington, DC",
+        "url": "https://www.themuse.com/jobs/spacex/sr-sales-manager-global-starlink-enterprise-sales-cad704",
+        "match_score": 0.55,
+        "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
     },
     {
         "empresa": "Enterprise Mobility",
@@ -121,9 +185,9 @@
     },
     {
         "empresa": "Zoom",
-        "puesto": "Enterprise Account Executive - Workvivo",
+        "puesto": "Account Executive Enterprise - South Germany",
         "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/zoom/enterprise-account-executive-workvivo",
+        "url": "https://www.themuse.com/jobs/zoom/account-executive-enterprise-south-germany-b23d75",
         "match_score": 0.55,
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
@@ -158,14 +222,6 @@
         "url": "https://jobicy.com/jobs/149539-embedded-devices-software-solution-sales-all-roles",
         "match_score": 0.55,
         "justificacion": "Rol: Posición comercial de Sales. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "Samsara Inc.",
-        "puesto": "Commercial Account Executive ",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/samsarainc/commercial-account-executive-319de4",
-        "match_score": 0.5,
-        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
     {
         "empresa": "Salesforce",
@@ -320,14 +376,6 @@
         "justificacion": "Rol: Posición comercial de Sales. Modalidad: Remoto Global compatible."
     },
     {
-        "empresa": "J. J. Keller & Associates, Inc.",
-        "puesto": "Sales Representative",
-        "ubicacion": "Columbus, OH, Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/jjkellerassociatesinc/sales-representative-af58a1",
-        "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Sales, representative. Modalidad: Remoto Global compatible."
-    },
-    {
         "empresa": "Allstate",
         "puesto": "Licensed Insurance Sales Representative (Remote / Home-Based)",
         "ubicacion": "Flexible / Remote, Newark, NJ",
@@ -350,53 +398,5 @@
         "url": "https://www.themuse.com/jobs/hitachienergy/regional-sales-manager-for-automation-and-communciation-2f43db",
         "match_score": 0.4,
         "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "Henry Schein",
-        "puesto": "Reference Lab Sales Specialist - Southeast",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/henryschein/reference-lab-sales-specialist-southeast",
-        "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Sales. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "UKG",
-        "puesto": "ACCOUNT EXECUTIVE",
-        "ubicacion": "Flexible / Remote, Houston, TX",
-        "url": "https://www.themuse.com/jobs/ukg/account-executive-ddfab0",
-        "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "CrowdStrike",
-        "puesto": "Corporate Account Executive, Kolkata (Remote, IND)",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/crowdstrike/corporate-account-executive-kolkata-remote-ind",
-        "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "Atlassian",
-        "puesto": "Account Executive, Mid Market",
-        "ubicacion": "Bangalore, India, Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/atlassian/account-executive-mid-market-229b16",
-        "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "J. J. Keller & Associates, Inc.",
-        "puesto": "Sales Development Representative (Sales Academy)",
-        "ubicacion": "Flexible / Remote, Neenah, WI",
-        "url": "https://www.themuse.com/jobs/jjkellerassociatesinc/sales-development-representative-sales-academy-182f14",
-        "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Sales, representative. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "USA TODAY Co.",
-        "puesto": "Inside Sales Representative",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/usatodayco/inside-sales-representative-3c9ae7",
-        "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Sales, representative. Modalidad: Remoto Global compatible."
     }
 ]
