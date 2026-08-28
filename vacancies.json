@@ -107,6 +107,14 @@
         "empresa": "SpaceX",
         "puesto": "Sr. Sales Manager (Global Starlink Enterprise Sales)",
         "ubicacion": "El Segundo, CA, Flexible / Remote, Lockhart, TX, New York, NY, Palo Alto, CA, Redmond, WA, Washington, DC",
+        "url": "https://www.themuse.com/jobs/spacex/sr-sales-manager-global-starlink-enterprise-sales-1dfbd6",
+        "match_score": 0.55,
+        "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "SpaceX",
+        "puesto": "Sr. Sales Manager (Global Starlink Enterprise Sales)",
+        "ubicacion": "El Segundo, CA, Flexible / Remote, Lockhart, TX, New York, NY, Palo Alto, CA, Redmond, WA, Washington, DC",
         "url": "https://www.themuse.com/jobs/spacex/sr-sales-manager-global-starlink-enterprise-sales-f1ddb3",
         "match_score": 0.55,
         "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
@@ -182,14 +190,6 @@
         "url": "https://www.themuse.com/jobs/enterprisemobility/work-from-home-reservation-sales-representative-ec9d08",
         "match_score": 0.55,
         "justificacion": "Rol: Posición comercial de Sales, representative. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "Zoom",
-        "puesto": "Account Executive Enterprise - South Germany",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/zoom/account-executive-enterprise-south-germany-b23d75",
-        "match_score": 0.55,
-        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
     {
         "empresa": "Canonical",
