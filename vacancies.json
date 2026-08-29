@@ -8,14 +8,6 @@
         "justificacion": "Sector: Coincide con tu experiencia en COMPLIANCE. Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
     },
     {
-        "empresa": "Autodesk",
-        "puesto": "License Compliance Sales Rep",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/autodesk/license-compliance-sales-rep",
-        "match_score": 0.9,
-        "justificacion": "Sector: Coincide con tu experiencia en POS, COMPLIANCE. Rol: Posición comercial de Sales. Modalidad: Remoto Global compatible."
-    },
-    {
         "empresa": "Kyndryl",
         "puesto": "Cybersecurity Strategic Alliances-Business Development Partner",
         "ubicacion": "Flexible / Remote, Mexico City, Mexico",
@@ -60,14 +52,6 @@
         "puesto": "Account Executive - Energy",
         "ubicacion": "Flexible / Remote",
         "url": "https://www.themuse.com/jobs/celonis/account-executive-energy",
-        "match_score": 0.65,
-        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "Atlassian",
-        "puesto": "Account Executive, Enterprise",
-        "ubicacion": "Bangalore, India, Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/atlassian/account-executive-enterprise-f0f1bc",
         "match_score": 0.65,
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
@@ -352,14 +336,6 @@
         "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
     },
     {
-        "empresa": "CrowdStrike",
-        "puesto": "Regional Sales Manager (Remote, COL)",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/crowdstrike/regional-sales-manager-remote-col-00103e",
-        "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
-    },
-    {
         "empresa": "Allstate",
         "puesto": "Licensed Insurance Sales Representative (Remote / Home-Based)",
         "ubicacion": "Flexible / Remote, Santa Fe, NM",
@@ -368,20 +344,20 @@
         "justificacion": "Rol: Posición comercial de Sales, representative. Modalidad: Remoto Global compatible."
     },
     {
+        "empresa": "Zoom",
+        "puesto": "Sales Manager, Workvivo SEER",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/zoom/sales-manager-workvivo-seer",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
+    },
+    {
         "empresa": "UKG",
         "puesto": "SALES EXECUTIVE",
         "ubicacion": "Flexible / Remote, Gunnison, CO",
         "url": "https://www.themuse.com/jobs/ukg/sales-executive-87c7f2",
         "match_score": 0.4,
         "justificacion": "Rol: Posición comercial de Sales. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "Allstate",
-        "puesto": "Licensed Insurance Sales Representative (Remote / Home-Based)",
-        "ubicacion": "Flexible / Remote, Newark, NJ",
-        "url": "https://www.themuse.com/jobs/allstate/licensed-insurance-sales-representative-remote-homebased-d6c9e7",
-        "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Sales, representative. Modalidad: Remoto Global compatible."
     },
     {
         "empresa": "GE Vernova",
@@ -398,5 +374,29 @@
         "url": "https://www.themuse.com/jobs/hitachienergy/regional-sales-manager-for-automation-and-communciation-2f43db",
         "match_score": 0.4,
         "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "Henry Schein",
+        "puesto": "Reference Lab Sales Specialist - Southeast",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/henryschein/reference-lab-sales-specialist-southeast",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición comercial de Sales. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "Flex",
+        "puesto": "Sr Director, Business Development - Industrial",
+        "ubicacion": "Austin, TX, Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/flex/sr-director-business-development-industrial",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición comercial de Business development, director. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "UKG",
+        "puesto": "ACCOUNT EXECUTIVE",
+        "ubicacion": "Flexible / Remote, Houston, TX",
+        "url": "https://www.themuse.com/jobs/ukg/account-executive-ddfab0",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     }
 ]
