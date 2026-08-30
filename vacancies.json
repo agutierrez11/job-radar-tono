@@ -168,6 +168,14 @@
         "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
     },
     {
+        "empresa": "Atlassian",
+        "puesto": "Enterprise Account Executive, Fabric | DX",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/atlassian/enterprise-account-executive-fabric-dx",
+        "match_score": 0.55,
+        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
+    },
+    {
         "empresa": "Enterprise Mobility",
         "puesto": "Work From Home Reservation Sales Representative",
         "ubicacion": "Flexible / Remote, Gunnison, CO",
@@ -206,14 +214,6 @@
         "url": "https://jobicy.com/jobs/149539-embedded-devices-software-solution-sales-all-roles",
         "match_score": 0.55,
         "justificacion": "Rol: Posición comercial de Sales. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "Salesforce",
-        "puesto": "Alliances - Partner Account Director",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/salesforce/alliances-partner-account-director-3ebf64",
-        "match_score": 0.45,
-        "justificacion": "Rol: Posición comercial de Account, partner. Modalidad: Remoto Global compatible."
     },
     {
         "empresa": "Salesforce",
@@ -344,6 +344,14 @@
         "justificacion": "Rol: Posición comercial de Sales, representative. Modalidad: Remoto Global compatible."
     },
     {
+        "empresa": "Equinix, Inc",
+        "puesto": "Sr. Director, Channel Sales Acceleration",
+        "ubicacion": "Flexible / Remote, Toronto, Canada",
+        "url": "https://www.themuse.com/jobs/equinixinc/sr-director-channel-sales-acceleration-f9dbfa",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición comercial de Sales, director. Modalidad: Remoto Global compatible."
+    },
+    {
         "empresa": "Zoom",
         "puesto": "Sales Manager, Workvivo SEER",
         "ubicacion": "Flexible / Remote",
@@ -352,12 +360,12 @@
         "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
     },
     {
-        "empresa": "UKG",
-        "puesto": "SALES EXECUTIVE",
-        "ubicacion": "Flexible / Remote, Gunnison, CO",
-        "url": "https://www.themuse.com/jobs/ukg/sales-executive-87c7f2",
+        "empresa": "Cofense",
+        "puesto": "Account Executive, UK,  & IRE",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/cofense/account-executive-uk-ire",
         "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Sales. Modalidad: Remoto Global compatible."
+        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
     {
         "empresa": "GE Vernova",
@@ -390,13 +398,5 @@
         "url": "https://www.themuse.com/jobs/flex/sr-director-business-development-industrial",
         "match_score": 0.4,
         "justificacion": "Rol: Posición comercial de Business development, director. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "UKG",
-        "puesto": "ACCOUNT EXECUTIVE",
-        "ubicacion": "Flexible / Remote, Houston, TX",
-        "url": "https://www.themuse.com/jobs/ukg/account-executive-ddfab0",
-        "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     }
 ]
