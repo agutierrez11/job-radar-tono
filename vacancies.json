@@ -8,14 +8,6 @@
         "justificacion": "Sector: Coincide con tu experiencia en COMPLIANCE. Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
     },
     {
-        "empresa": "Kyndryl",
-        "puesto": "Cybersecurity Strategic Alliances-Business Development Partner",
-        "ubicacion": "Flexible / Remote, Mexico City, Mexico",
-        "url": "https://www.themuse.com/jobs/kyndryl/cybersecurity-strategic-alliancesbusiness-development-partner",
-        "match_score": 0.8,
-        "justificacion": "Rol: Posición comercial de Business development, partner. Ubicación ideal: Flexible / Remote, Mexico City, Mexico."
-    },
-    {
         "empresa": "HomeLight",
         "puesto": "Inside Sales (Home Consultant)",
         "ubicacion": "Mexico",
@@ -214,6 +206,14 @@
         "url": "https://jobicy.com/jobs/149539-embedded-devices-software-solution-sales-all-roles",
         "match_score": 0.55,
         "justificacion": "Rol: Posición comercial de Sales. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "Samsara Inc.",
+        "puesto": "Mid-Market Account Executive -  French Fluent",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/samsarainc/midmarket-account-executive-french-fluent-155851",
+        "match_score": 0.5,
+        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
     {
         "empresa": "Salesforce",
