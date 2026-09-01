@@ -16,14 +16,6 @@
         "justificacion": "Rol: Posición comercial de Sales. Ubicación ideal: Mexico."
     },
     {
-        "empresa": "Vonage",
-        "puesto": "Sales Development Representative - API/CPaaS (NwPS)",
-        "ubicacion": "Mexico,  USA",
-        "url": "https://jobicy.com/jobs/149389-sales-development-representative-api-cpaas-nwps",
-        "match_score": 0.7,
-        "justificacion": "Rol: Posición comercial de Sales, representative. Ubicación ideal: Mexico,  USA."
-    },
-    {
         "empresa": "Celonis",
         "puesto": "Account Executive - Retail",
         "ubicacion": "Flexible / Remote",
@@ -164,6 +156,14 @@
         "puesto": "Enterprise Account Executive, Fabric | DX",
         "ubicacion": "Flexible / Remote",
         "url": "https://www.themuse.com/jobs/atlassian/enterprise-account-executive-fabric-dx",
+        "match_score": 0.55,
+        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "Zoom",
+        "puesto": "Enterprise Account Executive, Malaysia",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/zoom/enterprise-account-executive-malaysia",
         "match_score": 0.55,
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
@@ -336,28 +336,28 @@
         "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
     },
     {
+        "empresa": "PNC",
+        "puesto": "Merchant Services Account Executive - Virtual Client",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/pnc/merchant-services-account-executive-virtual-client",
+        "match_score": 0.4,
+        "justificacion": "Sector: Coincide con tu experiencia en POS. Rol: Posición comercial de Account, merchant. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "Atlassian",
+        "puesto": "Strategic Account Executive - Cleveland, OH",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/atlassian/strategic-account-executive-cleveland-oh-e67b2d",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
+    },
+    {
         "empresa": "Allstate",
         "puesto": "Licensed Insurance Sales Representative (Remote / Home-Based)",
         "ubicacion": "Flexible / Remote, Santa Fe, NM",
         "url": "https://www.themuse.com/jobs/allstate/licensed-insurance-sales-representative-remote-homebased-cb172f",
         "match_score": 0.4,
         "justificacion": "Rol: Posición comercial de Sales, representative. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "Equinix, Inc",
-        "puesto": "Sr. Director, Channel Sales Acceleration",
-        "ubicacion": "Flexible / Remote, Toronto, Canada",
-        "url": "https://www.themuse.com/jobs/equinixinc/sr-director-channel-sales-acceleration-f9dbfa",
-        "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Sales, director. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "Zoom",
-        "puesto": "Sales Manager, Workvivo SEER",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/zoom/sales-manager-workvivo-seer",
-        "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
     },
     {
         "empresa": "Cofense",
