@@ -16,6 +16,14 @@
         "justificacion": "Rol: Posición comercial de Business development, partner. Ubicación ideal: Flexible / Remote, Mexico City, Mexico."
     },
     {
+        "empresa": "Ajax Systems",
+        "puesto": "Area Sales Manager (Guadalajara, Mexico)",
+        "ubicacion": "Mexico",
+        "url": "https://jobicy.com/jobs/152579-area-sales-manager-guadalajara-mexico",
+        "match_score": 0.8,
+        "justificacion": "Rol: Posición comercial de Sales, manager. Ubicación ideal: Mexico."
+    },
+    {
         "empresa": "HomeLight",
         "puesto": "Inside Sales (Home Consultant)",
         "ubicacion": "Mexico",
@@ -78,6 +86,14 @@
         "url": "https://www.themuse.com/jobs/celonis/account-executive-energy",
         "match_score": 0.65,
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "Atlassian",
+        "puesto": "Manager, Enterprise Sales | DX",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/atlassian/manager-enterprise-sales-dx",
+        "match_score": 0.65,
+        "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
     },
     {
         "empresa": "SpaceX",
@@ -257,14 +273,6 @@
     },
     {
         "empresa": "SpaceX",
-        "puesto": "Starlink Growth Lead, US South",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/spacex/starlink-growth-lead-us-south",
-        "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Growth, lead. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "SpaceX",
         "puesto": "Starlink Growth Lead, US Northeast",
         "ubicacion": "Flexible / Remote",
         "url": "https://www.themuse.com/jobs/spacex/starlink-growth-lead-us-northeast-7cb97f",
@@ -360,28 +368,12 @@
         "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
     },
     {
-        "empresa": "PNC",
-        "puesto": "Merchant Services Account Executive - Virtual Client",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/pnc/merchant-services-account-executive-virtual-client",
-        "match_score": 0.4,
-        "justificacion": "Sector: Coincide con tu experiencia en POS. Rol: Posición comercial de Account, merchant. Modalidad: Remoto Global compatible."
-    },
-    {
         "empresa": "Atlassian",
         "puesto": "Strategic Account Executive - Cleveland, OH",
         "ubicacion": "Flexible / Remote",
         "url": "https://www.themuse.com/jobs/atlassian/strategic-account-executive-cleveland-oh-e67b2d",
         "match_score": 0.4,
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "Allstate",
-        "puesto": "Licensed Insurance Sales Representative (Remote / Home-Based)",
-        "ubicacion": "Flexible / Remote, Santa Fe, NM",
-        "url": "https://www.themuse.com/jobs/allstate/licensed-insurance-sales-representative-remote-homebased-cb172f",
-        "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Sales, representative. Modalidad: Remoto Global compatible."
     },
     {
         "empresa": "Cofense",
@@ -396,6 +388,14 @@
         "puesto": "Sr Systems Sales Manager, Bio",
         "ubicacion": "Chapel Hill, NC, Flexible / Remote, Lakewood, NJ, Milton, DE, Williamsport, PA",
         "url": "https://www.themuse.com/jobs/waters/sr-systems-sales-manager-bio-9117fe",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "GE Vernova",
+        "puesto": "Senior Sales Manager Romania & East Europe",
+        "ubicacion": "Flexible / Remote, Făgăraș, Romania",
+        "url": "https://www.themuse.com/jobs/gevernova/senior-sales-manager-romania-east-europe",
         "match_score": 0.4,
         "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
     }
