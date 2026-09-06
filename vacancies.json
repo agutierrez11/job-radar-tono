@@ -216,35 +216,11 @@
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
     {
-        "empresa": "Canonical",
-        "puesto": "Graduate Sales Development Representative",
-        "ubicacion": "Anywhere",
-        "url": "https://jobicy.com/jobs/149555-graduate-sales-development-representative",
-        "match_score": 0.55,
-        "justificacion": "Rol: Posición comercial de Sales, representative. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "Canonical",
-        "puesto": "Senior Partner Sales Manager - Global System Integrator (GSI)",
-        "ubicacion": "Anywhere",
-        "url": "https://jobicy.com/jobs/149525-senior-partner-sales-manager-global-system-integrator-gsi",
-        "match_score": 0.55,
-        "justificacion": "Rol: Posición comercial de Sales, partner. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "Canonical",
-        "puesto": "Partner Sales Director - Global System Integrator (GSI)",
-        "ubicacion": "Anywhere",
-        "url": "https://jobicy.com/jobs/149529-partner-sales-director-global-system-integrator-gsi",
-        "match_score": 0.55,
-        "justificacion": "Rol: Posición comercial de Sales, partner. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "Canonical",
-        "puesto": "Embedded Devices Software Solution Sales - All Roles",
-        "ubicacion": "Anywhere",
-        "url": "https://jobicy.com/jobs/149539-embedded-devices-software-solution-sales-all-roles",
-        "match_score": 0.55,
+        "empresa": "Waters",
+        "puesto": "Sr MS Sales Development Specialist",
+        "ubicacion": "Bellingham, MA, Flexible / Remote, Goleta, CA, Lakewood, NJ, Williamsport, PA, Wilmington, DE",
+        "url": "https://www.themuse.com/jobs/waters/sr-ms-sales-development-specialist-8a1192",
+        "match_score": 0.5,
         "justificacion": "Rol: Posición comercial de Sales. Modalidad: Remoto Global compatible."
     },
     {
@@ -252,6 +228,14 @@
         "puesto": "Mid-Market Account Executive -  French Fluent",
         "ubicacion": "Flexible / Remote",
         "url": "https://www.themuse.com/jobs/samsarainc/midmarket-account-executive-french-fluent-155851",
+        "match_score": 0.5,
+        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "Samsara Inc.",
+        "puesto": "Commercial Account Executive ",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/samsarainc/commercial-account-executive-319de4",
         "match_score": 0.5,
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
@@ -384,19 +368,35 @@
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
     {
-        "empresa": "Waters",
-        "puesto": "Sr Systems Sales Manager, Bio",
-        "ubicacion": "Chapel Hill, NC, Flexible / Remote, Lakewood, NJ, Milton, DE, Williamsport, PA",
-        "url": "https://www.themuse.com/jobs/waters/sr-systems-sales-manager-bio-9117fe",
-        "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
-    },
-    {
         "empresa": "GE Vernova",
         "puesto": "Senior Sales Manager Romania & East Europe",
         "ubicacion": "Flexible / Remote, Făgăraș, Romania",
         "url": "https://www.themuse.com/jobs/gevernova/senior-sales-manager-romania-east-europe",
         "match_score": 0.4,
         "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "Hitachi Energy",
+        "puesto": "Regional Sales Manager for Automation and Communciation",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/hitachienergy/regional-sales-manager-for-automation-and-communciation-2f43db",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "Henry Schein",
+        "puesto": "Dental, Area Sales Executive - Midwest",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/henryschein/dental-area-sales-executive-midwest",
+        "match_score": 0.4,
+        "justificacion": "Sector: Coincide con tu experiencia en POS. Rol: Posición comercial de Sales. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "CrowdStrike",
+        "puesto": "Corporate Account Executive, Kolkata (Remote, IND)",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/crowdstrike/corporate-account-executive-kolkata-remote-ind",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     }
 ]
