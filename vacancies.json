@@ -24,14 +24,6 @@
         "justificacion": "Rol: Posición comercial de Sales, manager. Ubicación ideal: Mexico."
     },
     {
-        "empresa": "HomeLight",
-        "puesto": "Inside Sales (Home Consultant)",
-        "ubicacion": "Mexico",
-        "url": "https://jobicy.com/jobs/151655-inside-sales-home-consultant",
-        "match_score": 0.8,
-        "justificacion": "Rol: Posición comercial de Sales. Ubicación ideal: Mexico."
-    },
-    {
         "empresa": "Vonage",
         "puesto": "Sales Development Representative (Portuguese Speaking)",
         "ubicacion": "Mexico",
@@ -216,14 +208,6 @@
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
     {
-        "empresa": "Waters",
-        "puesto": "Sr MS Sales Development Specialist",
-        "ubicacion": "Bellingham, MA, Flexible / Remote, Goleta, CA, Lakewood, NJ, Williamsport, PA, Wilmington, DE",
-        "url": "https://www.themuse.com/jobs/waters/sr-ms-sales-development-specialist-8a1192",
-        "match_score": 0.5,
-        "justificacion": "Rol: Posición comercial de Sales. Modalidad: Remoto Global compatible."
-    },
-    {
         "empresa": "Samsara Inc.",
         "puesto": "Mid-Market Account Executive -  French Fluent",
         "ubicacion": "Flexible / Remote",
@@ -398,5 +382,21 @@
         "url": "https://www.themuse.com/jobs/crowdstrike/corporate-account-executive-kolkata-remote-ind",
         "match_score": 0.4,
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "Atlassian",
+        "puesto": "Account Executive, Mid Market",
+        "ubicacion": "Bangalore, India, Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/atlassian/account-executive-mid-market-229b16",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "Equinix, Inc",
+        "puesto": "VP, Commercial Sales, Americas",
+        "ubicacion": "Dallas, TX, Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/equinixinc/vp-commercial-sales-americas",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición comercial de Sales. Modalidad: Remoto Global compatible."
     }
 ]
