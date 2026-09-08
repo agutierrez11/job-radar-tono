@@ -336,6 +336,14 @@
         "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
     },
     {
+        "empresa": "Zoom",
+        "puesto": "Sales Manager, Workvivo SEER",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/zoom/sales-manager-workvivo-seer",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
+    },
+    {
         "empresa": "Atlassian",
         "puesto": "Strategic Account Executive - Cleveland, OH",
         "ubicacion": "Flexible / Remote",
@@ -390,13 +398,5 @@
         "url": "https://www.themuse.com/jobs/atlassian/account-executive-mid-market-229b16",
         "match_score": 0.4,
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "Equinix, Inc",
-        "puesto": "VP, Commercial Sales, Americas",
-        "ubicacion": "Dallas, TX, Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/equinixinc/vp-commercial-sales-americas",
-        "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Sales. Modalidad: Remoto Global compatible."
     }
 ]
