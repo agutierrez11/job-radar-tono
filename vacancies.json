@@ -16,6 +16,14 @@
         "justificacion": "Rol: Posición comercial de Business development, partner. Ubicación ideal: Flexible / Remote, Mexico City, Mexico."
     },
     {
+        "empresa": "Tremendous",
+        "puesto": "Sales Development Representative, Outbound",
+        "ubicacion": "LATAM,  USA",
+        "url": "https://jobicy.com/jobs/152861-sales-development-representative-outbound",
+        "match_score": 0.8,
+        "justificacion": "Rol: Posición comercial de Sales, representative. Ubicación ideal: LATAM,  USA."
+    },
+    {
         "empresa": "Ajax Systems",
         "puesto": "Area Sales Manager (Guadalajara, Mexico)",
         "ubicacion": "Mexico",
@@ -216,14 +224,6 @@
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
     {
-        "empresa": "Samsara Inc.",
-        "puesto": "Commercial Account Executive ",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/samsarainc/commercial-account-executive-319de4",
-        "match_score": 0.5,
-        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
-    },
-    {
         "empresa": "Salesforce",
         "puesto": "Prime Named Account Executive",
         "ubicacion": "Flexible / Remote",
@@ -336,20 +336,20 @@
         "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
     },
     {
-        "empresa": "Zoom",
-        "puesto": "Sales Manager, Workvivo SEER",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/zoom/sales-manager-workvivo-seer",
-        "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
-    },
-    {
         "empresa": "Atlassian",
         "puesto": "Strategic Account Executive - Cleveland, OH",
         "ubicacion": "Flexible / Remote",
         "url": "https://www.themuse.com/jobs/atlassian/strategic-account-executive-cleveland-oh-e67b2d",
         "match_score": 0.4,
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "Allstate",
+        "puesto": "Licensed Insurance Sales Representative (Remote / Home-Based)",
+        "ubicacion": "Detroit, MI, Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/allstate/licensed-insurance-sales-representative-remote-homebased-fc404e",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición comercial de Sales, representative. Modalidad: Remoto Global compatible."
     },
     {
         "empresa": "Cofense",
