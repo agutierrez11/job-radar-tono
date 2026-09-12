@@ -344,6 +344,14 @@
         "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
     },
     {
+        "empresa": "J. J. Keller & Associates, Inc.",
+        "puesto": "Sales Representative",
+        "ubicacion": "Dallas, TX, Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/jjkellerassociatesinc/sales-representative-b88080",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición comercial de Sales, representative. Modalidad: Remoto Global compatible."
+    },
+    {
         "empresa": "Henry Schein",
         "puesto": "District Sales Manager - St Paul, MN",
         "ubicacion": "Flexible / Remote",
@@ -390,13 +398,5 @@
         "url": "https://www.themuse.com/jobs/hitachienergy/regional-sales-manager-for-automation-and-communciation-2f43db",
         "match_score": 0.4,
         "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "Achieve",
-        "puesto": "Senior Loan Sales Consultant",
-        "ubicacion": "Corpus Christi, TX, Dallas, TX, El Paso, TX, Flexible / Remote, Houston, TX, San Antonio, TX",
-        "url": "https://www.themuse.com/jobs/achieve/senior-loan-sales-consultant-da02ac",
-        "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Sales. Modalidad: Remoto Global compatible."
     }
 ]
