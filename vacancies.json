@@ -96,14 +96,6 @@
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
     {
-        "empresa": "Atlassian",
-        "puesto": "Manager, Enterprise Sales | DX",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/atlassian/manager-enterprise-sales-dx",
-        "match_score": 0.65,
-        "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
-    },
-    {
         "empresa": "SpaceX",
         "puesto": "Sr. Sales Manager (Global Starlink Enterprise Sales)",
         "ubicacion": "El Segundo, CA, Flexible / Remote, Lockhart, TX, New York, NY, Palo Alto, CA, Redmond, WA, Washington, DC",
@@ -224,10 +216,26 @@
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
     {
+        "empresa": "Zoom",
+        "puesto": "Account Executive Enterprise - South Germany",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/zoom/account-executive-enterprise-south-germany-b23d75",
+        "match_score": 0.55,
+        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
+    },
+    {
         "empresa": "Samsara Inc.",
         "puesto": "Mid-Market Account Executive -  French Fluent",
         "ubicacion": "Flexible / Remote",
         "url": "https://www.themuse.com/jobs/samsarainc/midmarket-account-executive-french-fluent-155851",
+        "match_score": 0.5,
+        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "Henry Schein",
+        "puesto": "Account Executive II",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/henryschein/account-executive-ii-12f40f",
         "match_score": 0.5,
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
@@ -320,14 +328,6 @@
         "justificacion": "Rol: Posición comercial de Growth, lead. Modalidad: Remoto Global compatible."
     },
     {
-        "empresa": "Atlassian",
-        "puesto": "Manager, Solution Sales, Service Collection",
-        "ubicacion": "Flexible / Remote, San Francisco, CA",
-        "url": "https://www.themuse.com/jobs/atlassian/manager-solution-sales-service-collection",
-        "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
-    },
-    {
         "empresa": "Cummins",
         "puesto": "Sales Manager - PowerGen",
         "ubicacion": "Flexible / Remote",
@@ -342,14 +342,6 @@
         "url": "https://www.themuse.com/jobs/henryschein/district-sales-manager-portland-me",
         "match_score": 0.4,
         "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "J. J. Keller & Associates, Inc.",
-        "puesto": "Sales Representative",
-        "ubicacion": "Dallas, TX, Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/jjkellerassociatesinc/sales-representative-b88080",
-        "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Sales, representative. Modalidad: Remoto Global compatible."
     },
     {
         "empresa": "Henry Schein",
@@ -398,5 +390,13 @@
         "url": "https://www.themuse.com/jobs/hitachienergy/regional-sales-manager-for-automation-and-communciation-2f43db",
         "match_score": 0.4,
         "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "Zoom",
+        "puesto": "Business Development Representative - Contact Center (CX)",
+        "ubicacion": "Denver, CO, Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/zoom/business-development-representative-contact-center-cx",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición comercial de Business development, representative. Modalidad: Remoto Global compatible."
     }
 ]
