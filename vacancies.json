@@ -48,22 +48,6 @@
         "justificacion": "Rol: Posición comercial de Sales, representative. Ubicación ideal: Mexico."
     },
     {
-        "empresa": "Vonage",
-        "puesto": "Sales Development Representative - API MAM Supporting",
-        "ubicacion": "Mexico",
-        "url": "https://jobicy.com/jobs/152476-sales-development-representative-api-mam-supporting",
-        "match_score": 0.7,
-        "justificacion": "Rol: Posición comercial de Sales, representative. Ubicación ideal: Mexico."
-    },
-    {
-        "empresa": "Vonage",
-        "puesto": "Sales Development Representative - API KAM Supporting",
-        "ubicacion": "Mexico",
-        "url": "https://jobicy.com/jobs/152474-sales-development-representative-api-kam-supporting",
-        "match_score": 0.7,
-        "justificacion": "Rol: Posición comercial de Sales, representative. Ubicación ideal: Mexico."
-    },
-    {
         "empresa": "Celonis",
         "puesto": "Account Executive - Retail",
         "ubicacion": "Flexible / Remote",
@@ -224,14 +208,6 @@
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
     {
-        "empresa": "Samsara Inc.",
-        "puesto": "Mid-Market Account Executive -  French Fluent",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/samsarainc/midmarket-account-executive-french-fluent-155851",
-        "match_score": 0.5,
-        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
-    },
-    {
         "empresa": "Henry Schein",
         "puesto": "Account Executive II",
         "ubicacion": "Flexible / Remote",
@@ -360,6 +336,14 @@
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
     {
+        "empresa": "Atlassian",
+        "puesto": "Manager, Account Executives, Mid-Market",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/atlassian/manager-account-executives-midmarket-554653",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición comercial de Account, manager. Modalidad: Remoto Global compatible."
+    },
+    {
         "empresa": "Allstate",
         "puesto": "Licensed Insurance Sales Representative (Remote / Home-Based)",
         "ubicacion": "Detroit, MI, Flexible / Remote",
@@ -398,5 +382,21 @@
         "url": "https://www.themuse.com/jobs/zoom/business-development-representative-contact-center-cx",
         "match_score": 0.4,
         "justificacion": "Rol: Posición comercial de Business development, representative. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "Achieve",
+        "puesto": "Senior Loan Sales Consultant",
+        "ubicacion": "Corpus Christi, TX, Dallas, TX, El Paso, TX, Flexible / Remote, Houston, TX, San Antonio, TX",
+        "url": "https://www.themuse.com/jobs/achieve/senior-loan-sales-consultant-da02ac",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición comercial de Sales. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "Henry Schein",
+        "puesto": "Dental, Area Sales Executive - Midwest",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/henryschein/dental-area-sales-executive-midwest",
+        "match_score": 0.4,
+        "justificacion": "Sector: Coincide con tu experiencia en POS. Rol: Posición comercial de Sales. Modalidad: Remoto Global compatible."
     }
 ]
