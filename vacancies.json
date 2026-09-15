@@ -40,14 +40,6 @@
         "justificacion": "Rol: Posición comercial de Sales, manager. Ubicación ideal: Mexico."
     },
     {
-        "empresa": "Vonage",
-        "puesto": "Sales Development Representative (Portuguese Speaking)",
-        "ubicacion": "Mexico",
-        "url": "https://jobicy.com/jobs/152478-sales-development-representative-portuguese-speaking",
-        "match_score": 0.7,
-        "justificacion": "Rol: Posición comercial de Sales, representative. Ubicación ideal: Mexico."
-    },
-    {
         "empresa": "Celonis",
         "puesto": "Account Executive - Retail",
         "ubicacion": "Flexible / Remote",
@@ -200,14 +192,6 @@
         "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     },
     {
-        "empresa": "Zoom",
-        "puesto": "Account Executive Enterprise - South Germany",
-        "ubicacion": "Flexible / Remote",
-        "url": "https://www.themuse.com/jobs/zoom/account-executive-enterprise-south-germany-b23d75",
-        "match_score": 0.55,
-        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
-    },
-    {
         "empresa": "Henry Schein",
         "puesto": "Account Executive II",
         "ubicacion": "Flexible / Remote",
@@ -328,6 +312,14 @@
         "justificacion": "Rol: Posición comercial de Sales, manager. Modalidad: Remoto Global compatible."
     },
     {
+        "empresa": "J. J. Keller & Associates, Inc.",
+        "puesto": "Sales Development Representative (Sales Academy)",
+        "ubicacion": "Flexible / Remote, Neenah, WI",
+        "url": "https://www.themuse.com/jobs/jjkellerassociatesinc/sales-development-representative-sales-academy-182f14",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición comercial de Sales, representative. Modalidad: Remoto Global compatible."
+    },
+    {
         "empresa": "Atlassian",
         "puesto": "Strategic Account Executive - Cleveland, OH",
         "ubicacion": "Flexible / Remote",
@@ -398,5 +390,13 @@
         "url": "https://www.themuse.com/jobs/henryschein/dental-area-sales-executive-midwest",
         "match_score": 0.4,
         "justificacion": "Sector: Coincide con tu experiencia en POS. Rol: Posición comercial de Sales. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "CrowdStrike",
+        "puesto": "Corporate Account Executive, Kolkata (Remote, IND)",
+        "ubicacion": "Flexible / Remote",
+        "url": "https://www.themuse.com/jobs/crowdstrike/corporate-account-executive-kolkata-remote-ind",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
     }
 ]
