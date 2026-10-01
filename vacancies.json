@@ -1,67 +1,35 @@
 [
     {
-        "empresa": "Binance",
-        "puesto": "Binance Accelerator Program - VIP Sales",
-        "ubicacion": "LATAM,  UAE,  UK",
-        "url": "https://jobicy.com/jobs/153651-binance-accelerator-program-vip-sales",
-        "match_score": 1.0,
-        "justificacion": "Sector: Coincide con tu experiencia en CRYPTO. Rol: Posición comercial de Sales. Ubicación ideal: LATAM,  UAE,  UK."
+        "empresa": "Elevenlabs",
+        "puesto": "Account Executive - LATAM",
+        "ubicacion": "Argentina,  Mexico",
+        "url": "https://jobicy.com/jobs/154329-account-executive-latam",
+        "match_score": 0.8,
+        "justificacion": "Rol: Posición comercial de Account. Ubicación ideal: Argentina,  Mexico."
     },
     {
-        "empresa": "HomeLight",
-        "puesto": "Inside Sales (Home Consultant)",
-        "ubicacion": "Mexico",
-        "url": "https://jobicy.com/jobs/151655-inside-sales-home-consultant",
+        "empresa": "Elevenlabs",
+        "puesto": "Account Manager - LATAM",
+        "ubicacion": "Argentina,  Brazil,  Mexico",
+        "url": "https://jobicy.com/jobs/154332-account-manager-latam",
         "match_score": 0.8,
-        "justificacion": "Rol: Posición comercial de Sales. Ubicación ideal: Mexico."
+        "justificacion": "Rol: Posición comercial de Account, manager. Ubicación ideal: Argentina,  Brazil,  Mexico."
+    },
+    {
+        "empresa": "Samsara",
+        "puesto": "Mexico Major AE",
+        "ubicacion": "Mexico",
+        "url": "https://jobicy.com/jobs/153476-mexico-major-ae",
+        "match_score": 0.8,
+        "justificacion": "Rol: Posición comercial de Ae. Ubicación ideal: Mexico."
     },
     {
         "empresa": "Nextiva",
-        "puesto": "Inside Sales Representative (Customer Expansion)",
+        "puesto": "Junior Expansion Account Executive (Small Business Accounts)",
         "ubicacion": "Mexico",
-        "url": "https://jobicy.com/jobs/154151-inside-sales-representative-customer-expansion",
+        "url": "https://jobicy.com/jobs/152196-junior-expansion-account-executive-small-business-accounts",
         "match_score": 0.7,
-        "justificacion": "Rol: Posición comercial de Sales, representative. Ubicación ideal: Mexico."
-    },
-    {
-        "empresa": "GoFasti",
-        "puesto": "1121 - Sales Development Representative",
-        "ubicacion": "LATAM",
-        "url": "https://jobicy.com/jobs/153778-1121-sales-development-representative",
-        "match_score": 0.7,
-        "justificacion": "Rol: Posición comercial de Sales, representative. Ubicación ideal: LATAM."
-    },
-    {
-        "empresa": "Canonical",
-        "puesto": "Graduate Sales Development Representative",
-        "ubicacion": "Anywhere",
-        "url": "https://jobicy.com/jobs/149555-graduate-sales-development-representative",
-        "match_score": 0.55,
-        "justificacion": "Rol: Posición comercial de Sales, representative. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "Canonical",
-        "puesto": "Partner Sales Director - Global System Integrator (GSI)",
-        "ubicacion": "Anywhere",
-        "url": "https://jobicy.com/jobs/149529-partner-sales-director-global-system-integrator-gsi",
-        "match_score": 0.55,
-        "justificacion": "Rol: Posición comercial de Sales, partner. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "Canonical",
-        "puesto": "Senior Partner Sales Manager - Global System Integrator (GSI)",
-        "ubicacion": "Anywhere",
-        "url": "https://jobicy.com/jobs/149525-senior-partner-sales-manager-global-system-integrator-gsi",
-        "match_score": 0.55,
-        "justificacion": "Rol: Posición comercial de Sales, partner. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "Canonical",
-        "puesto": "Embedded Devices Software Solution Sales - All Roles",
-        "ubicacion": "Anywhere",
-        "url": "https://jobicy.com/jobs/149539-embedded-devices-software-solution-sales-all-roles",
-        "match_score": 0.55,
-        "justificacion": "Rol: Posición comercial de Sales. Modalidad: Remoto Global compatible."
+        "justificacion": "Rol: Posición comercial de Account. Ubicación ideal: Mexico."
     },
     {
         "empresa": "Credit Wellness, LLC",
