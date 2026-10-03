@@ -1,5 +1,21 @@
 [
     {
+        "empresa": "Samsara",
+        "puesto": "Account Executive, Commercial - Mexico",
+        "ubicacion": "Mexico",
+        "url": "https://jobicy.com/jobs/152470-account-executive-commercial-mexico",
+        "match_score": 0.8,
+        "justificacion": "Rol: Posición comercial de Account. Ubicación ideal: Mexico."
+    },
+    {
+        "empresa": "Canonical",
+        "puesto": "Regional SDR Director",
+        "ubicacion": "APAC,  EMEA,  LATAM,  Canada,  USA",
+        "url": "https://jobicy.com/jobs/149924-regional-sdr-director",
+        "match_score": 0.8,
+        "justificacion": "Rol: Posición comercial de Sdr, director. Ubicación ideal: APAC,  EMEA,  LATAM,  Canada,  USA."
+    },
+    {
         "empresa": "Elevenlabs",
         "puesto": "Account Executive - LATAM",
         "ubicacion": "Argentina,  Mexico",
@@ -14,14 +30,6 @@
         "url": "https://jobicy.com/jobs/154332-account-manager-latam",
         "match_score": 0.8,
         "justificacion": "Rol: Posición comercial de Account, manager. Ubicación ideal: Argentina,  Brazil,  Mexico."
-    },
-    {
-        "empresa": "Nextiva",
-        "puesto": "Junior Expansion Account Executive (Small Business Accounts)",
-        "ubicacion": "Mexico",
-        "url": "https://jobicy.com/jobs/152196-junior-expansion-account-executive-small-business-accounts",
-        "match_score": 0.7,
-        "justificacion": "Rol: Posición comercial de Account. Ubicación ideal: Mexico."
     },
     {
         "empresa": "Credit Wellness, LLC",
