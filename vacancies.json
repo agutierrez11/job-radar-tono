@@ -1,5 +1,13 @@
 [
     {
+        "empresa": "Canonical",
+        "puesto": "Open Source Enterprise Sales Manager - North America",
+        "ubicacion": "LATAM,  Canada,  USA",
+        "url": "https://jobicy.com/jobs/154513-open-source-enterprise-sales-manager-north-america",
+        "match_score": 0.8,
+        "justificacion": "Sector: Coincide con tu experiencia en POS. Rol: Posición comercial de Sales, manager. Ubicación ideal: LATAM,  Canada,  USA."
+    },
+    {
         "empresa": "Samsara",
         "puesto": "Account Executive, Commercial - Mexico",
         "ubicacion": "Mexico",
@@ -16,20 +24,28 @@
         "justificacion": "Rol: Posición comercial de Sdr, director. Ubicación ideal: APAC,  EMEA,  LATAM,  Canada,  USA."
     },
     {
-        "empresa": "Elevenlabs",
-        "puesto": "Account Executive - LATAM",
-        "ubicacion": "Argentina,  Mexico",
-        "url": "https://jobicy.com/jobs/154329-account-executive-latam",
-        "match_score": 0.8,
-        "justificacion": "Rol: Posición comercial de Account. Ubicación ideal: Argentina,  Mexico."
+        "empresa": "Vonage",
+        "puesto": "Sales Development Representative - API MAM Supporting",
+        "ubicacion": "Mexico",
+        "url": "https://jobicy.com/jobs/152476-sales-development-representative-api-mam-supporting",
+        "match_score": 0.7,
+        "justificacion": "Rol: Posición comercial de Sales, representative. Ubicación ideal: Mexico."
     },
     {
-        "empresa": "Elevenlabs",
-        "puesto": "Account Manager - LATAM",
-        "ubicacion": "Argentina,  Brazil,  Mexico",
-        "url": "https://jobicy.com/jobs/154332-account-manager-latam",
-        "match_score": 0.8,
-        "justificacion": "Rol: Posición comercial de Account, manager. Ubicación ideal: Argentina,  Brazil,  Mexico."
+        "empresa": "Dandy",
+        "puesto": "Large Enterprise Account Executive",
+        "ubicacion": "Anywhere",
+        "url": "https://jobicy.com/jobs/154497-large-enterprise-account-executive",
+        "match_score": 0.45,
+        "justificacion": "Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "Canonical",
+        "puesto": "Open Source Enterprise Sales / Alliances",
+        "ubicacion": "Anywhere",
+        "url": "https://jobicy.com/jobs/154506-open-source-enterprise-sales-alliances",
+        "match_score": 0.45,
+        "justificacion": "Sector: Coincide con tu experiencia en POS. Rol: Posición comercial de Sales. Modalidad: Remoto Global compatible."
     },
     {
         "empresa": "Credit Wellness, LLC",
