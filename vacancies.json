@@ -1,1 +1,18 @@
-[]
+[
+    {
+        "empresa": "Tremendous",
+        "puesto": "Sales Development Representative, Outbound",
+        "ubicacion": "LATAM,  USA",
+        "url": "https://jobicy.com/jobs/152861-sales-development-representative-outbound",
+        "match_score": 0.8,
+        "justificacion": "Rol: Posición comercial de Sales, representative. Ubicación ideal: LATAM,  USA."
+    },
+    {
+        "empresa": "Credit Wellness, LLC",
+        "puesto": "Inside Sales Contractor",
+        "ubicacion": "Worldwide",
+        "url": "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición comercial de Sales. Modalidad: Remoto Global compatible."
+    }
+]
