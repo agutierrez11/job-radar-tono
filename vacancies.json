@@ -1,11 +1,19 @@
 [
     {
-        "empresa": "Samsara",
-        "puesto": "Mexico Major AE",
-        "ubicacion": "Mexico",
-        "url": "https://jobicy.com/jobs/153476-mexico-major-ae",
-        "match_score": 0.8,
-        "justificacion": "Rol: Posición comercial de Ae. Ubicación ideal: Mexico."
+        "empresa": "GoFasti",
+        "puesto": "Sales Development Rep",
+        "ubicacion": "LATAM",
+        "url": "https://jobicy.com/jobs/154589-1125-sales-development-rep",
+        "match_score": 0.7,
+        "justificacion": "Rol: Posición comercial de Sales. Ubicación ideal: LATAM."
+    },
+    {
+        "empresa": "GoFasti",
+        "puesto": "Sales Development Representative",
+        "ubicacion": "Anywhere",
+        "url": "https://jobicy.com/jobs/155559-1011-sales-development-representative",
+        "match_score": 0.45,
+        "justificacion": "Rol: Posición comercial de Sales, representative. Modalidad: Remoto Global compatible."
     },
     {
         "empresa": "Credit Wellness, LLC",
