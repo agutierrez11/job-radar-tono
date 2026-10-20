@@ -1,19 +1,27 @@
 [
     {
+        "empresa": "Toptal",
+        "puesto": "Enterprise Sales Executive, AI Solutions",
+        "ubicacion": "LATAM,  Canada,  Europe",
+        "url": "https://jobicy.com/jobs/155914-enterprise-sales-executive-ai-solutions",
+        "match_score": 0.8,
+        "justificacion": "Rol: Posición comercial de Sales. Ubicación ideal: LATAM,  Canada,  Europe."
+    },
+    {
+        "empresa": "Toptal",
+        "puesto": "Manager, SMB Sales",
+        "ubicacion": "EMEA,  LATAM,  Canada",
+        "url": "https://jobicy.com/jobs/155916-manager-smb-sales",
+        "match_score": 0.8,
+        "justificacion": "Rol: Posición comercial de Sales, manager. Ubicación ideal: EMEA,  LATAM,  Canada."
+    },
+    {
         "empresa": "Cloudbeds",
         "puesto": "Hypercare Representative (LATAM)",
         "ubicacion": "LATAM",
         "url": "https://jobicy.com/jobs/155794-hypercare-representative-latam-2",
         "match_score": 0.8,
         "justificacion": "Rol: Posición comercial de Representative. Ubicación ideal: LATAM."
-    },
-    {
-        "empresa": "Samsara",
-        "puesto": "Account Executive, Commercial - Mexico",
-        "ubicacion": "Mexico",
-        "url": "https://jobicy.com/jobs/152470-account-executive-commercial-mexico",
-        "match_score": 0.8,
-        "justificacion": "Rol: Posición comercial de Account. Ubicación ideal: Mexico."
     },
     {
         "empresa": "Credit Wellness, LLC",
