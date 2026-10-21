@@ -1,27 +1,35 @@
 [
     {
         "empresa": "Toptal",
-        "puesto": "Enterprise Sales Executive, AI Solutions",
-        "ubicacion": "LATAM,  Canada,  Europe",
-        "url": "https://jobicy.com/jobs/155914-enterprise-sales-executive-ai-solutions",
+        "puesto": "Account Executive",
+        "ubicacion": "LATAM,  Canada,  USA",
+        "url": "https://jobicy.com/jobs/153739-account-executive-21",
         "match_score": 0.8,
-        "justificacion": "Rol: Posición comercial de Sales. Ubicación ideal: LATAM,  Canada,  Europe."
+        "justificacion": "Rol: Posición comercial de Account. Ubicación ideal: LATAM,  Canada,  USA."
     },
     {
-        "empresa": "Toptal",
-        "puesto": "Manager, SMB Sales",
-        "ubicacion": "EMEA,  LATAM,  Canada",
-        "url": "https://jobicy.com/jobs/155916-manager-smb-sales",
+        "empresa": "RevenueCat",
+        "puesto": "Head of Sales",
+        "ubicacion": "EMEA,  LATAM,  Canada,  USA",
+        "url": "https://jobicy.com/jobs/156020-head-of-sales-2",
         "match_score": 0.8,
-        "justificacion": "Rol: Posición comercial de Sales, manager. Ubicación ideal: EMEA,  LATAM,  Canada."
+        "justificacion": "Rol: Posición comercial de Sales. Ubicación ideal: EMEA,  LATAM,  Canada,  USA."
     },
     {
-        "empresa": "Cloudbeds",
-        "puesto": "Hypercare Representative (LATAM)",
+        "empresa": "RevenueCat",
+        "puesto": "Head of Customer Growth",
+        "ubicacion": "EMEA,  LATAM,  Canada,  USA",
+        "url": "https://jobicy.com/jobs/156023-head-of-customer-growth",
+        "match_score": 0.8,
+        "justificacion": "Rol: Posición comercial de Growth. Ubicación ideal: EMEA,  LATAM,  Canada,  USA."
+    },
+    {
+        "empresa": "Superside",
+        "puesto": "Enterprise Business Development Representative",
         "ubicacion": "LATAM",
-        "url": "https://jobicy.com/jobs/155794-hypercare-representative-latam-2",
-        "match_score": 0.8,
-        "justificacion": "Rol: Posición comercial de Representative. Ubicación ideal: LATAM."
+        "url": "https://jobicy.com/jobs/156083-enterprise-business-development-representative",
+        "match_score": 0.7,
+        "justificacion": "Rol: Posición comercial de Business development, representative. Ubicación ideal: LATAM."
     },
     {
         "empresa": "Credit Wellness, LLC",
