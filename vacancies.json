@@ -1,59 +1,27 @@
 [
     {
-        "empresa": "Canonical",
-        "puesto": "Cloud Alliances Business Development Lead",
-        "ubicacion": "LATAM,  Canada,  USA",
-        "url": "https://jobicy.com/jobs/156675-cloud-alliances-business-development-lead",
-        "match_score": 0.8,
-        "justificacion": "Rol: Posición comercial de Business development, lead. Ubicación ideal: LATAM,  Canada,  USA."
-    },
-    {
-        "empresa": "Palmstreet",
-        "puesto": "Business Development Representative, Mexico",
+        "empresa": "Samsara",
+        "puesto": "Mid-Market Account Executive - Mexico",
         "ubicacion": "Mexico",
-        "url": "https://jobicy.com/jobs/156617-business-development-representative-mexico-2",
+        "url": "https://jobicy.com/jobs/156801-mid-market-account-executive-mexico",
         "match_score": 0.8,
-        "justificacion": "Rol: Posición comercial de Business development, representative. Ubicación ideal: Mexico."
+        "justificacion": "Rol: Posición comercial de Account. Ubicación ideal: Mexico."
     },
     {
-        "empresa": "Canonical",
-        "puesto": "Graduate Sales Development Representative",
-        "ubicacion": "Anywhere",
-        "url": "https://jobicy.com/jobs/149555-graduate-sales-development-representative",
-        "match_score": 0.55,
-        "justificacion": "Rol: Posición comercial de Sales, representative. Modalidad: Remoto Global compatible."
+        "empresa": "Housecall Pro",
+        "puesto": "Account Manager (Remote - Mexico)",
+        "ubicacion": "Mexico",
+        "url": "https://jobicy.com/jobs/154041-account-manager-remote-mexico",
+        "match_score": 0.7,
+        "justificacion": "Rol: Posición comercial de Account, manager. Ubicación ideal: Mexico."
     },
     {
-        "empresa": "Canonical",
-        "puesto": "Senior Partner Sales Manager - Global System Integrator (GSI)",
-        "ubicacion": "Anywhere",
-        "url": "https://jobicy.com/jobs/149525-senior-partner-sales-manager-global-system-integrator-gsi",
-        "match_score": 0.55,
-        "justificacion": "Rol: Posición comercial de Sales, partner. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "Canonical",
-        "puesto": "Partner Sales Director - Global System Integrator (GSI)",
-        "ubicacion": "Anywhere",
-        "url": "https://jobicy.com/jobs/149529-partner-sales-director-global-system-integrator-gsi",
-        "match_score": 0.55,
-        "justificacion": "Rol: Posición comercial de Sales, partner. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "Canonical",
-        "puesto": "Embedded Devices Software Solution Sales - All Roles",
-        "ubicacion": "Anywhere",
-        "url": "https://jobicy.com/jobs/149539-embedded-devices-software-solution-sales-all-roles",
-        "match_score": 0.55,
-        "justificacion": "Rol: Posición comercial de Sales. Modalidad: Remoto Global compatible."
-    },
-    {
-        "empresa": "Canonical",
-        "puesto": "Enterprise Account Executive",
-        "ubicacion": "Anywhere",
-        "url": "https://jobicy.com/jobs/149530-enterprise-account-executive",
-        "match_score": 0.45,
-        "justificacion": "Sector: Coincide con tu experiencia en POS. Rol: Posición comercial de Account. Modalidad: Remoto Global compatible."
+        "empresa": "Veriff",
+        "puesto": "Senior Account Manager",
+        "ubicacion": "LATAM,  Canada,  USA",
+        "url": "https://jobicy.com/jobs/156799-senior-account-manager",
+        "match_score": 0.7,
+        "justificacion": "Rol: Posición comercial de Account, manager. Ubicación ideal: LATAM,  Canada,  USA."
     },
     {
         "empresa": "Credit Wellness, LLC",
