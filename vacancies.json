@@ -1,18 +1,18 @@
 [
     {
-        "empresa": "Nextiva",
-        "puesto": "Inside Sales Representative (Customer Expansion)",
-        "ubicacion": "Mexico",
-        "url": "https://jobicy.com/jobs/159666-inside-sales-representative-customer-expansion-2",
+        "empresa": "Clipboard",
+        "puesto": "Billing Representative",
+        "ubicacion": "APAC,  LATAM,  Romania",
+        "url": "https://jobicy.com/jobs/160203-billing-representative",
         "match_score": 0.7,
-        "justificacion": "Rol: Posición comercial de Sales, representative. Ubicación ideal: Mexico."
+        "justificacion": "Sector: Coincide con tu experiencia en CLIP, POS. Rol: Posición comercial de Representative. Ubicación ideal: APAC,  LATAM,  Romania."
     },
     {
-        "empresa": "Credit Wellness, LLC",
-        "puesto": "Inside Sales Contractor",
-        "ubicacion": "Worldwide",
-        "url": "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540",
-        "match_score": 0.4,
-        "justificacion": "Rol: Posición comercial de Sales. Modalidad: Remoto Global compatible."
+        "empresa": "Twilio",
+        "puesto": "Strategic Account Excecutive",
+        "ubicacion": "Mexico",
+        "url": "https://jobicy.com/jobs/159878-strategic-account-excecutive",
+        "match_score": 0.7,
+        "justificacion": "Rol: Posición comercial de Account. Ubicación ideal: Mexico."
     }
 ]
