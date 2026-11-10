@@ -1,18 +1,26 @@
 [
     {
-        "empresa": "Clipboard",
-        "puesto": "Billing Representative",
-        "ubicacion": "APAC,  LATAM,  Romania",
-        "url": "https://jobicy.com/jobs/160203-billing-representative",
-        "match_score": 0.7,
-        "justificacion": "Sector: Coincide con tu experiencia en CLIP, POS. Rol: Posición comercial de Representative. Ubicación ideal: APAC,  LATAM,  Romania."
+        "empresa": "Samsara",
+        "puesto": "Manager, Inside Sales",
+        "ubicacion": "Mexico",
+        "url": "https://jobicy.com/jobs/160795-manager-inside-sales",
+        "match_score": 0.8,
+        "justificacion": "Rol: Posición comercial de Sales, manager. Ubicación ideal: Mexico."
     },
     {
-        "empresa": "Twilio",
-        "puesto": "Strategic Account Excecutive",
-        "ubicacion": "Mexico",
-        "url": "https://jobicy.com/jobs/159878-strategic-account-excecutive",
+        "empresa": "Canonical",
+        "puesto": "LATAM Enterprise Account Executive - Spanish speaker",
+        "ubicacion": "LATAM",
+        "url": "https://jobicy.com/jobs/161102-latam-enterprise-account-executive-spanish-speaker",
         "match_score": 0.7,
-        "justificacion": "Rol: Posición comercial de Account. Ubicación ideal: Mexico."
+        "justificacion": "Rol: Posición comercial de Account. Ubicación ideal: LATAM."
+    },
+    {
+        "empresa": "Credit Wellness, LLC",
+        "puesto": "Inside Sales Contractor",
+        "ubicacion": "Worldwide",
+        "url": "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540",
+        "match_score": 0.4,
+        "justificacion": "Rol: Posición comercial de Sales. Modalidad: Remoto Global compatible."
     }
 ]
