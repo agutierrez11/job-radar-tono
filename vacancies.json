@@ -1,11 +1,43 @@
 [
     {
-        "empresa": "Samsara",
-        "puesto": "Manager, Inside Sales",
-        "ubicacion": "Mexico",
-        "url": "https://jobicy.com/jobs/160795-manager-inside-sales",
+        "empresa": "Binance",
+        "puesto": "VIP & Institutional Sales Manager",
+        "ubicacion": "Brazil,  Mexico,  UK",
+        "url": "https://jobicy.com/jobs/161217-vip-institutional-sales-manager",
+        "match_score": 1.0,
+        "justificacion": "Sector: Coincide con tu experiencia en CRYPTO, BLOCKCHAIN. Rol: Posición comercial de Sales, manager. Ubicación ideal: Brazil,  Mexico,  UK."
+    },
+    {
+        "empresa": "Tremendous",
+        "puesto": "Sales Development Representative, Outbound",
+        "ubicacion": "LATAM,  USA",
+        "url": "https://jobicy.com/jobs/152861-sales-development-representative-outbound",
         "match_score": 0.8,
-        "justificacion": "Rol: Posición comercial de Sales, manager. Ubicación ideal: Mexico."
+        "justificacion": "Rol: Posición comercial de Sales, representative. Ubicación ideal: LATAM,  USA."
+    },
+    {
+        "empresa": "Canonical",
+        "puesto": "Sales Development Representative (Spanish & Portuguese Speaker)",
+        "ubicacion": "LATAM,  Canada,  USA",
+        "url": "https://jobicy.com/jobs/161189-sales-development-representative-spanish-portuguese-speaker",
+        "match_score": 0.8,
+        "justificacion": "Rol: Posición comercial de Sales, representative. Ubicación ideal: LATAM,  Canada,  USA."
+    },
+    {
+        "empresa": "Canonical",
+        "puesto": "Sales Development Representative",
+        "ubicacion": "LATAM,  Canada,  USA",
+        "url": "https://jobicy.com/jobs/161188-sales-development-representative-16",
+        "match_score": 0.8,
+        "justificacion": "Rol: Posición comercial de Sales, representative. Ubicación ideal: LATAM,  Canada,  USA."
+    },
+    {
+        "empresa": "Canonical",
+        "puesto": "Renewals Sales Manager, Americas",
+        "ubicacion": "LATAM,  Canada,  USA",
+        "url": "https://jobicy.com/jobs/161187-renewals-sales-manager-americas",
+        "match_score": 0.8,
+        "justificacion": "Rol: Posición comercial de Sales, manager. Ubicación ideal: LATAM,  Canada,  USA."
     },
     {
         "empresa": "Canonical",
