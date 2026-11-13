@@ -1,19 +1,51 @@
 [
     {
-        "empresa": "Canonical",
-        "puesto": "Partner Sales Manager - Dell",
-        "ubicacion": "APAC,  LATAM,  Canada,  USA",
-        "url": "https://jobicy.com/jobs/150367-partner-sales-manager-dell",
+        "empresa": "Toptal",
+        "puesto": "Enterprise Sales Executive, AI Solutions",
+        "ubicacion": "LATAM,  Canada,  Europe",
+        "url": "https://jobicy.com/jobs/161750-enterprise-sales-executive-ai-solutions-2",
         "match_score": 0.8,
-        "justificacion": "Rol: Posición comercial de Sales, partner. Ubicación ideal: APAC,  LATAM,  Canada,  USA."
+        "justificacion": "Rol: Posición comercial de Sales. Ubicación ideal: LATAM,  Canada,  Europe."
     },
     {
-        "empresa": "Garner Health",
-        "puesto": "Enterprise Sales VP, Labor and Trust",
+        "empresa": "Horizon3.ai",
+        "puesto": "Mid-Enterprise Account Executive, Mexico City",
+        "ubicacion": "Mexico",
+        "url": "https://jobicy.com/jobs/161939-mid-enterprise-account-executive-mexico-city",
+        "match_score": 0.7,
+        "justificacion": "Rol: Posición comercial de Account. Ubicación ideal: Mexico."
+    },
+    {
+        "empresa": "Nextiva",
+        "puesto": "Junior Expansion Account Executive",
+        "ubicacion": "Mexico",
+        "url": "https://jobicy.com/jobs/161895-junior-expansion-account-executive",
+        "match_score": 0.7,
+        "justificacion": "Rol: Posición comercial de Account. Ubicación ideal: Mexico."
+    },
+    {
+        "empresa": "Acceleration Partners",
+        "puesto": "Partner Growth Manager (LATAM)",
+        "ubicacion": "Mexico",
+        "url": "https://jobicy.com/jobs/155188-partner-growth-manager-latam",
+        "match_score": 0.7,
+        "justificacion": "Sector: Coincide con tu experiencia en POS. Rol: Posición comercial de Growth, partner. Ubicación ideal: Mexico."
+    },
+    {
+        "empresa": "Canonical",
+        "puesto": "Regional BDR Team Manager",
         "ubicacion": "Anywhere",
-        "url": "https://jobicy.com/jobs/150397-enterprise-sales-vp-labor-and-trust",
-        "match_score": 0.45,
-        "justificacion": "Rol: Posición comercial de Sales. Modalidad: Remoto Global compatible."
+        "url": "https://jobicy.com/jobs/161694-regional-bdr-team-manager",
+        "match_score": 0.55,
+        "justificacion": "Rol: Posición comercial de Bd, bdr. Modalidad: Remoto Global compatible."
+    },
+    {
+        "empresa": "Canonical",
+        "puesto": "Partner Sales Manager - IHV Alliances",
+        "ubicacion": "Anywhere",
+        "url": "https://jobicy.com/jobs/161692-partner-sales-manager-ihv-alliances",
+        "match_score": 0.55,
+        "justificacion": "Rol: Posición comercial de Sales, partner. Modalidad: Remoto Global compatible."
     },
     {
         "empresa": "Credit Wellness, LLC",
