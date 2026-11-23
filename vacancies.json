@@ -1,5 +1,21 @@
 [
     {
+        "empresa": "RevenueCat",
+        "puesto": "Head of Sales",
+        "ubicacion": "EMEA,  LATAM,  Canada,  USA",
+        "url": "https://jobicy.com/jobs/156020-head-of-sales-2",
+        "match_score": 0.8,
+        "justificacion": "Rol: Posición comercial de Sales. Ubicación ideal: EMEA,  LATAM,  Canada,  USA."
+    },
+    {
+        "empresa": "FreeBalance",
+        "puesto": "Regional Sales Account Manager",
+        "ubicacion": "LATAM,  USA",
+        "url": "https://jobicy.com/jobs/163363-regional-sales-account-manager",
+        "match_score": 0.7,
+        "justificacion": "Rol: Posición comercial de Sales, account. Ubicación ideal: LATAM,  USA."
+    },
+    {
         "empresa": "Credit Wellness, LLC",
         "puesto": "Inside Sales Contractor",
         "ubicacion": "Worldwide",
